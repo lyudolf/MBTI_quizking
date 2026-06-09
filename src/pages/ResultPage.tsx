@@ -59,7 +59,6 @@ export default function ResultPage() {
   const [newTitle, setNewTitle] = useState<typeof titlesData[number] | null>(null);
   const [xpAdded, setXpAdded] = useState(false);
   const [xpDoubled, setXpDoubled] = useState(false);
-  const [showShareToast, setShowShareToast] = useState(false);
 
   const state = location.state as LocationState | undefined;
 
@@ -117,17 +116,6 @@ export default function ResultPage() {
 
   const wrongCount = results.filter((r) => !r.correct).length;
   const catInfo = CATEGORIES[category];
-
-  const handleShare = async () => {
-    const text = `🧠 MBTI 퀴즈왕\n📋 ${catInfo.name}\n✅ ${correctCount}/${totalQuestions} (정답률 ${accuracy}%)\n⭐ +${totalXP} XP\n\n지금 도전해보세요!`;
-    try {
-      await navigator.clipboard.writeText(text);
-      setShowShareToast(true);
-      setTimeout(() => setShowShareToast(false), 2000);
-    } catch {
-      // clipboard not available
-    }
-  };
 
   return (
     <div className="page">
@@ -277,9 +265,6 @@ export default function ResultPage() {
         >
           🔄 다시 도전 (🎟️ 1장)
         </button>
-        <button className="btn btn-secondary btn-lg" onClick={handleShare}>
-          📤 결과 공유
-        </button>
         <button
           className="btn btn-secondary btn-lg"
           onClick={() => navigate('/home', { replace: true })}
@@ -287,19 +272,6 @@ export default function ResultPage() {
           🏠 홈으로
         </button>
       </div>
-
-      {/* Share Toast */}
-      {showShareToast && (
-        <div style={{
-          position: 'fixed', bottom: '100px', left: '50%', transform: 'translateX(-50%)',
-          background: 'var(--color-text)', color: 'white', padding: '10px 20px',
-          borderRadius: 'var(--radius-md)', fontSize: '14px', fontWeight: 600,
-          animation: 'slideUp var(--transition-fast)',
-          zIndex: 1001,
-        }}>
-          📋 클립보드에 복사되었어요
-        </div>
-      )}
 
       {/* Title Unlock Modal */}
       {showTitleModal && newTitle && (
