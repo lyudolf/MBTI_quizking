@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "cul_001",
+    "category": "culture",
+    "question": "방탄소년단(BTS)이 빌보드 핫 100 1위를 처음 달성한 곡은?",
+    "options": ["Butter", "Dynamite", "Boy With Luv", "Life Goes On"],
+    "answer": 1,
+    "explanation": "BTS는 2020년 'Dynamite'로 한국 가수 최초로 빌보드 핫 100 1위를 달성했습니다."
+  },
+  {
+    "id": "cul_002",
+    "category": "culture",
+    "question": "영화 '기생충'이 아카데미 작품상을 수상한 연도는?",
+    "options": ["2018년", "2019년", "2020년", "2021년"],
+    "answer": 2,
+    "explanation": "봉준호 감독의 '기생충'은 2020년 제92회 아카데미 시상식에서 작품상을 수상했습니다."
+  },
+  {
+    "id": "cul_003",
+    "category": "culture",
+    "question": "넷플릭스 오리지널 시리즈 '오징어 게임'에서 참가자들이 첫 번째로 하는 게임은?",
+    "options": ["줄다리기", "구슬치기", "무궁화 꽃이 피었습니다", "달고나 뽑기"],
+    "answer": 2,
+    "explanation": "'오징어 게임'의 첫 번째 게임은 '무궁화 꽃이 피었습니다'로, 움직이면 탈락하는 룰입니다."
+  },
+  {
+    "id": "cul_004",
+    "category": "culture",
+    "question": "K-pop 그룹 블랙핑크의 멤버가 아닌 사람은?",
+    "options": ["제니", "리사", "로제", "아이린"],
+    "answer": 3,
+    "explanation": "아이린은 레드벨벳의 멤버이며, 블랙핑크는 지수, 제니, 로제, 리사로 구성되어 있습니다."
+  },
+  {
+    "id": "cul_005",
+    "category": "culture",
+    "question": "한국 드라마 '도깨비'에서 도깨비 역을 맡은 배우는?",
+    "options": ["이민호", "공유", "현빈", "송중기"],
+    "answer": 1,
+    "explanation": "공유는 2016년 tvN 드라마 '쓸쓸하고 찬란하神-도깨비'에서 주인공 도깨비 역을 맡았습니다."
+  },
+  {
+    "id": "cul_006",
+    "category": "culture",
+    "question": "유튜브에서 가장 많은 조회수를 기록한 K-pop 뮤직비디오(2025년 기준)는?",
+    "options": ["BTS - Dynamite", "BLACKPINK - DDU-DU DDU-DU", "PSY - 강남스타일", "BLACKPINK - How You Like That"],
+    "answer": 2,
+    "explanation": "싸이의 '강남스타일'은 50억 뷰 이상을 기록하며 K-pop 뮤직비디오 중 최다 조회수를 보유하고 있습니다."
+  },
+  {
+    "id": "cul_007",
+    "category": "culture",
+    "question": "일본 애니메이션 '귀멸의 칼날'의 주인공 이름은?",
+    "options": ["카마도 탄지로", "이타다키 젠이츠", "토미오카 기유", "하시비라 이노스케"],
+    "answer": 0,
+    "explanation": "카마도 탄지로는 가족을 잃고 귀신이 된 여동생을 되돌리기 위해 귀살대에 입대하는 주인공입니다."
+  },
+  {
+    "id": "cul_008",
+    "category": "culture",
+    "question": "아카데미 시상식(오스카)에서 최다 작품상을 수상한 영화 장르는?",
+    "options": ["SF", "코미디", "드라마", "뮤지컬"],
+    "answer": 2,
+    "explanation": "드라마 장르는 아카데미 역사상 가장 많은 작품상을 수상한 장르입니다."
+  },
+  {
+    "id": "cul_009",
+    "category": "culture",
+    "question": "한국 웹툰 플랫폼 '네이버 웹툰'에서 연재된 '나 혼자만 레벨업'의 주인공 이름은?",
+    "options": ["성진우", "차해인", "김독자", "유중혁"],
+    "answer": 0,
+    "explanation": "'나 혼자만 레벨업'의 주인공 성진우는 E급 헌터에서 시작하여 최강의 헌터로 성장합니다."
+  },
+  {
+    "id": "cul_010",
+    "category": "culture",
+    "question": "그래미 어워드에서 '올해의 레코드' 부문을 가장 많이 수상한 아티스트는?",
+    "options": ["비욘세", "폴 사이먼", "U2", "여러 아티스트 공동(3회)"],
+    "answer": 3,
+    "explanation": "폴 사이먼, U2 등 여러 아티스트가 3회로 공동 최다 수상 기록을 보유하고 있습니다."
+  },
+  {
+    "id": "cul_011",
+    "category": "culture",
+    "question": "드라마 '사랑의 불시착'의 배경이 되는 두 나라는?",
+    "options": ["한국과 일본", "한국과 중국", "남한과 북한", "한국과 미국"],
+    "answer": 2,
+    "explanation": "'사랑의 불시착'은 패러글라이딩 사고로 북한에 불시착한 남한 재벌 상속녀와 북한 장교의 로맨스를 다룹니다."
+  },
+  {
+    "id": "cul_012",
+    "category": "culture",
+    "question": "마블 시네마틱 유니버스(MCU)에서 타노스가 인피니티 스톤을 모두 모으는 영화는?",
+    "options": ["어벤져스: 에이지 오브 울트론", "어벤져스: 인피니티 워", "어벤져스: 엔드게임", "가디언즈 오브 갤럭시"],
+    "answer": 1,
+    "explanation": "타노스는 '어벤져스: 인피니티 워'(2018)에서 6개의 인피니티 스톤을 모두 모았습니다."
+  },
+  {
+    "id": "cul_013",
+    "category": "culture",
+    "question": "한국 예능 프로그램 '무한도전'의 마지막 방송 연도는?",
+    "options": ["2016년", "2017년", "2018년", "2019년"],
+    "answer": 2,
+    "explanation": "MBC '무한도전'은 2018년 3월 31일에 마지막 방송을 진행했습니다."
+  },
+  {
+    "id": "cul_014",
+    "category": "culture",
+    "question": "웹툰 '신의 탑'의 주인공 이름은?",
+    "options": ["스물다섯번째 밤", "쿤 아게로 아그니스", "라크 레크레이셔", "전지별"],
+    "answer": 0,
+    "explanation": "'신의 탑'의 주인공은 '스물다섯번째 밤(밤)'으로, 라헬을 따라 탑에 진입합니다."
+  },
+  {
+    "id": "cul_015",
+    "category": "culture",
+    "question": "영화 '겨울왕국'의 'Let It Go'를 부른 가수는?",
+    "options": ["아리아나 그란데", "이디나 멘젤", "테일러 스위프트", "아델"],
+    "answer": 1,
+    "explanation": "이디나 멘젤은 엘사 역의 성우 겸 가수로 'Let It Go'를 불렀습니다."
+  },
+  {
+    "id": "cul_016",
+    "category": "culture",
+    "question": "한국 힙합 서바이벌 프로그램 '쇼미더머니'를 처음 방영한 방송사는?",
+    "options": ["SBS", "MBC", "KBS", "Mnet"],
+    "answer": 3,
+    "explanation": "'쇼미더머니'는 Mnet에서 2012년부터 방영된 힙합 서바이벌 프로그램입니다."
+  },
+  {
+    "id": "cul_017",
+    "category": "culture",
+    "question": "세계적으로 가장 많이 팔린 비디오 게임은?",
+    "options": ["테트리스", "마인크래프트", "GTA V", "Wii 스포츠"],
+    "answer": 1,
+    "explanation": "마인크래프트는 3억 장 이상 판매되며 역대 최다 판매 비디오 게임 기록을 보유하고 있습니다."
+  },
+  {
+    "id": "cul_018",
+    "category": "culture",
+    "question": "한국 드라마 '별에서 온 그대'에서 외계인 역을 맡은 배우는?",
+    "options": ["이종석", "김수현", "박서준", "이민호"],
+    "answer": 1,
+    "explanation": "김수현은 SBS 드라마 '별에서 온 그대'에서 400년간 지구에 사는 외계인 '도민준' 역을 맡았습니다."
+  },
+  {
+    "id": "cul_019",
+    "category": "culture",
+    "question": "일본 애니메이션 '원피스'에서 루피가 먹은 악마의 열매는?",
+    "options": ["불불 열매", "고무고무 열매", "어둠어둠 열매", "번쩍번쩍 열매"],
+    "answer": 1,
+    "explanation": "루피는 고무고무 열매(후에 히토히토 열매 모델 니카로 밝혀짐)를 먹어 몸이 고무처럼 늘어납니다."
+  },
+  {
+    "id": "cul_020",
+    "category": "culture",
+    "question": "넷플릭스 시리즈 '기묘한 이야기'(Stranger Things)의 배경이 되는 가상의 마을은?",
+    "options": ["리버데일", "호킨스", "데리", "캐슬 록"],
+    "answer": 1,
+    "explanation": "'기묘한 이야기'는 인디애나주의 가상의 소도시 '호킨스'를 배경으로 합니다."
+  },
+  {
+    "id": "cul_021",
+    "category": "culture",
+    "question": "K-pop 그룹 EXO의 데뷔 연도는?",
+    "options": ["2010년", "2011년", "2012년", "2013년"],
+    "answer": 2,
+    "explanation": "EXO는 2012년 SM엔터테인먼트에서 데뷔한 그룹으로, EXO-K와 EXO-M으로 나뉘어 활동했습니다."
+  },
+  {
+    "id": "cul_022",
+    "category": "culture",
+    "question": "봉준호 감독의 영화가 아닌 것은?",
+    "options": ["마더", "괴물", "올드보이", "설국열차"],
+    "answer": 2,
+    "explanation": "'올드보이'는 박찬욱 감독의 작품입니다. 봉준호 감독의 대표작에는 '괴물', '기생충' 등이 있습니다."
+  },
+  {
+    "id": "cul_023",
+    "category": "culture",
+    "question": "틱톡(TikTok)의 모회사 이름은?",
+    "options": ["텐센트", "알리바바", "바이트댄스", "화웨이"],
+    "answer": 2,
+    "explanation": "틱톡은 중국 IT 기업 바이트댄스(ByteDance)가 개발한 숏폼 동영상 플랫폼입니다."
+  },
+  {
+    "id": "cul_024",
+    "category": "culture",
+    "question": "영화 '해리 포터' 시리즈에서 호그와트의 기숙사가 아닌 것은?",
+    "options": ["그리핀도르", "슬리데린", "듀름스트랭", "래번클로"],
+    "answer": 2,
+    "explanation": "듀름스트랭은 호그와트의 기숙사가 아니라 별도의 마법 학교입니다."
+  },
+  {
+    "id": "cul_025",
+    "category": "culture",
+    "question": "한국에서 '치맥'이라는 조합이 세계적으로 유명해지는 데 기여한 드라마는?",
+    "options": ["태양의 후예", "별에서 온 그대", "사랑의 불시착", "이태원 클라쓰"],
+    "answer": 1,
+    "explanation": "'별에서 온 그대'에서 전지현이 치맥(치킨+맥주)을 즐기는 장면이 중국 등 해외에서 큰 인기를 끌었습니다."
+  },
+  {
+    "id": "cul_026",
+    "category": "culture",
+    "question": "손흥민 선수가 소속된 프리미어리그 팀은?(2025년 기준)",
+    "options": ["맨체스터 유나이티드", "리버풀", "토트넘 핫스퍼", "첼시"],
+    "answer": 2,
+    "explanation": "손흥민은 2015년부터 토트넘 핫스퍼에서 뛰며 아시아 선수 최초로 프리미어리그 득점왕을 차지했습니다."
+  },
+  {
+    "id": "cul_027",
+    "category": "culture",
+    "question": "스튜디오 지브리의 대표작 '센과 치히로의 행방불명'의 감독은?",
+    "options": ["신카이 마코토", "미야자키 하야오", "호소다 마모루", "오시이 마모루"],
+    "answer": 1,
+    "explanation": "미야자키 하야오 감독의 '센과 치히로의 행방불명'은 2001년 개봉하여 아카데미 장편 애니메이션상을 수상했습니다."
+  },
+  {
+    "id": "cul_028",
+    "category": "culture",
+    "question": "한국 예능 프로그램 '런닝맨'이 처음 방영된 연도는?",
+    "options": ["2009년", "2010년", "2011년", "2012년"],
+    "answer": 1,
+    "explanation": "SBS '런닝맨'은 2010년 7월 11일에 첫 방송을 시작했습니다."
+  },
+  {
+    "id": "cul_029",
+    "category": "culture",
+    "question": "영화 '인터스텔라'의 감독은?",
+    "options": ["리들리 스콧", "크리스토퍼 놀란", "스티븐 스필버그", "제임스 카메론"],
+    "answer": 1,
+    "explanation": "크리스토퍼 놀란 감독의 '인터스텔라'(2014)는 블랙홀과 시간 왜곡을 소재로 한 SF 영화입니다."
+  },
+  {
+    "id": "cul_030",
+    "category": "culture",
+    "question": "K-pop 그룹 뉴진스(NewJeans)의 소속사는?",
+    "options": ["SM엔터테인먼트", "JYP엔터테인먼트", "어도어(ADOR)", "YG엔터테인먼트"],
+    "answer": 2,
+    "explanation": "뉴진스는 하이브 산하 레이블 어도어(ADOR) 소속으로 2022년 데뷔했습니다."
+  },
+  {
+    "id": "cul_031",
+    "category": "culture",
+    "question": "드라마 '미스터 션샤인'의 시대적 배경은?",
+    "options": ["삼국시대", "고려시대", "조선 말기(구한말)", "일제강점기"],
+    "answer": 2,
+    "explanation": "'미스터 션샤인'은 1900년대 초 구한말을 배경으로 의병 활동과 로맨스를 그린 드라마입니다."
+  },
+  {
+    "id": "cul_032",
+    "category": "culture",
+    "question": "FIFA 월드컵에서 한국이 4강에 진출한 대회는?",
+    "options": ["1998년 프랑스 월드컵", "2002년 한일 월드컵", "2006년 독일 월드컵", "2010년 남아공 월드컵"],
+    "answer": 1,
+    "explanation": "한국은 2002년 한일 월드컵에서 히딩크 감독의 지도 아래 아시아 최초로 4강에 진출했습니다."
+  },
+  {
+    "id": "cul_033",
+    "category": "culture",
+    "question": "웹툰 '외모지상주의'의 작가는?",
+    "options": ["박태준", "기안84", "이말년", "조석"],
+    "answer": 0,
+    "explanation": "박태준 작가의 '외모지상주의'는 네이버 웹툰에서 연재된 인기 웹툰입니다."
+  },
+  {
+    "id": "cul_034",
+    "category": "culture",
+    "question": "영화 '어벤져스: 엔드게임'에서 타노스를 최종적으로 물리친 캐릭터는?",
+    "options": ["토르", "캡틴 아메리카", "아이언맨", "캡틴 마블"],
+    "answer": 2,
+    "explanation": "아이언맨(토니 스타크)이 인피니티 스톤을 사용해 타노스와 그의 군대를 소멸시켰습니다."
+  },
+  {
+    "id": "cul_035",
+    "category": "culture",
+    "question": "한국 가수 아이유(IU)의 본명은?",
+    "options": ["이지금", "이지은", "이지영", "이지민"],
+    "answer": 1,
+    "explanation": "아이유의 본명은 이지은이며, 2008년 데뷔하여 '국민 여동생'이라는 별명을 얻었습니다."
+  },
+  {
+    "id": "cul_036",
+    "category": "culture",
+    "question": "디즈니 애니메이션 '라이온 킹'에서 주인공 심바의 아버지 이름은?",
+    "options": ["스카", "라피키", "무파사", "자주"],
+    "answer": 2,
+    "explanation": "무파사는 프라이드 랜드의 왕이자 심바의 아버지로, 동생 스카의 배신으로 목숨을 잃습니다."
+  },
+  {
+    "id": "cul_037",
+    "category": "culture",
+    "question": "'나는 솔로' 프로그램의 방영 채널은?",
+    "options": ["SBS", "KBS", "ENA", "tvN"],
+    "answer": 2,
+    "explanation": "'나는 솔로'는 ENA 채널에서 방영되는 비연예인 출연 연애 리얼리티 프로그램입니다."
+  },
+  {
+    "id": "cul_038",
+    "category": "culture",
+    "question": "영화 '타이타닉'에서 잭 도슨 역을 맡은 배우는?",
+    "options": ["브래드 피트", "톰 행크스", "레오나르도 디카프리오", "맷 데이먼"],
+    "answer": 2,
+    "explanation": "레오나르도 디카프리오는 제임스 카메론 감독의 '타이타닉'(1997)에서 잭 도슨 역을 맡았습니다."
+  },
+  {
+    "id": "cul_039",
+    "category": "culture",
+    "question": "K-pop 그룹 트와이스(TWICE)의 소속사는?",
+    "options": ["SM엔터테인먼트", "YG엔터테인먼트", "JYP엔터테인먼트", "하이브"],
+    "answer": 2,
+    "explanation": "트와이스는 JYP엔터테인먼트 소속으로 서바이벌 프로그램 '식스틴'을 통해 결성되었습니다."
+  },
+  {
+    "id": "cul_040",
+    "category": "culture",
+    "question": "영화 '반지의 제왕' 3부작을 연출한 감독은?",
+    "options": ["크리스토퍼 놀란", "피터 잭슨", "제임스 카메론", "리들리 스콧"],
+    "answer": 1,
+    "explanation": "피터 잭슨 감독은 J.R.R. 톨킨의 소설을 원작으로 한 '반지의 제왕' 3부작을 연출했습니다."
+  },
+  {
+    "id": "cul_041",
+    "category": "culture",
+    "question": "한국 프로야구(KBO) 리그의 팀 수는?(2025년 기준)",
+    "options": ["8개", "9개", "10개", "12개"],
+    "answer": 2,
+    "explanation": "KBO 리그는 10개 구단으로 구성되어 있습니다."
+  },
+  {
+    "id": "cul_042",
+    "category": "culture",
+    "question": "넷플릭스 드라마 '더 글로리'에서 주인공 문동은 역을 맡은 배우는?",
+    "options": ["전지현", "김고은", "송혜교", "한소희"],
+    "answer": 2,
+    "explanation": "송혜교는 '더 글로리'에서 학교 폭력 피해자 문동은 역으로 복수극을 펼쳤습니다."
+  },
+  {
+    "id": "cul_043",
+    "category": "culture",
+    "question": "일본 만화 '나루토'에서 주인공 나루토의 꿈은?",
+    "options": ["최강의 닌자", "호카게", "사스케 구출", "세계 평화"],
+    "answer": 1,
+    "explanation": "나루토의 꿈은 마을의 지도자인 '호카게'가 되어 모두에게 인정받는 것입니다."
+  },
+  {
+    "id": "cul_044",
+    "category": "culture",
+    "question": "한국에서 '밈(meme)'으로 유명한 '무야호'는 어떤 프로그램에서 유래했는가?",
+    "options": ["1박 2일", "무한도전", "런닝맨", "라디오스타"],
+    "answer": 1,
+    "explanation": "'무야호'는 MBC '무한도전'에서 정형돈이 번지점프를 하며 외친 대사에서 유래한 밈입니다."
+  },
+  {
+    "id": "cul_045",
+    "category": "culture",
+    "question": "2023년 아카데미 여우주연상을 수상한 배우는?",
+    "options": ["케이트 블란쳇", "양자경", "아나 데 아르마스", "미셸 여"],
+    "answer": 3,
+    "explanation": "미셸 여(양자경)는 '에브리씽 에브리웨어 올 앳 원스'로 아시아계 최초 아카데미 여우주연상을 수상했습니다."
+  },
+  {
+    "id": "cul_046",
+    "category": "culture",
+    "question": "K-pop에서 '음원 깡패'라는 별명을 가진 아티스트는?",
+    "options": ["BTS", "아이유", "블랙핑크", "악동뮤지션"],
+    "answer": 1,
+    "explanation": "아이유는 발매하는 곡마다 음원 차트 1위를 휩쓸어 '음원 깡패'라는 별명을 얻었습니다."
+  },
+  {
+    "id": "cul_047",
+    "category": "culture",
+    "question": "영화 '어바웃 타임'에서 주인공이 가진 특별한 능력은?",
+    "options": ["미래 예지", "시간 여행", "독심술", "투명화"],
+    "answer": 1,
+    "explanation": "주인공 팀은 과거로 시간 여행을 할 수 있는 가문의 능력을 가지고 있습니다."
+  },
+  {
+    "id": "cul_048",
+    "category": "culture",
+    "question": "한국 드라마 '응답하라' 시리즈 중 가장 먼저 방영된 작품은?",
+    "options": ["응답하라 1988", "응답하라 1994", "응답하라 1997", "응답하라 2002"],
+    "answer": 2,
+    "explanation": "'응답하라 1997'이 2012년에 tvN에서 처음 방영되었고, 이후 1994, 1988 순으로 제작되었습니다."
+  },
+  {
+    "id": "cul_049",
+    "category": "culture",
+    "question": "유튜브 크리에이터 '보겸'이 주로 다루는 콘텐츠 장르는?",
+    "options": ["먹방", "게임", "음악 커버", "브이로그"],
+    "answer": 1,
+    "explanation": "보겸은 게임 콘텐츠로 시작하여 다양한 장르로 확장한 한국의 대표적 유튜버입니다."
+  },
+  {
+    "id": "cul_050",
+    "category": "culture",
+    "question": "영화 '매트릭스'에서 주인공 네오 역을 맡은 배우는?",
+    "options": ["톰 크루즈", "윌 스미스", "키아누 리브스", "브루스 윌리스"],
+    "answer": 2,
+    "explanation": "키아누 리브스는 1999년 '매트릭스'에서 네오 역을 맡아 세계적인 스타가 되었습니다."
+  },
+  {
+    "id": "cul_051",
+    "category": "culture",
+    "question": "한국 걸그룹 역사상 최초로 데뷔한 그룹은?",
+    "options": ["S.E.S.", "핑클", "베이비복스", "걸스데이"],
+    "answer": 0,
+    "explanation": "S.E.S.는 1997년 SM엔터테인먼트에서 데뷔한 한국 최초의 걸그룹입니다."
+  },
+  {
+    "id": "cul_052",
+    "category": "culture",
+    "question": "웹툰 '전지적 독자 시점'에서 주인공 김독자가 읽은 소설의 제목은?",
+    "options": ["멸망 이후의 세계", "삼류 소설의 주인공", "멸망 3가지 방법", "영웅의 탄생"],
+    "answer": 2,
+    "explanation": "김독자는 '멸망 3가지 방법'이라는 웹소설의 유일한 독자로, 소설의 내용이 현실이 됩니다."
+  },
+  {
+    "id": "cul_053",
+    "category": "culture",
+    "question": "테일러 스위프트의 'Eras Tour'가 시작된 연도는?",
+    "options": ["2021년", "2022년", "2023년", "2024년"],
+    "answer": 2,
+    "explanation": "테일러 스위프트의 'The Eras Tour'는 2023년 3월에 시작되어 역대 최고 수익 투어가 되었습니다."
+  },
+  {
+    "id": "cul_054",
+    "category": "culture",
+    "question": "한국 드라마 '시그널'에서 과거와 현재를 연결하는 매개체는?",
+    "options": ["전화기", "무전기", "편지", "라디오"],
+    "answer": 1,
+    "explanation": "'시그널'에서는 과거 형사와 현재 프로파일러가 무전기를 통해 미제 사건을 해결합니다."
+  },
+  {
+    "id": "cul_055",
+    "category": "culture",
+    "question": "e스포츠 종목 '리그 오브 레전드(LoL)' 월드 챔피언십에서 가장 많이 우승한 팀은?",
+    "options": ["삼성 갤럭시(젠지)", "T1", "담원 기아", "G2"],
+    "answer": 1,
+    "explanation": "T1(구 SKT T1)은 페이커를 중심으로 LoL 월드 챔피언십 최다 우승 기록을 보유하고 있습니다."
+  },
+  {
+    "id": "cul_056",
+    "category": "culture",
+    "question": "영화 '조커'(2019)에서 조커 역을 맡은 배우는?",
+    "options": ["히스 레저", "잭 니콜슨", "호아킨 피닉스", "자레드 레토"],
+    "answer": 2,
+    "explanation": "호아킨 피닉스는 2019년 영화 '조커'에서 아서 플렉 역으로 아카데미 남우주연상을 수상했습니다."
+  },
+  {
+    "id": "cul_057",
+    "category": "culture",
+    "question": "BTS 멤버 중 가장 먼저 솔로 앨범을 발매한 멤버는?",
+    "options": ["정국", "지민", "제이홉", "뷔"],
+    "answer": 2,
+    "explanation": "제이홉은 2022년 솔로 앨범 'Jack In The Box'를 발매하며 BTS 멤버 중 첫 솔로 앨범을 냈습니다."
+  },
+  {
+    "id": "cul_058",
+    "category": "culture",
+    "question": "한국 영화 '올드보이'에서 주인공이 감금된 기간은?",
+    "options": ["10년", "15년", "20년", "25년"],
+    "answer": 1,
+    "explanation": "주인공 오대수는 이유도 모른 채 15년간 사설 감금 시설에 갇혀 있었습니다."
+  },
+  {
+    "id": "cul_059",
+    "category": "culture",
+    "question": "일본 애니메이션 '주술회전'의 주인공 이름은?",
+    "options": ["이타도리 유지", "후시구로 메구미", "고조 사토루", "쿠기사키 노바라"],
+    "answer": 0,
+    "explanation": "이타도리 유지는 스쿠나의 손가락을 삼킨 후 주술고등전문학교에 입학하는 주인공입니다."
+  },
+  {
+    "id": "cul_060",
+    "category": "culture",
+    "question": "한국 예능 '나 혼자 산다'의 방영 요일은?(2025년 기준)",
+    "options": ["월요일", "수요일", "금요일", "일요일"],
+    "answer": 2,
+    "explanation": "'나 혼자 산다'는 MBC에서 금요일에 방영되는 관찰 예능 프로그램입니다."
+  },
+  {
+    "id": "cul_061",
+    "category": "culture",
+    "question": "영화 '듄'(2021)의 원작 소설 작가는?",
+    "options": ["아이작 아시모프", "프랭크 허버트", "아서 C. 클라크", "필립 K. 딕"],
+    "answer": 1,
+    "explanation": "프랭크 허버트는 1965년 SF 소설 '듄'을 발표했으며, 드니 빌뇌브 감독이 영화화했습니다."
+  },
+  {
+    "id": "cul_062",
+    "category": "culture",
+    "question": "K-pop에서 '4세대 아이돌'에 해당하지 않는 그룹은?",
+    "options": ["에스파(aespa)", "스트레이 키즈", "BTS", "아이브(IVE)"],
+    "answer": 2,
+    "explanation": "BTS는 2013년 데뷔한 3세대 아이돌로 분류되며, 4세대는 2018년 이후 데뷔 그룹을 말합니다."
+  },
+  {
+    "id": "cul_063",
+    "category": "culture",
+    "question": "한국 드라마 '이태원 클라쓰'의 원작은?",
+    "options": ["소설", "웹툰", "영화", "연극"],
+    "answer": 1,
+    "explanation": "'이태원 클라쓰'는 조광진 작가의 동명 웹툰을 원작으로 한 JTBC 드라마입니다."
+  },
+  {
+    "id": "cul_064",
+    "category": "culture",
+    "question": "FIFA 월드컵 역대 최다 우승국은?",
+    "options": ["독일", "이탈리아", "브라질", "아르헨티나"],
+    "answer": 2,
+    "explanation": "브라질은 FIFA 월드컵에서 5회 우승(1958, 1962, 1970, 1994, 2002)으로 최다 우승 기록을 보유하고 있습니다."
+  },
+  {
+    "id": "cul_065",
+    "category": "culture",
+    "question": "드라마 '킹덤'의 독특한 소재 조합은?",
+    "options": ["SF + 로맨스", "조선시대 + 좀비", "현대 + 판타지", "고려시대 + 귀신"],
+    "answer": 1,
+    "explanation": "'킹덤'은 조선시대를 배경으로 좀비(역병)가 등장하는 독특한 사극 호러 드라마입니다."
+  },
+  {
+    "id": "cul_066",
+    "category": "culture",
+    "question": "스포티파이(Spotify)에서 가장 많이 스트리밍된 곡(2025년 기준)은?",
+    "options": ["Shape of You - Ed Sheeran", "Blinding Lights - The Weeknd", "Someone You Loved - Lewis Capaldi", "Dance Monkey - Tones and I"],
+    "answer": 1,
+    "explanation": "The Weeknd의 'Blinding Lights'는 스포티파이 역대 최다 스트리밍을 기록했습니다."
+  },
+  {
+    "id": "cul_067",
+    "category": "culture",
+    "question": "한국 웹툰 '여신강림'이 드라마화되었을 때 주연을 맡은 배우는?",
+    "options": ["김유정", "한소희", "문가영", "박은빈"],
+    "answer": 2,
+    "explanation": "문가영은 tvN 드라마 '여신강림'에서 메이크업으로 변신하는 주인공 주경 역을 맡았습니다."
+  },
+  {
+    "id": "cul_068",
+    "category": "culture",
+    "question": "'포켓몬스터' 시리즈에서 피카츄의 타입은?",
+    "options": ["노말", "전기", "페어리", "풀"],
+    "answer": 1,
+    "explanation": "피카츄는 전기 타입 포켓몬으로, 포켓몬스터 시리즈의 마스코트 캐릭터입니다."
+  },
+  {
+    "id": "cul_069",
+    "category": "culture",
+    "question": "한국에서 가장 높은 시청률을 기록한 드라마는?",
+    "options": ["허준", "대장금", "사랑이 뭐길래", "모래시계"],
+    "answer": 2,
+    "explanation": "'사랑이 뭐길래'는 1991-1992년 KBS에서 방영되며 최고 시청률 64.9%를 기록했습니다."
+  },
+  {
+    "id": "cul_070",
+    "category": "culture",
+    "question": "크리스토퍼 놀란 감독의 영화 '테넷'의 핵심 개념은?",
+    "options": ["시간 정지", "시간 역행(인버전)", "평행 우주", "시간 반복(루프)"],
+    "answer": 1,
+    "explanation": "'테넷'은 엔트로피를 역전시켜 시간을 거꾸로 흐르게 하는 '인버전' 개념을 핵심으로 합니다."
+  },
+  {
+    "id": "cul_071",
+    "category": "culture",
+    "question": "K-pop 보이그룹 세븐틴의 멤버 수는?",
+    "options": ["13명", "15명", "17명", "7명"],
+    "answer": 0,
+    "explanation": "세븐틴은 이름과 달리 13명의 멤버로 구성되어 있으며, 3개 유닛으로 나뉘어 활동합니다."
+  },
+  {
+    "id": "cul_072",
+    "category": "culture",
+    "question": "영화 '극한직업'의 장르는?",
+    "options": ["액션", "코미디", "범죄 코미디", "스릴러"],
+    "answer": 2,
+    "explanation": "'극한직업'(2019)은 마약반 형사들이 치킨집을 위장 창업하는 범죄 코미디 영화입니다."
+  },
+  {
+    "id": "cul_073",
+    "category": "culture",
+    "question": "유튜브에서 최초로 구독자 1억 명을 달성한 개인 크리에이터는?",
+    "options": ["MrBeast", "PewDiePie", "T-Series", "Cocomelon"],
+    "answer": 1,
+    "explanation": "PewDiePie(펠릭스 셸버그)는 개인 크리에이터로서 최초로 1억 구독자를 돌파했습니다."
+  },
+  {
+    "id": "cul_074",
+    "category": "culture",
+    "question": "한국 드라마 '스카이캐슬'의 주요 소재는?",
+    "options": ["범죄 수사", "입시 교육", "재벌 가문", "시간 여행"],
+    "answer": 1,
+    "explanation": "'SKY 캐슬'은 상류층 가정의 자녀 입시 교육에 대한 집착과 그로 인한 비극을 다룬 드라마입니다."
+  },
+  {
+    "id": "cul_075",
+    "category": "culture",
+    "question": "일본 애니메이션 '진격의 거인'의 주인공 이름은?",
+    "options": ["리바이 아커만", "에렌 예거", "미카사 아커만", "아르민 알레르트"],
+    "answer": 1,
+    "explanation": "에렌 예거는 거인에 의해 어머니를 잃고 조사병단에 입대하는 주인공입니다."
+  },
+  {
+    "id": "cul_076",
+    "category": "culture",
+    "question": "한국 예능 '놀면 뭐하니?'에서 유재석이 활동한 프로젝트 그룹 이름은?",
+    "options": ["SSAK3", "MSG워너비", "환불원정대", "위 모두 해당"],
+    "answer": 3,
+    "explanation": "'놀면 뭐하니?'에서는 SSAK3, MSG워너비, 환불원정대 등 다양한 프로젝트 그룹이 결성되었습니다."
+  },
+  {
+    "id": "cul_077",
+    "category": "culture",
+    "question": "스타워즈 시리즈에서 '포스의 어두운 면'을 대표하는 조직은?",
+    "options": ["제다이 기사단", "시스", "반란군 연합", "은하 공화국"],
+    "answer": 1,
+    "explanation": "시스(Sith)는 다크 사이드의 포스를 사용하는 조직으로, 제다이와 대립합니다."
+  },
+  {
+    "id": "cul_078",
+    "category": "culture",
+    "question": "한국 음악 방송 프로그램이 아닌 것은?",
+    "options": ["뮤직뱅크", "인기가요", "음악중심", "음악의 신"],
+    "answer": 3,
+    "explanation": "'뮤직뱅크'(KBS), '인기가요'(SBS), '음악중심'(MBC)은 대표적인 음악 방송이며, '음악의 신'은 실존하지 않습니다."
+  },
+  {
+    "id": "cul_079",
+    "category": "culture",
+    "question": "영화 '라라랜드'에서 주연을 맡은 두 배우는?",
+    "options": ["브래들리 쿠퍼 & 레이디 가가", "라이언 고슬링 & 엠마 스톤", "제이미 폭스 & 비욘세", "저스틴 팀버레이크 & 앤 해서웨이"],
+    "answer": 1,
+    "explanation": "라이언 고슬링과 엠마 스톤은 데이미언 셔젤 감독의 뮤지컬 영화 '라라랜드'(2016)에서 주연을 맡았습니다."
+  },
+  {
+    "id": "cul_080",
+    "category": "culture",
+    "question": "한국에서 '먹방(Mukbang)'을 세계에 처음 알린 플랫폼은?",
+    "options": ["유튜브", "아프리카TV", "트위치", "인스타그램"],
+    "answer": 1,
+    "explanation": "먹방 문화는 아프리카TV의 BJ들이 시작하여 이후 유튜브를 통해 전 세계로 확산되었습니다."
+  },
+  {
+    "id": "cul_081",
+    "category": "culture",
+    "question": "영화 '명량'에서 이순신 장군 역을 맡은 배우는?",
+    "options": ["송강호", "황정민", "최민식", "이병헌"],
+    "answer": 2,
+    "explanation": "최민식은 영화 '명량'(2014)에서 이순신 장군 역을 맡아 1,761만 관객을 동원했습니다."
+  },
+  {
+    "id": "cul_082",
+    "category": "culture",
+    "question": "드래곤볼 시리즈의 주인공 이름은?",
+    "options": ["베지터", "손오공(고쿠)", "크리링", "피콜로"],
+    "answer": 1,
+    "explanation": "손오공(고쿠)은 사이어인 출신의 전사로, 드래곤볼 시리즈의 주인공입니다."
+  },
+  {
+    "id": "cul_083",
+    "category": "culture",
+    "question": "한국에서 '밈'으로 유명한 '어 그래 XX아'는 어떤 프로그램에서 유래했는가?",
+    "options": ["신서유기", "놀면 뭐하니", "아는 형님", "나 혼자 산다"],
+    "answer": 0,
+    "explanation": "이 밈은 '신서유기'에서 강호동의 반응에서 유래하여 인터넷에서 널리 사용되었습니다."
+  },
+  {
+    "id": "cul_084",
+    "category": "culture",
+    "question": "칸 영화제에서 황금종려상을 받은 한국 영화는?",
+    "options": ["올드보이", "기생충", "헤어질 결심", "밀양"],
+    "answer": 1,
+    "explanation": "봉준호 감독의 '기생충'은 2019년 칸 영화제에서 한국 영화 최초로 황금종려상을 수상했습니다."
+  },
+  {
+    "id": "cul_085",
+    "category": "culture",
+    "question": "게임 '리그 오브 레전드'의 개발사는?",
+    "options": ["블리자드", "라이엇 게임즈", "넥슨", "밸브"],
+    "answer": 1,
+    "explanation": "라이엇 게임즈(Riot Games)는 2009년 '리그 오브 레전드'를 출시한 게임 개발사입니다."
+  },
+  {
+    "id": "cul_086",
+    "category": "culture",
+    "question": "한국 힙합 아티스트 중 '쇼미더머니' 시즌 4 우승자는?",
+    "options": ["송민호", "BewhY", "우원재", "넉살"],
+    "answer": 0,
+    "explanation": "송민호(MINO)는 '쇼미더머니' 시즌 4에서 우승하며 힙합 아티스트로서 이름을 알렸습니다."
+  },
+  {
+    "id": "cul_087",
+    "category": "culture",
+    "question": "디즈니 플러스에서 공개된 마블 시리즈가 아닌 것은?",
+    "options": ["완다비전", "로키", "더 배트맨", "팔콘과 윈터 솔져"],
+    "answer": 2,
+    "explanation": "'더 배트맨'은 마블이 아닌 DC 코믹스 원작 영화로, 워너 브라더스에서 제작했습니다."
+  },
+  {
+    "id": "cul_088",
+    "category": "culture",
+    "question": "한국 드라마 '태양의 후예'의 촬영지로 유명해진 나라는?",
+    "options": ["몽골", "그리스", "터키", "크로아티아"],
+    "answer": 1,
+    "explanation": "'태양의 후예'는 그리스 자킨토스 섬에서 해외 촬영을 진행하여 관광 명소로 유명해졌습니다."
+  },
+  {
+    "id": "cul_089",
+    "category": "culture",
+    "question": "올림픽에서 한국이 가장 많은 금메달을 따는 종목은?",
+    "options": ["수영", "양궁", "태권도", "쇼트트랙"],
+    "answer": 1,
+    "explanation": "한국은 양궁에서 올림픽 역대 최다 금메달을 획득하며 '양궁 강국'으로 불립니다."
+  },
+  {
+    "id": "cul_090",
+    "category": "culture",
+    "question": "영화 '아바타'(2009)의 감독은?",
+    "options": ["스티븐 스필버그", "조지 루카스", "제임스 카메론", "피터 잭슨"],
+    "answer": 2,
+    "explanation": "제임스 카메론 감독의 '아바타'는 혁신적인 3D 기술로 역대 전 세계 박스오피스 1위를 기록했습니다."
+  },
+  {
+    "id": "cul_091",
+    "category": "culture",
+    "question": "K-pop 그룹 스트레이 키즈(Stray Kids)의 리더는?",
+    "options": ["현진", "방찬", "한", "필릭스"],
+    "answer": 1,
+    "explanation": "방찬은 스트레이 키즈의 리더이자 프로듀서로, 그룹의 음악 제작에도 참여합니다."
+  },
+  {
+    "id": "cul_092",
+    "category": "culture",
+    "question": "넷플릭스 다큐멘터리 '블랙핑크: 세상을 밝혀라'에서 블랙핑크의 데뷔 연도로 언급된 해는?",
+    "options": ["2014년", "2015년", "2016년", "2017년"],
+    "answer": 2,
+    "explanation": "블랙핑크는 2016년 YG엔터테인먼트에서 데뷔했습니다."
+  },
+  {
+    "id": "cul_093",
+    "category": "culture",
+    "question": "일본 애니메이션 '스파이 패밀리'에서 아냐의 특별한 능력은?",
+    "options": ["투명화", "텔레파시(독심술)", "시간 정지", "변신"],
+    "answer": 1,
+    "explanation": "아냐 포저는 다른 사람의 마음을 읽을 수 있는 텔레파시 능력을 가진 소녀입니다."
+  },
+  {
+    "id": "cul_094",
+    "category": "culture",
+    "question": "한국 프로축구(K리그)에서 가장 많은 우승을 차지한 팀은?",
+    "options": ["수원 삼성", "전북 현대", "울산 현대", "성남 FC"],
+    "answer": 1,
+    "explanation": "전북 현대 모터스는 K리그 역대 최다 우승 기록을 보유한 팀입니다."
+  },
+  {
+    "id": "cul_095",
+    "category": "culture",
+    "question": "한국 드라마 '펜트하우스'의 방영 채널은?",
+    "options": ["tvN", "JTBC", "SBS", "KBS"],
+    "answer": 2,
+    "explanation": "'펜트하우스'는 SBS에서 2020년부터 시즌 3까지 방영된 복수극 드라마입니다."
+  },
+  {
+    "id": "cul_096",
+    "category": "culture",
+    "question": "영화 '보헤미안 랩소디'에서 프레디 머큐리 역을 맡은 배우는?",
+    "options": ["로버트 다우니 주니어", "라미 말렉", "에디 레드메인", "벤 위쇼"],
+    "answer": 1,
+    "explanation": "라미 말렉은 퀸의 보컬리스트 프레디 머큐리 역으로 아카데미 남우주연상을 수상했습니다."
+  },
+  {
+    "id": "cul_097",
+    "category": "culture",
+    "question": "한국에서 '짤(짤방)'이라는 용어의 유래는?",
+    "options": ["잘라낸 방송 장면", "짧은 만화", "재미있는 사진", "짤막한 방송"],
+    "answer": 0,
+    "explanation": "'짤방'은 '짤린 방지용 이미지'의 줄임말로, 게시글 삭제 방지를 위해 첨부한 이미지에서 유래했습니다."
+  },
+  {
+    "id": "cul_098",
+    "category": "culture",
+    "question": "게임 '마인크래프트'의 개발사는?",
+    "options": ["닌텐도", "모장 스튜디오", "에픽 게임즈", "밸브"],
+    "answer": 1,
+    "explanation": "모장 스튜디오(Mojang Studios)가 마인크래프트를 개발했으며, 이후 마이크로소프트에 인수되었습니다."
+  },
+  {
+    "id": "cul_099",
+    "category": "culture",
+    "question": "아이돌 그룹 에스파(aespa)의 독특한 세계관 콘셉트는?",
+    "options": ["타임 트래블", "AI/메타버스(광야)", "뱀파이어", "슈퍼히어로"],
+    "answer": 1,
+    "explanation": "에스파는 현실 멤버와 가상의 'æ(아이)' 멤버가 공존하는 메타버스 세계관을 가지고 있습니다."
+  },
+  {
+    "id": "cul_100",
+    "category": "culture",
+    "question": "한국 영화 역대 관객 수 1위(2025년 기준) 영화는?",
+    "options": ["기생충", "명량", "국제시장", "어벤져스: 엔드게임"],
+    "answer": 1,
+    "explanation": "'명량'(2014)은 약 1,761만 명의 관객을 동원하며 한국 영화 역대 관객 수 1위를 기록하고 있습니다."
+  },
+  {
+    "id": "cul_101",
+    "category": "culture",
+    "question": "넷플릭스 시리즈 '종이의 집: 공동경제구역'은 어느 나라 원작의 리메이크인가?",
+    "options": ["미국", "영국", "스페인", "프랑스"],
+    "answer": 2,
+    "explanation": "스페인의 인기 시리즈 'La Casa de Papel(종이의 집)'을 한국판으로 리메이크한 작품입니다."
+  },
+  {
+    "id": "cul_102",
+    "category": "culture",
+    "question": "K-pop 그룹 NCT의 특징적인 시스템은?",
+    "options": ["로테이션 시스템", "개방형 확장 시스템", "듀오 시스템", "유닛 경쟁 시스템"],
+    "answer": 1,
+    "explanation": "NCT는 멤버 수 제한 없이 확장 가능한 '개방형 확장 시스템'을 특징으로 합니다."
+  },
+  {
+    "id": "cul_103",
+    "category": "culture",
+    "question": "영화 '쇼생크 탈출'의 배경은?",
+    "options": ["병원", "군대", "교도소", "학교"],
+    "answer": 2,
+    "explanation": "'쇼생크 탈출'은 무고하게 투옥된 주인공이 쇼생크 교도소에서 탈출하는 이야기입니다."
+  },
+  {
+    "id": "cul_104",
+    "category": "culture",
+    "question": "웹툰 '타워 오브 갓(신의 탑)'이 애니메이션화된 연도는?",
+    "options": ["2018년", "2019년", "2020년", "2021년"],
+    "answer": 2,
+    "explanation": "'신의 탑'은 2020년 일본에서 TV 애니메이션으로 제작·방영되었습니다."
+  },
+  {
+    "id": "cul_105",
+    "category": "culture",
+    "question": "한국 래퍼 중 '에미넴 오브 코리아'라는 별명을 가진 래퍼는?",
+    "options": ["도끼", "빈지노", "사이먼 도미닉", "슈퍼비"],
+    "answer": 0,
+    "explanation": "도끼(Dok2)는 빠른 랩 스킬과 독보적인 스타일로 '에미넴 오브 코리아'라 불렸습니다."
+  },
+  {
+    "id": "cul_106",
+    "category": "culture",
+    "question": "디즈니 애니메이션 '코코'의 배경이 되는 문화적 행사는?",
+    "options": ["크리스마스", "할로윈", "죽은 자의 날(Día de los Muertos)", "부활절"],
+    "answer": 2,
+    "explanation": "'코코'는 멕시코의 전통 명절 '죽은 자의 날'을 배경으로 한 애니메이션입니다."
+  },
+  {
+    "id": "cul_107",
+    "category": "culture",
+    "question": "한국 예능 '1박 2일'을 처음 진행한 MC는?",
+    "options": ["이승기", "강호동", "김종민", "차태현"],
+    "answer": 1,
+    "explanation": "KBS '1박 2일'은 강호동을 중심으로 시즌 1이 시작되어 큰 인기를 얻었습니다."
+  },
+  {
+    "id": "cul_108",
+    "category": "culture",
+    "question": "크리스토퍼 놀란 감독의 '오펜하이머'가 아카데미 작품상을 수상한 연도는?",
+    "options": ["2023년", "2024년", "2025년", "2026년"],
+    "answer": 1,
+    "explanation": "'오펜하이머'는 2024년 제96회 아카데미 시상식에서 작품상을 포함해 7개 부문을 수상했습니다."
+  },
+  {
+    "id": "cul_109",
+    "category": "culture",
+    "question": "K-pop에서 '팬덤명'이 ARMY인 그룹은?",
+    "options": ["EXO", "BTS", "세븐틴", "NCT"],
+    "answer": 1,
+    "explanation": "ARMY는 BTS의 공식 팬덤명으로, 'Adorable Representative M.C for Youth'의 약자입니다."
+  },
+  {
+    "id": "cul_110",
+    "category": "culture",
+    "question": "한국 드라마 '빈센조'의 주인공 직업은?",
+    "options": ["검사", "경찰", "마피아 변호사(콘실리에레)", "의사"],
+    "answer": 2,
+    "explanation": "송중기가 맡은 빈센조 카사노는 이탈리아 마피아의 콘실리에레(고문 변호사) 출신입니다."
+  },
+  {
+    "id": "cul_111",
+    "category": "culture",
+    "question": "일본 만화 '슬램덩크'의 배경 스포츠는?",
+    "options": ["축구", "야구", "농구", "배구"],
+    "answer": 2,
+    "explanation": "이노우에 타케히코의 '슬램덩크'는 고등학교 농구를 소재로 한 명작 만화입니다."
+  },
+  {
+    "id": "cul_112",
+    "category": "culture",
+    "question": "넷플릭스 드라마 '수리남'에서 마약왕 역을 맡은 배우는?",
+    "options": ["하정우", "황정민", "조우진", "박해수"],
+    "answer": 1,
+    "explanation": "황정민은 '수리남'에서 남미에서 활동하는 한인 마약왕 전요환 역을 맡았습니다."
+  },
+  {
+    "id": "cul_113",
+    "category": "culture",
+    "question": "유튜브에서 가장 구독자가 많은 채널(2025년 기준)은?",
+    "options": ["PewDiePie", "MrBeast", "T-Series", "Cocomelon"],
+    "answer": 1,
+    "explanation": "MrBeast는 2025년 기준 유튜브 최다 구독자를 보유한 개인 크리에이터입니다."
+  },
+  {
+    "id": "cul_114",
+    "category": "culture",
+    "question": "한국 걸그룹 아이브(IVE)의 대표곡은?",
+    "options": ["Hype Boy", "LOVE DIVE", "Next Level", "Ditto"],
+    "answer": 1,
+    "explanation": "아이브의 'LOVE DIVE'(2022)는 각종 음악 차트 1위를 휩쓸며 대표곡이 되었습니다."
+  },
+  {
+    "id": "cul_115",
+    "category": "culture",
+    "question": "영화 '위대한 쇼맨'에서 P.T. 바넘 역을 맡은 배우는?",
+    "options": ["라이언 레이놀즈", "휴 잭맨", "자크 에프론", "라이언 고슬링"],
+    "answer": 1,
+    "explanation": "휴 잭맨은 뮤지컬 영화 '위대한 쇼맨'에서 서커스 창시자 P.T. 바넘 역을 맡았습니다."
+  },
+  {
+    "id": "cul_116",
+    "category": "culture",
+    "question": "한국 웹소설 플랫폼이 아닌 것은?",
+    "options": ["카카오페이지", "문피아", "리디북스", "왓챠"],
+    "answer": 3,
+    "explanation": "왓챠는 OTT(동영상 스트리밍) 서비스이며, 나머지는 웹소설/웹툰 플랫폼입니다."
+  },
+  {
+    "id": "cul_117",
+    "category": "culture",
+    "question": "페이커(Faker)의 본명은?",
+    "options": ["이상혁", "박재혁", "김정균", "한왕호"],
+    "answer": 0,
+    "explanation": "이상혁(Faker)은 T1 소속의 프로게이머로, LoL 역사상 최고의 선수로 평가받습니다."
+  },
+  {
+    "id": "cul_118",
+    "category": "culture",
+    "question": "한국 영화 '부산행'의 장르는?",
+    "options": ["범죄 스릴러", "로맨스", "좀비 액션", "코미디"],
+    "answer": 2,
+    "explanation": "'부산행'(2016)은 KTX 열차 안에서 좀비 바이러스가 퍼지는 좀비 액션 영화입니다."
+  },
+  {
+    "id": "cul_119",
+    "category": "culture",
+    "question": "드라마 '쓸쓸하고 찬란하神-도깨비'에서 저승사자 역을 맡은 배우는?",
+    "options": ["이동욱", "육성재", "김고은", "유인나"],
+    "answer": 0,
+    "explanation": "이동욱은 tvN '도깨비'에서 기억을 잃은 저승사자 역을 맡아 큰 인기를 얻었습니다."
+  },
+  {
+    "id": "cul_120",
+    "category": "culture",
+    "question": "K-pop 역사상 최초의 아이돌 그룹으로 평가받는 보이그룹은?",
+    "options": ["서태지와 아이들", "H.O.T.", "젝스키스", "신화"],
+    "answer": 1,
+    "explanation": "H.O.T.는 1996년 SM엔터테인먼트에서 데뷔한 한국 최초의 아이돌 보이그룹으로 평가받습니다."
+  },
+  {
+    "id": "cul_121",
+    "category": "culture",
+    "question": "애니메이션 '너의 이름은'의 감독은?",
+    "options": ["미야자키 하야오", "신카이 마코토", "호소다 마모루", "콘 사토시"],
+    "answer": 1,
+    "explanation": "신카이 마코토 감독의 '너의 이름은'(2016)은 일본 애니메이션 역대 흥행 기록을 세웠습니다."
+  },
+  {
+    "id": "cul_122",
+    "category": "culture",
+    "question": "한국에서 '갓생'이라는 신조어의 의미는?",
+    "options": ["신처럼 대단한 인생", "갓(God) + 인생, 부지런하고 알찬 삶", "게으른 삶", "돈이 많은 인생"],
+    "answer": 1,
+    "explanation": "'갓생'은 'God'과 '인생'의 합성어로, 계획적이고 알차게 보내는 삶을 뜻하는 MZ세대 신조어입니다."
+  },
+  {
+    "id": "cul_123",
+    "category": "culture",
+    "question": "한국 드라마 '나의 아저씨'에서 주연을 맡은 배우 조합은?",
+    "options": ["송중기 & 전지현", "이선균 & 아이유", "공유 & 김고은", "현빈 & 손예진"],
+    "answer": 1,
+    "explanation": "이선균과 아이유는 tvN '나의 아저씨'에서 따뜻한 유대를 보여주며 호연을 펼쳤습니다."
+  },
+  {
+    "id": "cul_124",
+    "category": "culture",
+    "question": "마블 시네마틱 유니버스(MCU)의 첫 번째 영화는?",
+    "options": ["어벤져스", "캡틴 아메리카: 퍼스트 어벤저", "아이언맨", "토르"],
+    "answer": 2,
+    "explanation": "2008년 개봉한 '아이언맨'이 MCU의 첫 번째 영화로, 로버트 다우니 주니어가 토니 스타크 역을 맡았습니다."
+  },
+  {
+    "id": "cul_125",
+    "category": "culture",
+    "question": "게임 '배틀그라운드(PUBG)'의 개발사는?",
+    "options": ["넥슨", "크래프톤", "넷마블", "엔씨소프트"],
+    "answer": 1,
+    "explanation": "크래프톤(구 블루홀)이 개발한 '배틀그라운드'는 배틀로얄 장르를 대중화시킨 게임입니다."
+  },
+  {
+    "id": "cul_126",
+    "category": "culture",
+    "question": "한국 예능 '신서유기'의 진행자(MC)는?",
+    "options": ["유재석", "강호동", "이광수", "이승기"],
+    "answer": 1,
+    "explanation": "강호동이 MC를 맡은 '신서유기'는 나영석 PD가 연출하는 인기 예능입니다."
+  },
+  {
+    "id": "cul_127",
+    "category": "culture",
+    "question": "영화 '위시'(2023)를 제작한 스튜디오는?",
+    "options": ["픽사", "드림웍스", "월트 디즈니", "일루미네이션"],
+    "answer": 2,
+    "explanation": "'위시'는 월트 디즈니 애니메이션 스튜디오의 100주년 기념작으로 제작되었습니다."
+  },
+  {
+    "id": "cul_128",
+    "category": "culture",
+    "question": "K-pop 그룹 르세라핌(LE SSERAFIM)의 첫 번째 타이틀곡은?",
+    "options": ["ANTIFRAGILE", "FEARLESS", "UNFORGIVEN", "Eve, Psyche & the Bluebeard's wife"],
+    "answer": 1,
+    "explanation": "르세라핌은 2022년 데뷔곡 'FEARLESS'로 활동을 시작했습니다."
+  },
+  {
+    "id": "cul_129",
+    "category": "culture",
+    "question": "한국 드라마 '슬기로운 의사생활'에서 5인방이 함께 하는 취미는?",
+    "options": ["축구", "밴드(음악)", "요리", "등산"],
+    "answer": 1,
+    "explanation": "주인공 5명의 의사는 '미도와 파라솔'이라는 밴드를 결성해 함께 음악을 연주합니다."
+  },
+  {
+    "id": "cul_130",
+    "category": "culture",
+    "question": "웹툰 '독립일기'의 주요 소재는?",
+    "options": ["판타지 모험", "1인 가구 생활", "학교 로맨스", "추리"],
+    "answer": 1,
+    "explanation": "'독립일기'는 혼자 자취하는 일상을 유머러스하게 그린 일상 웹툰입니다."
+  },
+  {
+    "id": "cul_131",
+    "category": "culture",
+    "question": "영화 '블랙 팬서'에서 와칸다의 핵심 자원은?",
+    "options": ["아다만티움", "크립토나이트", "비브라늄", "우라늄"],
+    "answer": 2,
+    "explanation": "비브라늄(Vibranium)은 와칸다만의 고유 자원으로, 블랙 팬서 슈트의 재료이기도 합니다."
+  },
+  {
+    "id": "cul_132",
+    "category": "culture",
+    "question": "한국에서 가장 오래 방영된 일일 드라마 시간대는?",
+    "options": ["아침", "점심", "저녁 6시", "밤 10시"],
+    "answer": 2,
+    "explanation": "일일 드라마는 전통적으로 저녁 시간대(주로 6~7시)에 편성되어 오랫동안 방영되어 왔습니다."
+  },
+  {
+    "id": "cul_133",
+    "category": "culture",
+    "question": "테니스 선수 중 그랜드 슬램 단식 최다 우승 기록 보유자(남자, 2025년 기준)는?",
+    "options": ["라파엘 나달", "로저 페더러", "노박 조코비치", "카를로스 알카라스"],
+    "answer": 2,
+    "explanation": "노박 조코비치는 남자 테니스 역대 그랜드 슬램 단식 최다 우승 기록을 보유하고 있습니다."
+  },
+  {
+    "id": "cul_134",
+    "category": "culture",
+    "question": "한국 드라마에서 '오빠야'로 유명해진 트로트 가수는?",
+    "options": ["송가인", "홍진영", "장윤정", "박현빈"],
+    "answer": 1,
+    "explanation": "홍진영은 '사랑의 배터리' 등 트로트 히트곡과 예능 활동으로 '오빠야' 열풍을 일으켰습니다."
+  },
+  {
+    "id": "cul_135",
+    "category": "culture",
+    "question": "일본 애니메이션 '나의 히어로 아카데미아'에서 주인공의 히어로명은?",
+    "options": ["올마이트", "데쿠", "쇼토", "바쿠고"],
+    "answer": 1,
+    "explanation": "주인공 미도리야 이즈쿠의 히어로명은 '데쿠'로, 원래는 놀림 받던 별명이었습니다."
+  },
+  {
+    "id": "cul_136",
+    "category": "culture",
+    "question": "한국에서 '소확행'이라는 트렌드 용어의 의미는?",
+    "options": ["소중하고 확실하게 행복하기", "소소하지만 확실한 행복", "소비를 확 줄이는 행동", "소리 없이 확산되는 행복"],
+    "answer": 1,
+    "explanation": "'소확행'은 무라카미 하루키의 에세이에서 유래한 말로, 일상의 작은 행복을 뜻합니다."
+  },
+  {
+    "id": "cul_137",
+    "category": "culture",
+    "question": "넷플릭스 드라마 '지금 우리 학교는'의 장르는?",
+    "options": ["로맨스", "좀비 스릴러", "코미디", "역사극"],
+    "answer": 1,
+    "explanation": "'지금 우리 학교는'은 학교에서 좀비 바이러스가 퍼지며 생존하는 좀비 스릴러 드라마입니다."
+  },
+  {
+    "id": "cul_138",
+    "category": "culture",
+    "question": "K-pop에서 '이달의 소녀(LOONA)'의 독특한 데뷔 방식은?",
+    "options": ["서바이벌 프로그램", "매달 한 명씩 솔로 데뷔", "팬 투표 선발", "오디션 공개"],
+    "answer": 1,
+    "explanation": "이달의 소녀는 약 18개월에 걸쳐 매달 한 명씩 멤버를 공개하는 독특한 프로젝트로 데뷔했습니다."
+  },
+  {
+    "id": "cul_139",
+    "category": "culture",
+    "question": "영화 '겟 아웃'의 감독은?",
+    "options": ["조던 필", "제임스 완", "존 카펜터", "엘리 로스"],
+    "answer": 0,
+    "explanation": "조던 필 감독의 '겟 아웃'(2017)은 인종 차별을 소재로 한 호러 스릴러로 아카데미 각본상을 수상했습니다."
+  },
+  {
+    "id": "cul_140",
+    "category": "culture",
+    "question": "한국 프로배구에서 김연경 선수의 포지션은?",
+    "options": ["세터", "리베로", "레프트(아웃사이드 히터)", "센터(미들 블로커)"],
+    "answer": 2,
+    "explanation": "김연경은 레프트(아웃사이드 히터) 포지션으로 한국 여자 배구의 전설적인 선수입니다."
+  },
+  {
+    "id": "cul_141",
+    "category": "culture",
+    "question": "영화 '인사이드 아웃'에서 주인공 라일리의 감정 캐릭터가 아닌 것은?",
+    "options": ["기쁨이", "슬픔이", "용기", "버럭이"],
+    "answer": 2,
+    "explanation": "1편의 5가지 감정 캐릭터는 기쁨이, 슬픔이, 버럭이, 까칠이, 소심이입니다. '용기'는 등장하지 않습니다."
+  },
+  {
+    "id": "cul_142",
+    "category": "culture",
+    "question": "한국 드라마 '무브 투 헤븐: 나는 유품정리사입니다'의 주연 배우는?",
+    "options": ["이제훈 & 박소담", "이제훈 & 탕준상", "정해인 & 김고은", "박서준 & 김다미"],
+    "answer": 1,
+    "explanation": "이제훈과 탕준상이 주연을 맡아 고인의 유품을 정리하는 이야기를 감동적으로 그렸습니다."
+  },
+  {
+    "id": "cul_143",
+    "category": "culture",
+    "question": "K-pop에서 '컴백'이 의미하는 것은?",
+    "options": ["해체 후 재결합", "새 앨범/곡 발매 후 활동 재개", "해외 투어 복귀", "멤버 복귀"],
+    "answer": 1,
+    "explanation": "K-pop에서 '컴백'은 아이돌이 새로운 앨범이나 곡을 발매하고 활동을 재개하는 것을 뜻합니다."
+  },
+  {
+    "id": "cul_144",
+    "category": "culture",
+    "question": "HBO 드라마 '왕좌의 게임'의 원작 소설 시리즈 이름은?",
+    "options": ["왕좌의 게임", "얼음과 불의 노래", "불과 피", "겨울이 오고 있다"],
+    "answer": 1,
+    "explanation": "조지 R.R. 마틴의 판타지 소설 시리즈 '얼음과 불의 노래'가 '왕좌의 게임'의 원작입니다."
+  },
+  {
+    "id": "cul_145",
+    "category": "culture",
+    "question": "한국에서 '하이볼' 열풍이 본격적으로 시작된 시기는?",
+    "options": ["2019년", "2021년", "2022년", "2023년"],
+    "answer": 2,
+    "explanation": "하이볼(위스키+소다수) 열풍은 2022년경부터 MZ세대를 중심으로 한국에서 본격화되었습니다."
+  },
+  {
+    "id": "cul_146",
+    "category": "culture",
+    "question": "애니메이션 '짱구는 못말려'에서 짱구네 가족의 강아지 이름은?",
+    "options": ["시로", "마루", "고양이", "뭉치"],
+    "answer": 0,
+    "explanation": "시로(흰둥이)는 짱구네 가족이 키우는 하얀색 강아지입니다."
+  },
+  {
+    "id": "cul_147",
+    "category": "culture",
+    "question": "영화 '토르: 러브 앤 썬더'에서 제인 포스터 역을 맡은 배우는?",
+    "options": ["스칼렛 요한슨", "나탈리 포트만", "브리 라슨", "엘리자베스 올슨"],
+    "answer": 1,
+    "explanation": "나탈리 포트만은 제인 포스터 역으로 돌아와 마이티 토르로 변신하는 모습을 보여주었습니다."
+  },
+  {
+    "id": "cul_148",
+    "category": "culture",
+    "question": "한국 드라마 '비밀의 숲'의 주요 소재는?",
+    "options": ["의료", "검찰 부패/수사", "학교 폭력", "재벌 가문"],
+    "answer": 1,
+    "explanation": "'비밀의 숲'은 감정이 메마른 검사와 열정적인 경찰이 함께 검찰 부패를 수사하는 드라마입니다."
+  },
+  {
+    "id": "cul_149",
+    "category": "culture",
+    "question": "게임 '젤다의 전설: 왕국의 눈물'이 출시된 플랫폼은?",
+    "options": ["플레이스테이션 5", "닌텐도 스위치", "Xbox Series X", "PC"],
+    "answer": 1,
+    "explanation": "'젤다의 전설: 왕국의 눈물'은 2023년 닌텐도 스위치 독점으로 출시되었습니다."
+  },
+  {
+    "id": "cul_150",
+    "category": "culture",
+    "question": "한국에서 '뉴진스 효과'라 불리는 현상은?",
+    "options": ["Y2K 패션 유행", "건강식 유행", "독서 열풍", "운동 열풍"],
+    "answer": 0,
+    "explanation": "뉴진스의 레트로·Y2K 콘셉트가 큰 인기를 끌면서 2000년대 초반 패션이 다시 유행했습니다."
+  },
+  {
+    "id": "cul_151",
+    "category": "culture",
+    "question": "한국 영화 '범죄도시' 시리즈에서 주연을 맡은 배우는?",
+    "options": ["황정민", "마동석", "이정재", "송강호"],
+    "answer": 1,
+    "explanation": "마동석은 '범죄도시' 시리즈에서 괴력의 형사 마석도 역을 맡아 큰 흥행을 이끌었습니다."
+  },
+  {
+    "id": "cul_152",
+    "category": "culture",
+    "question": "일본 애니메이션 '도라에몽'에서 도라에몽이 꺼내는 도구를 보관하는 곳은?",
+    "options": ["가방", "4차원 주머니", "서랍", "모자"],
+    "answer": 1,
+    "explanation": "도라에몽은 배에 있는 '4차원 주머니'에서 다양한 미래 도구를 꺼냅니다."
+  },
+  {
+    "id": "cul_153",
+    "category": "culture",
+    "question": "한국 예능 '삼시세끼'의 주요 콘셉트는?",
+    "options": ["게임 대결", "여행", "자급자족 요리", "음악 경연"],
+    "answer": 2,
+    "explanation": "'삼시세끼'는 도시를 떠나 시골이나 섬에서 하루 세 끼를 직접 해 먹는 콘셉트입니다."
+  },
+  {
+    "id": "cul_154",
+    "category": "culture",
+    "question": "BTS의 '버터(Butter)'가 빌보드 핫 100 1위를 유지한 최대 연속 주 수는?",
+    "options": ["5주", "7주", "10주", "12주"],
+    "answer": 2,
+    "explanation": "BTS의 'Butter'는 빌보드 핫 100에서 10주 연속 1위를 기록했습니다."
+  },
+  {
+    "id": "cul_155",
+    "category": "culture",
+    "question": "영화 '캡틴 마블'에서 캡틴 마블 역을 맡은 배우는?",
+    "options": ["가우 가돗", "브리 라슨", "스칼렛 요한슨", "엘리자베스 올슨"],
+    "answer": 1,
+    "explanation": "브리 라슨은 MCU '캡틴 마블'에서 캐롤 댄버스/캡틴 마블 역을 맡았습니다."
+  },
+  {
+    "id": "cul_156",
+    "category": "culture",
+    "question": "한국에서 '무물보(무엇이든 물어보세요)'의 원래 출처는?",
+    "options": ["KBS 프로그램", "네이버 지식iN", "유튜브", "커뮤니티 사이트"],
+    "answer": 0,
+    "explanation": "'무엇이든 물어보세요'는 KBS에서 오랫동안 방영된 생활정보 프로그램입니다."
+  },
+  {
+    "id": "cul_157",
+    "category": "culture",
+    "question": "드라마 '우영우'의 주인공 직업은?",
+    "options": ["의사", "변호사", "검사", "기자"],
+    "answer": 1,
+    "explanation": "'이상한 변호사 우영우'의 주인공 우영우는 자폐 스펙트럼 장애를 가진 천재 변호사입니다."
+  },
+  {
+    "id": "cul_158",
+    "category": "culture",
+    "question": "NBA 역대 최다 득점 기록 보유자(2025년 기준)는?",
+    "options": ["마이클 조던", "카림 압둘 자바", "르브론 제임스", "코비 브라이언트"],
+    "answer": 2,
+    "explanation": "르브론 제임스는 2023년 카림 압둘 자바의 기록을 넘어서며 NBA 역대 최다 득점 기록을 세웠습니다."
+  },
+  {
+    "id": "cul_159",
+    "category": "culture",
+    "question": "웹툰 '미생'의 배경은?",
+    "options": ["학교", "군대", "회사(직장)", "병원"],
+    "answer": 2,
+    "explanation": "'미생'은 종합상사를 배경으로 비정규직 사원의 직장 생활을 현실적으로 그린 웹툰입니다."
+  },
+  {
+    "id": "cul_160",
+    "category": "culture",
+    "question": "영화 '스파이더맨: 노 웨이 홈'에서 역대 스파이더맨 배우가 모두 등장하는데, 포함되지 않는 배우는?",
+    "options": ["토비 맥과이어", "앤드루 가필드", "톰 홀랜드", "마일즈 모랄레스(배우)"],
+    "answer": 3,
+    "explanation": "마일즈 모랄레스는 애니메이션 '스파이더버스'의 캐릭터이며, 실사 영화에는 등장하지 않았습니다."
+  },
+  {
+    "id": "cul_161",
+    "category": "culture",
+    "question": "한국에서 '디지털 노마드'의 의미는?",
+    "options": ["디지털 기기를 싫어하는 사람", "장소에 구애받지 않고 원격으로 일하는 사람", "디지털 마케팅 전문가", "유목민 생활을 하는 사람"],
+    "answer": 1,
+    "explanation": "'디지털 노마드'는 인터넷과 디지털 기기를 활용하여 장소에 구애받지 않고 일하며 여행하는 사람을 말합니다."
+  },
+  {
+    "id": "cul_162",
+    "category": "culture",
+    "question": "K-pop 그룹 ATEEZ의 소속사는?",
+    "options": ["SM엔터테인먼트", "KQ엔터테인먼트", "JYP엔터테인먼트", "스타쉽엔터테인먼트"],
+    "answer": 1,
+    "explanation": "ATEEZ는 KQ엔터테인먼트 소속으로 2018년 데뷔한 보이그룹입니다."
+  },
+  {
+    "id": "cul_163",
+    "category": "culture",
+    "question": "영화 '올드보이'가 칸 영화제에서 수상한 상은?",
+    "options": ["황금종려상", "심사위원 대상", "감독상", "남우주연상"],
+    "answer": 1,
+    "explanation": "박찬욱 감독의 '올드보이'는 2004년 칸 영화제에서 심사위원 대상(Grand Prix)을 수상했습니다."
+  },
+  {
+    "id": "cul_164",
+    "category": "culture",
+    "question": "한국 드라마 '미스터 션샤인'의 극 중 배경 도시는?",
+    "options": ["서울(한양)", "평양", "부산", "의주"],
+    "answer": 0,
+    "explanation": "'미스터 션샤인'은 주로 한양(서울)을 배경으로 구한말 시대의 이야기를 그리고 있습니다."
+  },
+  {
+    "id": "cul_165",
+    "category": "culture",
+    "question": "세계 3대 영화제에 포함되지 않는 것은?",
+    "options": ["칸 영화제", "베를린 영화제", "베네치아 영화제", "토론토 영화제"],
+    "answer": 3,
+    "explanation": "세계 3대 영화제는 칸, 베를린, 베네치아 영화제이며, 토론토 영화제는 포함되지 않습니다."
+  },
+  {
+    "id": "cul_166",
+    "category": "culture",
+    "question": "한국 웹툰 '소녀의 세계'의 작가는?",
+    "options": ["모죠", "야옹이", "기안84", "이말년"],
+    "answer": 0,
+    "explanation": "'소녀의 세계'는 모죠 작가의 작품으로 여고생들의 우정과 성장을 그린 웹툰입니다."
+  },
+  {
+    "id": "cul_167",
+    "category": "culture",
+    "question": "영화 '존 윅' 시리즈에서 주인공 역을 맡은 배우는?",
+    "options": ["제이슨 스타뎀", "키아누 리브스", "리암 니슨", "덴절 워싱턴"],
+    "answer": 1,
+    "explanation": "키아누 리브스는 '존 윅' 시리즈에서 전설적인 킬러 존 윅 역을 맡았습니다."
+  },
+  {
+    "id": "cul_168",
+    "category": "culture",
+    "question": "한국에서 OTT 서비스가 아닌 것은?",
+    "options": ["넷플릭스", "웨이브(wavve)", "티빙(TVING)", "멜론(Melon)"],
+    "answer": 3,
+    "explanation": "멜론은 음원 스트리밍 서비스이며, 넷플릭스, 웨이브, 티빙은 OTT(동영상 스트리밍) 서비스입니다."
+  },
+  {
+    "id": "cul_169",
+    "category": "culture",
+    "question": "일본 애니메이션 '원펀맨'의 주인공 사이타마의 특징은?",
+    "options": ["초능력자", "한 방에 모든 적을 쓰러뜨림", "불사신", "시간을 멈출 수 있음"],
+    "answer": 1,
+    "explanation": "사이타마는 어떤 적이든 한 방에 쓰러뜨릴 수 있는 압도적인 힘을 가진 히어로입니다."
+  },
+  {
+    "id": "cul_170",
+    "category": "culture",
+    "question": "K-pop에서 '총공'이 의미하는 것은?",
+    "options": ["총괄 공연", "팬들이 조직적으로 음원/앨범 구매에 집중하는 것", "전체 공개", "총괄 공지"],
+    "answer": 1,
+    "explanation": "'총공(총 공격)'은 팬덤이 특정 시간에 조직적으로 음원 스트리밍이나 앨범 구매를 집중하는 행위입니다."
+  },
+  {
+    "id": "cul_171",
+    "category": "culture",
+    "question": "한국 드라마 '킹더랜드'의 배경은?",
+    "options": ["병원", "호텔", "법률사무소", "학교"],
+    "answer": 1,
+    "explanation": "'킹더랜드'는 호텔 그룹을 배경으로 한 로맨스 드라마입니다."
+  },
+  {
+    "id": "cul_172",
+    "category": "culture",
+    "question": "싸이(PSY)의 '강남스타일'이 발표된 연도는?",
+    "options": ["2010년", "2011년", "2012년", "2013년"],
+    "answer": 2,
+    "explanation": "'강남스타일'은 2012년 7월에 발표되어 전 세계적으로 큰 인기를 끌었습니다."
+  },
+  {
+    "id": "cul_173",
+    "category": "culture",
+    "question": "영화 '기생충'에서 기택 가족의 지하 은신처에 숨어 있던 인물은?",
+    "options": ["전 가정부의 남편", "전 집주인", "이웃 주민", "경비원"],
+    "answer": 0,
+    "explanation": "전 가정부 문광의 남편 근세가 박 사장 가족 몰래 지하 벙커에 숨어 살고 있었습니다."
+  },
+  {
+    "id": "cul_174",
+    "category": "culture",
+    "question": "게임 '오버워치'의 개발사는?",
+    "options": ["라이엇 게임즈", "블리자드 엔터테인먼트", "에픽 게임즈", "밸브"],
+    "answer": 1,
+    "explanation": "블리자드 엔터테인먼트가 개발한 '오버워치'는 팀 기반 FPS 게임입니다."
+  },
+  {
+    "id": "cul_175",
+    "category": "culture",
+    "question": "한국 예능 '환승연애'의 포맷은?",
+    "options": ["여행 예능", "음식 예능", "연애 리얼리티", "서바이벌 오디션"],
+    "answer": 2,
+    "explanation": "'환승연애'는 전 연인들이 다시 만나 새로운 사랑을 찾는 연애 리얼리티 프로그램입니다."
+  },
+  {
+    "id": "cul_176",
+    "category": "culture",
+    "question": "영화 '소울'(2020)의 제작 스튜디오는?",
+    "options": ["드림웍스", "픽사", "일루미네이션", "소니 픽처스"],
+    "answer": 1,
+    "explanation": "픽사의 '소울'은 재즈 뮤지션의 영혼이 사후 세계를 경험하는 이야기를 다룹니다."
+  },
+  {
+    "id": "cul_177",
+    "category": "culture",
+    "question": "한국 영화 '건축학개론'에서 주연을 맡은 배우 조합은?",
+    "options": ["이민호 & 박신혜", "엄태웅 & 한가인", "조정석 & 공효진", "유연석 & 한효주"],
+    "answer": 1,
+    "explanation": "엄태웅과 한가인이 성인 시절, 이제훈과 수지가 대학 시절 주인공으로 출연했습니다."
+  },
+  {
+    "id": "cul_178",
+    "category": "culture",
+    "question": "K-pop 그룹 GOT7의 소속사(데뷔 당시)는?",
+    "options": ["SM엔터테인먼트", "YG엔터테인먼트", "JYP엔터테인먼트", "빅히트엔터테인먼트"],
+    "answer": 2,
+    "explanation": "GOT7은 JYP엔터테인먼트에서 2014년 데뷔했으며, 이후 계약 만료 후 개별 활동 중입니다."
+  },
+  {
+    "id": "cul_179",
+    "category": "culture",
+    "question": "한국 드라마 '괴물'(Beyond Evil)에서 주연을 맡은 배우 조합은?",
+    "options": ["이승기 & 이희준", "신하균 & 여진구", "조진웅 & 최우식", "송중기 & 전여빈"],
+    "answer": 1,
+    "explanation": "신하균과 여진구는 연쇄 살인 사건을 추적하는 두 남자 역을 맡았습니다."
+  },
+  {
+    "id": "cul_180",
+    "category": "culture",
+    "question": "유튜브 콘텐츠 중 'ASMR'의 뜻은?",
+    "options": ["자율 감각 쾌락 반응", "오디오 사운드 뮤직 리듬", "자동 수면 명상 릴렉스", "어쿠스틱 센서리 뮤직 리스폰스"],
+    "answer": 0,
+    "explanation": "ASMR은 'Autonomous Sensory Meridian Response(자율 감각 쾌락 반응)'의 약자입니다."
+  },
+  {
+    "id": "cul_181",
+    "category": "culture",
+    "question": "한국에서 '밈'으로 유행한 '어쩔티비'의 용도는?",
+    "options": ["TV를 추천할 때", "대화를 끊거나 응수할 때", "TV 프로그램을 소개할 때", "이별할 때"],
+    "answer": 1,
+    "explanation": "'어쩔티비'는 MZ세대 사이에서 상대방의 말에 대한 재치 있는 응수로 사용되는 밈입니다."
+  },
+  {
+    "id": "cul_182",
+    "category": "culture",
+    "question": "영화 '토이 스토리' 시리즈에서 카우보이 인형 우디의 성우(영어 원판)는?",
+    "options": ["톰 행크스", "팀 앨런", "에디 머피", "빌 머레이"],
+    "answer": 0,
+    "explanation": "톰 행크스는 '토이 스토리' 시리즈에서 우디의 성우를 맡아 캐릭터에 생명을 불어넣었습니다."
+  },
+  {
+    "id": "cul_183",
+    "category": "culture",
+    "question": "한국 드라마 '지리산'의 촬영지는?",
+    "options": ["한라산", "설악산", "지리산", "북한산"],
+    "answer": 2,
+    "explanation": "'지리산'은 실제 지리산을 배경으로 국립공원 레인저들의 이야기를 다룬 드라마입니다."
+  },
+  {
+    "id": "cul_184",
+    "category": "culture",
+    "question": "웹툰 '갓 오브 하이스쿨'의 주요 소재는?",
+    "options": ["로맨스", "격투기/무술", "추리", "호러"],
+    "answer": 1,
+    "explanation": "'갓 오브 하이스쿨'은 고등학생들의 격투기 토너먼트를 소재로 한 액션 웹툰입니다."
+  },
+  {
+    "id": "cul_185",
+    "category": "culture",
+    "question": "한국 음악 프로듀서 방시혁이 설립한 회사(현재 이름)는?",
+    "options": ["SM엔터테인먼트", "하이브(HYBE)", "JYP엔터테인먼트", "YG엔터테인먼트"],
+    "answer": 1,
+    "explanation": "방시혁은 빅히트엔터테인먼트를 설립했으며, 이후 사명을 하이브(HYBE)로 변경했습니다."
+  },
+  {
+    "id": "cul_186",
+    "category": "culture",
+    "question": "영화 '다크 나이트'에서 조커 역을 맡은 배우는?",
+    "options": ["잭 니콜슨", "호아킨 피닉스", "히스 레저", "자레드 레토"],
+    "answer": 2,
+    "explanation": "히스 레저는 '다크 나이트'(2008)에서 조커 역으로 사후 아카데미 남우조연상을 수상했습니다."
+  },
+  {
+    "id": "cul_187",
+    "category": "culture",
+    "question": "한국 드라마 '선재 업고 튀어'에서 시간 여행의 매개체가 되는 것은?",
+    "options": ["전화기", "일기장", "노래(음악)", "사진"],
+    "answer": 2,
+    "explanation": "주인공은 선재의 노래를 통해 과거로 이동하며, 음악이 시간 여행의 핵심 매개체입니다."
+  },
+  {
+    "id": "cul_188",
+    "category": "culture",
+    "question": "F1 드라이버 중 역대 최다 월드 챔피언십 우승 기록 보유자(2025년 기준)는?",
+    "options": ["미하엘 슈마허", "루이스 해밀턴", "세바스찬 베텔", "막스 페르스타펀"],
+    "answer": 1,
+    "explanation": "루이스 해밀턴은 F1 역대 최다 월드 챔피언십 타이틀을 보유하고 있습니다."
+  },
+  {
+    "id": "cul_189",
+    "category": "culture",
+    "question": "한국 영화 '곡성'의 장르는?",
+    "options": ["코미디", "로맨스", "호러/미스터리", "액션"],
+    "answer": 2,
+    "explanation": "'곡성'(2016)은 전라남도 곡성군을 배경으로 의문의 사건을 다룬 호러/미스터리 영화입니다."
+  },
+  {
+    "id": "cul_190",
+    "category": "culture",
+    "question": "K-pop에서 '센 언니' 콘셉트로 유명한 걸그룹은?",
+    "options": ["트와이스", "레드벨벳", "2NE1", "오마이걸"],
+    "answer": 2,
+    "explanation": "2NE1은 걸크러시, '센 언니' 콘셉트를 대중화시킨 선구적인 걸그룹으로 평가받습니다."
+  },
+  {
+    "id": "cul_191",
+    "category": "culture",
+    "question": "드라마 '오징어 게임'에서 주인공 성기훈의 참가 번호는?",
+    "options": ["001", "067", "218", "456"],
+    "answer": 3,
+    "explanation": "성기훈(이정재)의 참가 번호는 456번으로, 마지막 참가자 번호입니다."
+  },
+  {
+    "id": "cul_192",
+    "category": "culture",
+    "question": "한국에서 '카공족'의 의미는?",
+    "options": ["카카오 공유 족", "카메라 공포 족", "카페에서 공부하는 사람들", "카드 공짜 족"],
+    "answer": 2,
+    "explanation": "'카공족'은 '카페에서 공부하는 사람들'의 줄임말로, 카페를 학습 공간으로 이용하는 문화를 나타냅니다."
+  },
+  {
+    "id": "cul_193",
+    "category": "culture",
+    "question": "애니메이션 '체인소 맨'의 주인공 덴지가 합체한 악마는?",
+    "options": ["불의 악마", "총의 악마", "체인소 악마", "컨트롤 악마"],
+    "answer": 2,
+    "explanation": "덴지는 반려 악마 포치타(체인소 악마)와 합체하여 체인소 맨이 됩니다."
+  },
+  {
+    "id": "cul_194",
+    "category": "culture",
+    "question": "한국에서 '부캐'라는 용어의 의미는?",
+    "options": ["부끄러운 캐릭터", "부업 캐릭터", "부(副)캐릭터, 제2의 자아", "부모 캐릭터"],
+    "answer": 2,
+    "explanation": "'부캐'는 본래 게임의 부(副)캐릭터에서 유래하여, 일상에서 또 다른 자아/페르소나를 뜻합니다."
+  },
+  {
+    "id": "cul_195",
+    "category": "culture",
+    "question": "영화 '위플래쉬'에서 주인공이 연주하는 악기는?",
+    "options": ["피아노", "기타", "드럼", "색소폰"],
+    "answer": 2,
+    "explanation": "'위플래쉬'의 주인공 앤드류는 명문 음악학교에서 드럼을 전공하는 학생입니다."
+  },
+  {
+    "id": "cul_196",
+    "category": "culture",
+    "question": "한국 예능 '꽃보다 할배'에서 여행 가이드를 맡은 배우는?",
+    "options": ["이서진", "차태현", "조인성", "유해진"],
+    "answer": 0,
+    "explanation": "이서진은 '꽃보다 할배'에서 선배 배우들의 여행 가이드 역할을 맡았습니다."
+  },
+  {
+    "id": "cul_197",
+    "category": "culture",
+    "question": "한국 드라마 '나의 해방일지'의 배경 지역은?",
+    "options": ["서울 강남", "경기도 산포(시골)", "부산", "제주도"],
+    "answer": 1,
+    "explanation": "'나의 해방일지'는 경기도 외곽의 시골 마을 산포를 배경으로 세 남매의 이야기를 그립니다."
+  },
+  {
+    "id": "cul_198",
+    "category": "culture",
+    "question": "한국 가수 중 '미스터트롯' 시즌 1 최종 우승자(진)는?",
+    "options": ["영탁", "임영웅", "이찬원", "정동원"],
+    "answer": 1,
+    "explanation": "임영웅은 TV조선 '미스터트롯' 시즌 1에서 최종 우승(진)을 차지했습니다."
+  },
+  {
+    "id": "cul_199",
+    "category": "culture",
+    "question": "영화 '그래비티'에서 주연을 맡은 배우는?",
+    "options": ["앤 해서웨이", "산드라 블록", "나탈리 포트만", "줄리아 로버츠"],
+    "answer": 1,
+    "explanation": "산드라 블록은 우주에서 표류하는 우주비행사 역으로 '그래비티'(2013)에서 주연을 맡았습니다."
+  },
+  {
+    "id": "cul_200",
+    "category": "culture",
+    "question": "웹툰 '유미의 세포들'이 다루는 독특한 소재는?",
+    "options": ["뇌 속 감정 세포들의 의인화", "세포 분열", "미생물 세계", "인체 기관 여행"],
+    "answer": 0,
+    "explanation": "'유미의 세포들'은 주인공의 뇌 속 감정 세포들이 의인화되어 활동하는 독특한 설정의 웹툰입니다."
+  },
+  {
+    "id": "cul_201",
+    "category": "culture",
+    "question": "한국 드라마 '해를 품은 달'의 원작 매체는?",
+    "options": ["웹툰", "소설", "영화", "뮤지컬"],
+    "answer": 1,
+    "explanation": "'해를 품은 달'은 정은궐 작가의 동명 소설을 원작으로 한 사극 드라마입니다."
+  },
+  {
+    "id": "cul_202",
+    "category": "culture",
+    "question": "세계적인 팝스타 비욘세의 남편은?",
+    "options": ["카니예 웨스트", "제이지(Jay-Z)", "드레이크", "위켄드"],
+    "answer": 1,
+    "explanation": "비욘세는 래퍼이자 사업가인 제이지(Jay-Z)와 2008년 결혼했습니다."
+  },
+  {
+    "id": "cul_203",
+    "category": "culture",
+    "question": "한국에서 '혼밥', '혼술', '혼영' 등의 '혼(혼자)' 문화가 확산된 배경은?",
+    "options": ["경제 불황", "1인 가구 증가", "코로나19 팬데믹", "위 모두 영향"],
+    "answer": 3,
+    "explanation": "1인 가구 증가, 개인주의 확산, 코로나19 등 복합적 요인이 '혼' 문화 확산에 기여했습니다."
+  },
+  {
+    "id": "cul_204",
+    "category": "culture",
+    "question": "K-pop 걸그룹 (여자)아이들의 리더이자 주요 프로듀서는?",
+    "options": ["미연", "소연", "우기", "슈화"],
+    "answer": 1,
+    "explanation": "전소연은 (여자)아이들의 리더이자 작사·작곡·프로듀싱을 담당하는 다재다능한 아티스트입니다."
+  },
+  {
+    "id": "cul_205",
+    "category": "culture",
+    "question": "영화 '쥬라기 공원'에서 공룡을 복원하는 데 사용한 DNA의 출처는?",
+    "options": ["화석", "호박(amber) 속 모기", "빙하", "해저 퇴적물"],
+    "answer": 1,
+    "explanation": "영화에서는 호박 속에 보존된 선사시대 모기의 피에서 공룡 DNA를 추출하여 복원합니다."
+  },
+  {
+    "id": "cul_206",
+    "category": "culture",
+    "question": "한국 프로농구(KBL)에서 가장 많은 우승을 차지한 팀은?",
+    "options": ["서울 삼성 썬더스", "울산 현대모비스 피버스", "전주 KCC 이지스", "원주 DB 프로미"],
+    "answer": 1,
+    "explanation": "현대모비스 피버스(구 울산 현대모비스)는 KBL 역대 최다 우승 기록을 보유하고 있습니다."
+  },
+  {
+    "id": "cul_207",
+    "category": "culture",
+    "question": "한국 드라마 '갯마을 차차차'의 배경은?",
+    "options": ["서울 도심", "해안가 마을", "산골 마을", "제주도 오름"],
+    "answer": 1,
+    "explanation": "'갯마을 차차차'는 해안가의 작은 마을 공진을 배경으로 한 힐링 로맨스 드라마입니다."
+  },
+  {
+    "id": "cul_208",
+    "category": "culture",
+    "question": "일본 만화 '데스노트'에서 데스노트를 떨어뜨린 사신의 이름은?",
+    "options": ["렘", "류크", "젤러스", "시도우"],
+    "answer": 1,
+    "explanation": "사신 류크는 심심해서 인간 세계에 데스노트를 떨어뜨렸고, 야가미 라이토가 이를 줍게 됩니다."
+  },
+  {
+    "id": "cul_209",
+    "category": "culture",
+    "question": "한국에서 '깜빡이 유튜버'란?",
+    "options": ["깜빡 깜빡 신호를 보내는 사람", "짧은 시간만 활동하는 유튜버", "조회수가 눈 깜짝할 새 느는 유튜버", "실존하지 않는 용어"],
+    "answer": 3,
+    "explanation": "'깜빡이 유튜버'는 일반적으로 사용되지 않는 용어입니다."
+  },
+  {
+    "id": "cul_210",
+    "category": "culture",
+    "question": "영화 '엘리멘탈'(2023)의 제작사는?",
+    "options": ["드림웍스", "일루미네이션", "픽사", "블루 스카이"],
+    "answer": 2,
+    "explanation": "픽사의 '엘리멘탈'은 불, 물, 흙, 바람의 원소들이 살아가는 세계를 배경으로 합니다."
+  },
+  {
+    "id": "cul_211",
+    "category": "culture",
+    "question": "한국 드라마 '재벌집 막내아들'의 원작은?",
+    "options": ["소설", "웹소설", "웹툰", "영화"],
+    "answer": 1,
+    "explanation": "'재벌집 막내아들'은 산경 작가의 동명 웹소설을 원작으로 한 JTBC 드라마입니다."
+  },
+  {
+    "id": "cul_212",
+    "category": "culture",
+    "question": "K-pop에서 '안무 연습 영상(Dance Practice)'을 가장 먼저 본격적으로 공개한 그룹으로 평가받는 팀은?",
+    "options": ["빅뱅", "소녀시대", "방탄소년단", "EXO"],
+    "answer": 2,
+    "explanation": "BTS는 초기부터 유튜브에 안무 연습 영상을 적극 공개하여 팬 소통 방식을 혁신했습니다."
+  },
+  {
+    "id": "cul_213",
+    "category": "culture",
+    "question": "한국에서 '플렉스(flex)'라는 용어가 의미하는 것은?",
+    "options": ["운동하기", "과시적 소비", "유연성", "절약"],
+    "answer": 1,
+    "explanation": "'플렉스'는 원래 힙합 문화에서 유래한 표현으로, 한국에서는 과시적 소비를 뜻하는 유행어입니다."
+  },
+  {
+    "id": "cul_214",
+    "category": "culture",
+    "question": "영화 '슈렉'을 제작한 애니메이션 스튜디오는?",
+    "options": ["픽사", "드림웍스", "디즈니", "블루 스카이"],
+    "answer": 1,
+    "explanation": "드림웍스 애니메이션이 '슈렉'(2001)을 제작했으며, 시리즈로 이어졌습니다."
+  },
+  {
+    "id": "cul_215",
+    "category": "culture",
+    "question": "한국 프로야구에서 '4할 타율'을 기록한 선수가 있는가?",
+    "options": ["있다 (이승엽)", "있다 (백인천)", "있다 (장효조)", "공식 기록에는 없다"],
+    "answer": 2,
+    "explanation": "장효조는 1982년 KBO 원년 시즌에 4할 타율(0.412)을 기록했습니다."
+  },
+  {
+    "id": "cul_216",
+    "category": "culture",
+    "question": "한국 드라마 '마이 리틀 텔레비전'의 특징은?",
+    "options": ["인터넷 실시간 방송", "녹화 방송", "라디오 방송", "팟캐스트"],
+    "answer": 0,
+    "explanation": "'마이 리틀 텔레비전'은 인터넷 실시간 스트리밍과 TV 방송을 결합한 새로운 형태의 예능입니다."
+  },
+  {
+    "id": "cul_217",
+    "category": "culture",
+    "question": "웹툰 '노블레스'의 주인공 카디스 에트라마 디 라이제르의 별칭은?",
+    "options": ["귀족", "노블레스", "무지류", "프랑켄슈타인"],
+    "answer": 1,
+    "explanation": "라이(카디스 에트라마 디 라이제르)는 '노블레스'(고귀한 존재)라는 별칭을 가진 최강의 귀족입니다."
+  },
+  {
+    "id": "cul_218",
+    "category": "culture",
+    "question": "한국에서 '핫플(핫플레이스)'의 의미는?",
+    "options": ["뜨거운 음식점", "인기 있는 장소", "핫도그 맛집", "온천"],
+    "answer": 1,
+    "explanation": "'핫플'은 '핫플레이스'의 줄임말로, 많은 사람들이 찾는 인기 있는 장소를 뜻합니다."
+  },
+  {
+    "id": "cul_219",
+    "category": "culture",
+    "question": "영화 '탑건: 매버릭'에서 톰 크루즈가 조종하는 전투기의 종류는?",
+    "options": ["F-14 톰캣", "F/A-18 슈퍼 호넷", "F-22 랩터", "F-35 라이트닝"],
+    "answer": 1,
+    "explanation": "'탑건: 매버릭'에서 매버릭은 F/A-18 슈퍼 호넷을 주로 조종합니다."
+  },
+  {
+    "id": "cul_220",
+    "category": "culture",
+    "question": "K-pop 그룹 빅뱅의 리더는?",
+    "options": ["G-드래곤", "태양", "대성", "탑"],
+    "answer": 0,
+    "explanation": "G-드래곤(권지용)은 빅뱅의 리더이자 작사·작곡·프로듀싱을 담당하는 아티스트입니다."
+  },
+  {
+    "id": "cul_221",
+    "category": "culture",
+    "question": "한국 드라마 '살인자의 쇼핑목록'의 배경은?",
+    "options": ["백화점", "대형마트", "시장", "편의점"],
+    "answer": 1,
+    "explanation": "'살인자의 쇼핑목록'은 대형마트를 배경으로 영수증 단서로 사건을 풀어가는 드라마입니다."
+  },
+  {
+    "id": "cul_222",
+    "category": "culture",
+    "question": "세계에서 가장 많이 팔린 음반(앨범)은?",
+    "options": ["Michael Jackson - Bad", "Eagles - Their Greatest Hits", "Michael Jackson - Thriller", "AC/DC - Back in Black"],
+    "answer": 2,
+    "explanation": "마이클 잭슨의 'Thriller'는 약 7,000만 장 이상 판매되며 역대 최다 판매 앨범으로 기록되어 있습니다."
+  },
+  {
+    "id": "cul_223",
+    "category": "culture",
+    "question": "한국 예능 '유 퀴즈 온 더 블럭'의 진행자 조합은?",
+    "options": ["강호동 & 이수근", "유재석 & 조세호", "신동엽 & 성시경", "이경규 & 이영자"],
+    "answer": 1,
+    "explanation": "유재석과 조세호가 진행하는 '유 퀴즈 온 더 블럭'은 일반인 인터뷰 기반 예능입니다."
+  },
+  {
+    "id": "cul_224",
+    "category": "culture",
+    "question": "일본 애니메이션 '하이큐!!'에서 다루는 스포츠는?",
+    "options": ["농구", "야구", "배구", "축구"],
+    "answer": 2,
+    "explanation": "'하이큐!!'는 고등학교 남자 배구부를 소재로 한 스포츠 애니메이션입니다."
+  },
+  {
+    "id": "cul_225",
+    "category": "culture",
+    "question": "한국에서 '라방'이 줄임말인 것은?",
+    "options": ["라디오 방송", "라이브 방송", "라면 방송", "라이트 방송"],
+    "answer": 1,
+    "explanation": "'라방'은 '라이브 방송'의 줄임말로, 실시간 인터넷 방송을 뜻합니다."
+  },
+  {
+    "id": "cul_226",
+    "category": "culture",
+    "question": "영화 '노트북'의 원작 소설 작가는?",
+    "options": ["존 그린", "니콜라스 스파크스", "스티븐 킹", "댄 브라운"],
+    "answer": 1,
+    "explanation": "니콜라스 스파크스의 동명 소설을 원작으로 한 '노트북'(2004)은 대표적인 로맨스 영화입니다."
+  },
+  {
+    "id": "cul_227",
+    "category": "culture",
+    "question": "한국 드라마 '스물다섯 스물하나'의 시대적 배경은?",
+    "options": ["1980년대", "1990년대 후반 IMF 시기", "2000년대 초반", "2010년대"],
+    "answer": 1,
+    "explanation": "'스물다섯 스물하나'는 1998년 IMF 외환 위기 시기를 배경으로 한 청춘 성장 드라마입니다."
+  },
+  {
+    "id": "cul_228",
+    "category": "culture",
+    "question": "K-pop에서 '팬싸(팬사인회)'를 응모하기 위해 주로 구매하는 것은?",
+    "options": ["콘서트 티켓", "앨범 CD", "굿즈(상품)", "음원"],
+    "answer": 1,
+    "explanation": "팬사인회 참석 기회는 주로 앨범 CD 구매자를 대상으로 추첨하여 제공됩니다."
+  },
+  {
+    "id": "cul_229",
+    "category": "culture",
+    "question": "영화 '파묘'(2024)의 감독은?",
+    "options": ["봉준호", "장재현", "박찬욱", "나홍진"],
+    "answer": 1,
+    "explanation": "장재현 감독의 '파묘'(2024)는 풍수사와 무당이 묘를 이장하며 벌어지는 오컬트 영화입니다."
+  },
+  {
+    "id": "cul_230",
+    "category": "culture",
+    "question": "한국에서 가장 많은 구독자를 보유한 유튜브 채널(2025년 기준)은?",
+    "options": ["보겸", "핑크퐁", "BLACKPINK", "BANGTANTV(BTS)"],
+    "answer": 1,
+    "explanation": "핑크퐁(Pinkfong)은 '아기상어' 등 어린이 콘텐츠로 한국 기반 채널 중 최다 구독자를 보유합니다."
+  },
+  {
+    "id": "cul_231",
+    "category": "culture",
+    "question": "일본 만화 '블리치'에서 주인공 쿠로사키 이치고가 사용하는 참파도의 이름은?",
+    "options": ["천쇄참월", "잔월", "센본자쿠라", "효린마루"],
+    "answer": 1,
+    "explanation": "쿠로사키 이치고의 참파도 이름은 '잔월(잔겟수)'입니다."
+  },
+  {
+    "id": "cul_232",
+    "category": "culture",
+    "question": "한국 드라마 '알함브라 궁전의 추억'에서 사용된 기술적 소재는?",
+    "options": ["인공지능", "AR(증강현실) 게임", "타임머신", "로봇"],
+    "answer": 1,
+    "explanation": "'알함브라 궁전의 추억'은 AR(증강현실) 게임이 현실에 영향을 미치는 설정의 드라마입니다."
+  },
+  {
+    "id": "cul_233",
+    "category": "culture",
+    "question": "세계적인 K-beauty 트렌드 중 '글래스 스킨(glass skin)'의 의미는?",
+    "options": ["유리처럼 투명하고 매끈한 피부", "반짝이는 화장", "유리 소재 화장품", "얇은 메이크업"],
+    "answer": 0,
+    "explanation": "'글래스 스킨'은 유리처럼 매끄럽고 투명한 피부를 뜻하는 K-beauty 트렌드 용어입니다."
+  },
+  {
+    "id": "cul_234",
+    "category": "culture",
+    "question": "영화 '매드맥스: 분노의 도로'의 감독은?",
+    "options": ["크리스토퍼 놀란", "리들리 스콧", "조지 밀러", "마이클 베이"],
+    "answer": 2,
+    "explanation": "조지 밀러 감독의 '매드맥스: 분노의 도로'(2015)는 액션 영화의 걸작으로 평가받습니다."
+  },
+  {
+    "id": "cul_235",
+    "category": "culture",
+    "question": "한국 예능 프로그램 '아는 형님'의 배경 콘셉트는?",
+    "options": ["법정", "교실(학교)", "회사", "군대"],
+    "answer": 1,
+    "explanation": "'아는 형님'은 학교 교실을 배경으로 게스트가 전학생으로 등장하는 토크쇼 예능입니다."
+  },
+  {
+    "id": "cul_236",
+    "category": "culture",
+    "question": "K-pop 그룹 에이핑크(Apink)의 소속사는?",
+    "options": ["SM엔터테인먼트", "IST엔터테인먼트(구 플레이엠)", "JYP엔터테인먼트", "FNC엔터테인먼트"],
+    "answer": 1,
+    "explanation": "에이핑크는 IST엔터테인먼트(구 플레이엠엔터테인먼트) 소속 그룹입니다."
+  },
+  {
+    "id": "cul_237",
+    "category": "culture",
+    "question": "영화 '업'(2009)에서 집을 하늘로 떠오르게 한 방법은?",
+    "options": ["로켓 엔진", "풍선", "헬리콥터 프로펠러", "마법"],
+    "answer": 1,
+    "explanation": "칼 할아버지는 수천 개의 헬륨 풍선을 이용해 자신의 집을 하늘로 띄웠습니다."
+  },
+  {
+    "id": "cul_238",
+    "category": "culture",
+    "question": "한국에서 '오운완(오늘 운동 완료)'이 유행하게 된 주요 플랫폼은?",
+    "options": ["페이스북", "트위터", "인스타그램", "유튜브"],
+    "answer": 2,
+    "explanation": "'오운완'은 인스타그램에서 운동 인증 사진을 올리는 해시태그로 유행한 문화입니다."
+  },
+  {
+    "id": "cul_239",
+    "category": "culture",
+    "question": "한국 드라마 '경이로운 소문'의 원작은?",
+    "options": ["소설", "웹툰", "영화", "게임"],
+    "answer": 1,
+    "explanation": "'경이로운 소문'은 장이 작가의 동명 웹툰을 원작으로 한 OCN 드라마입니다."
+  },
+  {
+    "id": "cul_240",
+    "category": "culture",
+    "question": "NFL(미국프로풋볼)의 결승전 경기를 부르는 이름은?",
+    "options": ["월드 시리즈", "슈퍼볼", "스탠리 컵", "NBA 파이널"],
+    "answer": 1,
+    "explanation": "슈퍼볼(Super Bowl)은 NFL의 시즌 결승전으로, 미국 최대의 스포츠 이벤트입니다."
+  },
+  {
+    "id": "cul_241",
+    "category": "culture",
+    "question": "한국 웹툰 '바른 연애 길잡이'의 장르는?",
+    "options": ["판타지", "연애/로맨스", "액션", "공포"],
+    "answer": 1,
+    "explanation": "'바른 연애 길잡이'는 남녀의 연애를 현실적으로 그린 로맨스 웹툰입니다."
+  },
+  {
+    "id": "cul_242",
+    "category": "culture",
+    "question": "영화 '패러사이트'는 '기생충'의 어느 시장 제목인가?",
+    "options": ["일본", "중국", "영어권(해외)", "프랑스"],
+    "answer": 2,
+    "explanation": "'기생충'의 영어 제목이 'Parasite'이며, 이 제목으로 국제적으로 알려졌습니다."
+  },
+  {
+    "id": "cul_243",
+    "category": "culture",
+    "question": "K-pop에서 '음방 1위'를 할 수 있는 방송 프로그램 수는?(주요 지상파+케이블 기준)",
+    "options": ["3개", "5개", "6개", "8개"],
+    "answer": 2,
+    "explanation": "뮤직뱅크(KBS), 인기가요(SBS), 음악중심(MBC), 엠카운트다운(Mnet), 더쇼, 쇼챔피언 등 약 6개입니다."
+  },
+  {
+    "id": "cul_244",
+    "category": "culture",
+    "question": "한국 드라마 '이상한 변호사 우영우'에서 우영우가 좋아하는 동물은?",
+    "options": ["강아지", "고양이", "고래", "돌고래"],
+    "answer": 2,
+    "explanation": "우영우는 고래를 매우 좋아하며, 드라마 곳곳에서 고래에 대한 지식을 보여줍니다."
+  },
+  {
+    "id": "cul_245",
+    "category": "culture",
+    "question": "애니메이션 '에반게리온'의 정식 제목에 포함된 단어는?",
+    "options": ["기동전사", "신세기", "신세기 에반게리온", "초시공"],
+    "answer": 2,
+    "explanation": "'신세기 에반게리온(Neon Genesis Evangelion)'은 1995년 방영된 일본의 전설적 로봇 애니메이션입니다."
+  },
+  {
+    "id": "cul_246",
+    "category": "culture",
+    "question": "한국에서 '숏폼(Short-form)' 콘텐츠의 대표적인 플랫폼이 아닌 것은?",
+    "options": ["틱톡", "유튜브 쇼츠", "인스타그램 릴스", "왓챠"],
+    "answer": 3,
+    "explanation": "왓챠는 장편 영화/드라마를 제공하는 OTT 서비스이며, 숏폼 콘텐츠 플랫폼은 아닙니다."
+  },
+  {
+    "id": "cul_247",
+    "category": "culture",
+    "question": "영화 '어벤져스'에서 닉 퓨리 역을 맡은 배우는?",
+    "options": ["모건 프리먼", "사무엘 L. 잭슨", "덴절 워싱턴", "이드리스 엘바"],
+    "answer": 1,
+    "explanation": "사무엘 L. 잭슨은 MCU에서 S.H.I.E.L.D.의 수장 닉 퓨리 역을 맡았습니다."
+  },
+  {
+    "id": "cul_248",
+    "category": "culture",
+    "question": "한국 드라마 '눈물의 여왕'(2024)에서 주연을 맡은 배우 조합은?",
+    "options": ["송중기 & 전지현", "김수현 & 김지원", "현빈 & 손예진", "이종석 & 한효주"],
+    "answer": 1,
+    "explanation": "김수현과 김지원이 '눈물의 여왕'에서 부부 역을 맡아 tvN 역대 최고 시청률을 기록했습니다."
+  },
+  {
+    "id": "cul_249",
+    "category": "culture",
+    "question": "K-pop 그룹 ITZY의 데뷔곡은?",
+    "options": ["ICY", "DALLA DALLA", "WANNABE", "마.피.아. In the morning"],
+    "answer": 1,
+    "explanation": "ITZY는 2019년 JYP엔터테인먼트에서 'DALLA DALLA'로 데뷔했습니다."
+  },
+  {
+    "id": "cul_250",
+    "category": "culture",
+    "question": "한국 영화 '택시운전사'에서 다루는 역사적 사건은?",
+    "options": ["4.19 혁명", "5.18 광주 민주화 운동", "6.25 전쟁", "6월 민주 항쟁"],
+    "answer": 1,
+    "explanation": "'택시운전사'(2017)는 1980년 5.18 광주 민주화 운동을 배경으로 한 실화 기반 영화입니다."
+  },
+  {
+    "id": "cul_251",
+    "category": "culture",
+    "question": "인스타그램에서 사진과 함께 사용되는 '#ootd'의 의미는?",
+    "options": ["Out Of The Door", "Outfit Of The Day", "Order Of The Day", "One Of Those Days"],
+    "answer": 1,
+    "explanation": "'#ootd'는 'Outfit Of The Day(오늘의 옷차림)'의 약자로, 패션 인증 사진에 사용됩니다."
+  },
+  {
+    "id": "cul_252",
+    "category": "culture",
+    "question": "한국 드라마 '무인도의 디바'에서 주인공이 무인도에서 보낸 기간은?",
+    "options": ["5년", "10년", "15년", "20년"],
+    "answer": 2,
+    "explanation": "주인공은 15년간 무인도에서 살아남은 후 세상으로 돌아와 가수의 꿈을 이어갑니다."
+  },
+  {
+    "id": "cul_253",
+    "category": "culture",
+    "question": "일본 만화 '헌터×헌터'의 작가는?",
+    "options": ["오다 에이치로", "토가시 요시히로", "이노우에 타케히코", "키시모토 마사시"],
+    "answer": 1,
+    "explanation": "토가시 요시히로는 '헌터×헌터'와 '유유백서'의 작가로 유명합니다."
+  },
+  {
+    "id": "cul_254",
+    "category": "culture",
+    "question": "한국에서 '덕후'의 의미는?",
+    "options": ["나이 든 사람", "특정 분야에 열정적인 팬/매니아", "행운의 사람", "부자"],
+    "answer": 1,
+    "explanation": "'덕후'는 일본어 '오타쿠'에서 유래한 말로, 특정 분야에 깊이 빠진 팬을 뜻합니다."
+  },
+  {
+    "id": "cul_255",
+    "category": "culture",
+    "question": "영화 '해리 포터' 시리즈에서 해리 포터 역을 맡은 배우는?",
+    "options": ["로버트 패틴슨", "엘라이저 우드", "다니엘 래드클리프", "톰 펠턴"],
+    "answer": 2,
+    "explanation": "다니엘 래드클리프는 2001년부터 2011년까지 해리 포터 역을 맡았습니다."
+  },
+  {
+    "id": "cul_256",
+    "category": "culture",
+    "question": "한국 예능 '나영석 PD'의 대표 프로그램이 아닌 것은?",
+    "options": ["삼시세끼", "신서유기", "놀면 뭐하니", "꽃보다 할배"],
+    "answer": 2,
+    "explanation": "'놀면 뭐하니'는 김태호 PD의 프로그램이며, 나머지는 나영석 PD의 대표작입니다."
+  },
+  {
+    "id": "cul_257",
+    "category": "culture",
+    "question": "K-pop 그룹 레드벨벳의 멤버 수는?",
+    "options": ["4명", "5명", "6명", "7명"],
+    "answer": 1,
+    "explanation": "레드벨벳은 아이린, 슬기, 웬디, 조이, 예리 5명으로 구성되어 있습니다."
+  },
+  {
+    "id": "cul_258",
+    "category": "culture",
+    "question": "넷플릭스 시리즈 '위쳐'의 원작은?",
+    "options": ["게임", "폴란드 소설", "미국 만화", "영국 드라마"],
+    "answer": 1,
+    "explanation": "'위쳐'는 폴란드 작가 안드제이 사프코프스키의 판타지 소설 시리즈가 원작입니다."
+  },
+  {
+    "id": "cul_259",
+    "category": "culture",
+    "question": "한국에서 '갓벽(갓+완벽)'이라는 신조어의 의미는?",
+    "options": ["벽을 잘 세우는 것", "완벽 그 자체", "신이 만든 벽", "벽돌 장인"],
+    "answer": 1,
+    "explanation": "'갓벽'은 'God'과 '완벽'의 합성어로, 더할 나위 없이 완벽하다는 의미의 신조어입니다."
+  },
+  {
+    "id": "cul_260",
+    "category": "culture",
+    "question": "영화 '미나리'에서 한국계 미국인 가족이 이주하는 지역은?",
+    "options": ["캘리포니아", "뉴욕", "아칸소", "텍사스"],
+    "answer": 2,
+    "explanation": "'미나리'에서 이 가족은 더 나은 생활을 위해 아칸소 주의 시골 지역으로 이주합니다."
+  },
+  {
+    "id": "cul_261",
+    "category": "culture",
+    "question": "한국 드라마에서 '물' 드라마라 불리는 장르는?",
+    "options": ["바다 배경 드라마", "시청률이 높은(물이 오른) 드라마", "월화·수목·금토 등 방영 요일 드라마", "눈물이 많은 드라마"],
+    "answer": 2,
+    "explanation": "'월화(월·화) 드라마', '수목 드라마' 등 방영 요일에 따라 '~물'로 부르는 것이 관례입니다."
+  },
+  {
+    "id": "cul_262",
+    "category": "culture",
+    "question": "게임 '포트나이트'의 개발사는?",
+    "options": ["라이엇 게임즈", "에픽 게임즈", "블리자드", "밸브"],
+    "answer": 1,
+    "explanation": "에픽 게임즈(Epic Games)가 개발한 '포트나이트'는 배틀로얄 장르의 대표적 게임입니다."
+  },
+  {
+    "id": "cul_263",
+    "category": "culture",
+    "question": "한국 영화 '변호인'에서 다루는 역사적 사건은?",
+    "options": ["부림 사건", "광주 민주화 운동", "민청학련 사건", "인혁당 사건"],
+    "answer": 0,
+    "explanation": "'변호인'(2013)은 1981년 부림 사건을 모티브로 송우석 변호사(송강호)의 변론을 그립니다."
+  },
+  {
+    "id": "cul_264",
+    "category": "culture",
+    "question": "K-pop에서 '응원봉(lightstick)'을 처음 도입한 그룹으로 알려진 팀은?",
+    "options": ["H.O.T.", "빅뱅", "동방신기", "슈퍼주니어"],
+    "answer": 1,
+    "explanation": "빅뱅의 '봉봉봉(크라운 라이트스틱)'이 아이돌 공식 응원봉의 시초로 여겨집니다."
+  },
+  {
+    "id": "cul_265",
+    "category": "culture",
+    "question": "한국 드라마 '구미호뎐'에서 주인공이 변신하는 존재는?",
+    "options": ["뱀파이어", "늑대인간", "구미호(아홉 꼬리 여우)", "도깨비"],
+    "answer": 2,
+    "explanation": "이동욱이 맡은 주인공은 구미호(아홉 꼬리 여우)로, 인간과의 관계를 그린 판타지 드라마입니다."
+  },
+  {
+    "id": "cul_266",
+    "category": "culture",
+    "question": "한국에서 '성덕'이라는 용어의 의미는?",
+    "options": ["성공한 덕후", "성스러운 덕후", "성인 덕후", "덕후의 성"],
+    "answer": 0,
+    "explanation": "'성덕'은 '성공한 덕후'의 줄임말로, 좋아하는 대상을 실제로 만나거나 관련 직업을 갖게 된 팬을 뜻합니다."
+  },
+  {
+    "id": "cul_267",
+    "category": "culture",
+    "question": "영화 '인셉션'에서 꿈속인지 현실인지 확인하는 도구를 뭐라고 부르는가?",
+    "options": ["앵커", "토템", "키(Key)", "나침반"],
+    "answer": 1,
+    "explanation": "'인셉션'에서 등장인물들은 '토템'이라는 개인 소지품으로 꿈과 현실을 구별합니다."
+  },
+  {
+    "id": "cul_268",
+    "category": "culture",
+    "question": "한국 웹툰 '프리드로우'의 주요 소재는?",
+    "options": ["농구", "복싱", "축구", "수영"],
+    "answer": 0,
+    "explanation": "'프리드로우'는 농구를 소재로 한 스포츠 웹툰으로, 치열한 경기 장면이 인기입니다."
+  },
+  {
+    "id": "cul_269",
+    "category": "culture",
+    "question": "K-pop 그룹 소녀시대의 대표곡 'Gee'가 발매된 연도는?",
+    "options": ["2007년", "2008년", "2009년", "2010년"],
+    "answer": 2,
+    "explanation": "소녀시대의 'Gee'는 2009년에 발매되어 9주 연속 1위를 기록하며 국민적 인기를 얻었습니다."
+  },
+  {
+    "id": "cul_270",
+    "category": "culture",
+    "question": "한국 영화 '서울의 봄'(2023)에서 다루는 역사적 사건은?",
+    "options": ["6.25 전쟁", "4.19 혁명", "12.12 군사 반란", "5.18 광주 민주화 운동"],
+    "answer": 2,
+    "explanation": "'서울의 봄'은 1979년 12.12 군사 반란 사건을 다루며, 민주주의를 지키려는 군인들의 이야기를 그립니다."
+  },
+  {
+    "id": "cul_271",
+    "category": "culture",
+    "question": "애니메이션 '토토로(이웃집 토토로)'에서 토토로를 만나는 장소는?",
+    "options": ["바다", "숲속 큰 나무", "산꼭대기", "지하 동굴"],
+    "answer": 1,
+    "explanation": "사츠키와 메이는 시골 마을의 숲속에 있는 거대한 녹나무에서 토토로를 처음 만납니다."
+  },
+  {
+    "id": "cul_272",
+    "category": "culture",
+    "question": "한국에서 '꾸안꾸'의 의미는?",
+    "options": ["꾸미고 또 꾸미기", "꾸민 듯 안 꾸민 듯", "안 꾸미기", "꾸미지 않는 것이 최고"],
+    "answer": 1,
+    "explanation": "'꾸안꾸'는 '꾸민 듯 안 꾸민 듯'의 줄임말로, 자연스러우면서도 세련된 스타일을 뜻합니다."
+  },
+  {
+    "id": "cul_273",
+    "category": "culture",
+    "question": "한국 예능 '지구오락실'의 출연 멤버에 포함되지 않는 사람은?",
+    "options": ["이광수", "김동현", "은지원", "유재석"],
+    "answer": 3,
+    "explanation": "유재석은 '지구오락실'의 고정 출연 멤버가 아닙니다."
+  },
+  {
+    "id": "cul_274",
+    "category": "culture",
+    "question": "영화 '원더 우먼'에서 원더 우먼 역을 맡은 배우는?",
+    "options": ["스칼렛 요한슨", "갈 가돗", "브리 라슨", "마고 로비"],
+    "answer": 1,
+    "explanation": "갈 가돗(이스라엘 출신)은 DC 영화에서 다이애나 프린스/원더 우먼 역을 맡았습니다."
+  },
+  {
+    "id": "cul_275",
+    "category": "culture",
+    "question": "한국 드라마 '호텔 델루나'에서 만월(아이유)이 운영하는 것은?",
+    "options": ["카페", "호텔", "식당", "서점"],
+    "answer": 1,
+    "explanation": "만월은 죽은 영혼들이 머무르는 호텔 '호텔 델루나'의 사장으로, 원한에 묶여 운영하게 됩니다."
+  },
+  {
+    "id": "cul_276",
+    "category": "culture",
+    "question": "K-pop 아이돌 중 '군백기'의 의미는?",
+    "options": ["군대에서 돌아온 기간", "군 입대 전 마지막 활동", "군 복무 중 공백기", "군대 체력 훈련 기간"],
+    "answer": 2,
+    "explanation": "'군백기'는 K-pop 남자 아이돌이 군 복무를 하며 연예 활동을 쉬는 공백 기간을 뜻합니다."
+  },
+  {
+    "id": "cul_277",
+    "category": "culture",
+    "question": "유튜브 프리미엄의 주요 장점이 아닌 것은?",
+    "options": ["광고 없음", "오프라인 다운로드", "4K 해상도 독점", "백그라운드 재생"],
+    "answer": 2,
+    "explanation": "4K 해상도는 유튜브 프리미엄 전용이 아니며, 일반 사용자도 시청 가능합니다."
+  },
+  {
+    "id": "cul_278",
+    "category": "culture",
+    "question": "한국 영화 '신과함께'에서 사후 세계의 재판을 받는 횟수는?",
+    "options": ["3번", "5번", "7번", "9번"],
+    "answer": 2,
+    "explanation": "'신과함께'에서 죽은 사람은 49일 동안 7번의 재판을 받아야 환생할 수 있습니다."
+  },
+  {
+    "id": "cul_279",
+    "category": "culture",
+    "question": "일본 만화 '진격의 거인'이 완결된 연도는?",
+    "options": ["2019년", "2020년", "2021년", "2022년"],
+    "answer": 2,
+    "explanation": "'진격의 거인'은 2021년 4월에 만화 연재가 완결되었습니다."
+  },
+  {
+    "id": "cul_280",
+    "category": "culture",
+    "question": "한국에서 '브이로그(Vlog)'의 의미는?",
+    "options": ["비디오 + 블로그", "비주얼 + 로그", "바이럴 + 로그", "보이스 + 블로그"],
+    "answer": 0,
+    "explanation": "'브이로그'는 'Video'와 'Blog'의 합성어로, 영상으로 일상을 기록하는 콘텐츠를 뜻합니다."
+  },
+  {
+    "id": "cul_281",
+    "category": "culture",
+    "question": "K-pop 그룹 TXT(투모로우바이투게더)의 소속사는?",
+    "options": ["SM엔터테인먼트", "JYP엔터테인먼트", "빅히트 뮤직(하이브)", "YG엔터테인먼트"],
+    "answer": 2,
+    "explanation": "TXT는 BTS의 후배 그룹으로 빅히트 뮤직(하이브 산하 레이블) 소속입니다."
+  },
+  {
+    "id": "cul_282",
+    "category": "culture",
+    "question": "영화 '블레이드 러너 2049'의 배경 연도는?",
+    "options": ["2019년", "2039년", "2049년", "2099년"],
+    "answer": 2,
+    "explanation": "제목 그대로 2049년을 배경으로 레플리컨트(인조인간)와 관련된 이야기를 다룹니다."
+  },
+  {
+    "id": "cul_283",
+    "category": "culture",
+    "question": "한국 드라마 '마이 네임'의 주요 장르는?",
+    "options": ["로맨스", "느와르 액션", "코미디", "판타지"],
+    "answer": 1,
+    "explanation": "'마이 네임'은 아버지의 복수를 위해 경찰에 잠입하는 여성의 이야기를 다룬 느와르 액션 드라마입니다."
+  },
+  {
+    "id": "cul_284",
+    "category": "culture",
+    "question": "세계적으로 가장 많은 팔로워를 보유한 인스타그램 계정(개인, 2025년 기준)은?",
+    "options": ["카일리 제너", "크리스티아누 호날두", "리오넬 메시", "셀레나 고메즈"],
+    "answer": 1,
+    "explanation": "크리스티아누 호날두는 개인 인스타그램 계정 최다 팔로워를 보유하고 있습니다."
+  },
+  {
+    "id": "cul_285",
+    "category": "culture",
+    "question": "한국 웹툰 '마음의 소리'의 작가는?",
+    "options": ["기안84", "조석", "이말년", "주호민"],
+    "answer": 1,
+    "explanation": "조석 작가의 '마음의 소리'는 네이버 웹툰에서 10년 이상 연재된 개그 웹툰입니다."
+  },
+  {
+    "id": "cul_286",
+    "category": "culture",
+    "question": "한국에서 '워라밸'의 의미는?",
+    "options": ["워크 라이프 밸런스(일과 삶의 균형)", "워크 라이프 밸류", "워크 라이프 배틀", "워크 라이크 보스"],
+    "answer": 0,
+    "explanation": "'워라밸'은 'Work-Life Balance'의 줄임말로, 일과 개인 생활의 균형을 뜻합니다."
+  },
+  {
+    "id": "cul_287",
+    "category": "culture",
+    "question": "한국 드라마 '사이코지만 괜찮아'에서 고문영의 직업은?",
+    "options": ["의사", "동화 작가", "변호사", "교수"],
+    "answer": 1,
+    "explanation": "서예지가 맡은 고문영은 반사회적 성향의 동화 작가로, 독특한 캐릭터가 화제가 되었습니다."
+  },
+  {
+    "id": "cul_288",
+    "category": "culture",
+    "question": "K-pop 아이돌의 '뮤직비디오'를 줄여서 부르는 말은?",
+    "options": ["뮤비", "엠비", "엠브이", "뮤직브이"],
+    "answer": 0,
+    "explanation": "한국에서는 '뮤직비디오'를 줄여서 '뮤비'라고 부르는 것이 일반적입니다."
+  },
+  {
+    "id": "cul_289",
+    "category": "culture",
+    "question": "영화 '킹스맨'에서 주인공 에그시 역을 맡은 배우는?",
+    "options": ["콜린 퍼스", "태런 에저턴", "마크 스트롱", "사무엘 L. 잭슨"],
+    "answer": 1,
+    "explanation": "태런 에저턴은 '킹스맨: 시크릿 에이전트'에서 에그시 역을 맡아 스타덤에 올랐습니다."
+  },
+  {
+    "id": "cul_290",
+    "category": "culture",
+    "question": "한국에서 '프로불참러'라는 밈의 의미는?",
+    "options": ["약속에 잘 참여하는 사람", "약속을 자주 취소하는 사람", "프로 선수처럼 참가하는 사람", "불꽃 참치를 좋아하는 사람"],
+    "answer": 1,
+    "explanation": "'프로불참러'는 약속이나 모임에 자주 불참하는 사람을 재치 있게 표현한 밈입니다."
+  },
+  {
+    "id": "cul_291",
+    "category": "culture",
+    "question": "한국 드라마 '공부의 신'에서 다루는 주요 소재는?",
+    "options": ["범죄 수사", "입시 공부", "스포츠", "요리"],
+    "answer": 1,
+    "explanation": "'공부의 신'은 고등학생들의 대학 입시 준비를 소재로 한 드라마입니다."
+  },
+  {
+    "id": "cul_292",
+    "category": "culture",
+    "question": "애니메이션 '카구야님은 고백받고 싶어'의 장르는?",
+    "options": ["액션", "호러", "로맨틱 코미디", "SF"],
+    "answer": 2,
+    "explanation": "'카구야님은 고백받고 싶어'는 서로 좋아하면서 먼저 고백하지 않으려는 두 학생회 임원의 로맨틱 코미디입니다."
+  },
+  {
+    "id": "cul_293",
+    "category": "culture",
+    "question": "한국에서 '클린 콘텐츠'의 의미는?",
+    "options": ["깨끗한 음악", "욕설·선정적 내용이 없는 건전한 콘텐츠", "청소 관련 콘텐츠", "미니멀 콘텐츠"],
+    "answer": 1,
+    "explanation": "'클린 콘텐츠'는 욕설, 선정성 등이 없는 건전한 콘텐츠를 뜻합니다."
+  },
+  {
+    "id": "cul_294",
+    "category": "culture",
+    "question": "한국 영화 '1987'에서 다루는 역사적 사건은?",
+    "options": ["광주 민주화 운동", "6월 민주 항쟁", "12.12 군사 반란", "4.19 혁명"],
+    "answer": 1,
+    "explanation": "'1987'은 박종철 고문치사 사건과 이한열 열사 사건을 중심으로 6월 민주 항쟁을 다룹니다."
+  },
+  {
+    "id": "cul_295",
+    "category": "culture",
+    "question": "K-pop에서 'all-kill(올킬)'의 의미는?",
+    "options": ["콘서트 전석 매진", "모든 음원 차트 1위 동시 달성", "모든 멤버가 센터를 맡음", "모든 상을 수상함"],
+    "answer": 1,
+    "explanation": "'올킬'은 주요 음원 차트(멜론, 지니, 벅스 등)에서 동시에 1위를 차지하는 것을 말합니다."
+  },
+  {
+    "id": "cul_296",
+    "category": "culture",
+    "question": "영화 '닥터 스트레인지'에서 닥터 스트레인지의 본래 직업은?",
+    "options": ["변호사", "교수", "외과의사", "과학자"],
+    "answer": 2,
+    "explanation": "스티븐 스트레인지는 사고 전 뛰어난 실력을 가진 외과의사(신경외과 전문의)였습니다."
+  },
+  {
+    "id": "cul_297",
+    "category": "culture",
+    "question": "한국 드라마 '나쁜 엄마'에서 주연을 맡은 배우는?",
+    "options": ["김하늘", "라미란", "전도연", "이영애"],
+    "answer": 1,
+    "explanation": "라미란은 JTBC '나쁜 엄마'에서 아들에게 엄격한 어머니 역을 맡았습니다."
+  },
+  {
+    "id": "cul_298",
+    "category": "culture",
+    "question": "한국에서 '밈(meme)'으로 유명한 '침착맨'의 본명은?",
+    "options": ["이말년", "주호민", "김풍", "침착맨(본명 비공개)"],
+    "answer": 1,
+    "explanation": "침착맨은 웹툰 작가 주호민의 유튜브 활동명이며, '신과함께' 등의 작가로도 유명합니다."
+  },
+  {
+    "id": "cul_299",
+    "category": "culture",
+    "question": "영화 '에브리씽 에브리웨어 올 앳 원스'가 아카데미에서 수상한 부문 수는?",
+    "options": ["3개", "5개", "7개", "9개"],
+    "answer": 2,
+    "explanation": "'에브리씽 에브리웨어 올 앳 원스'는 제95회 아카데미에서 작품상 포함 7개 부문을 수상했습니다."
+  },
+  {
+    "id": "cul_300",
+    "category": "culture",
+    "question": "K-pop에서 '세계관(Universe)'을 가장 적극적으로 활용하는 것으로 유명한 기획사는?",
+    "options": ["JYP엔터테인먼트", "YG엔터테인먼트", "SM엔터테인먼트", "FNC엔터테인먼트"],
+    "answer": 2,
+    "explanation": "SM엔터테인먼트는 'SMCU(SM Culture Universe)'라는 세계관을 구축하여 소속 아티스트들의 콘텐츠를 연결합니다."
+  }
+]

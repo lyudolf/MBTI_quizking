@@ -1,0 +1,10 @@
+[
+  {"id":"title_general","category":"general","name":"살아있는 백과사전","description":"일반상식 300문제를 모두 맞힌 진정한 상식인","icon":"📖"},
+  {"id":"title_science","category":"science","name":"아인슈타인의 재림","description":"과학 300문제를 모두 맞힌 과학 천재","icon":"🧪"},
+  {"id":"title_history","category":"history","name":"타임트래블러","description":"역사 300문제를 모두 맞힌 역사 마스터","icon":"⌛"},
+  {"id":"title_culture","category":"culture","name":"문화 대통령","description":"대중문화 300문제를 모두 맞힌 문화 달인","icon":"🎬"},
+  {"id":"title_economy","category":"economy","name":"워렌버핏의 후계자","description":"경제/금융 300문제를 모두 맞힌 금융 천재","icon":"💹"},
+  {"id":"title_life","category":"life","name":"생활의 달인","description":"생활/음식 300문제를 모두 맞힌 생활 마스터","icon":"🏆"},
+  {"id":"title_tech","category":"tech","name":"실리콘밸리 CEO","description":"IT/기술 300문제를 모두 맞힌 기술 마스터","icon":"💻"},
+  {"id":"title_art","category":"art","name":"르네상스 천재","description":"음악/예술 300문제를 모두 맞힌 예술 마스터","icon":"🎨"}
+]

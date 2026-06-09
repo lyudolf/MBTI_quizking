@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "eco_001",
+    "category": "economy",
+    "question": "주식시장에서 'IPO'는 무엇의 약자인가?",
+    "options": ["Initial Public Offering", "International Payment Order", "Internal Profit Operation", "Investment Portfolio Option"],
+    "answer": 0,
+    "explanation": "IPO는 Initial Public Offering의 약자로, 기업이 처음으로 주식을 일반 투자자에게 공개 매도하는 것을 의미합니다."
+  },
+  {
+    "id": "eco_002",
+    "category": "economy",
+    "question": "한국의 대표적인 주가지수는 무엇인가?",
+    "options": ["다우존스", "닛케이225", "코스피(KOSPI)", "나스닥"],
+    "answer": 2,
+    "explanation": "코스피(KOSPI)는 한국종합주가지수로, 한국거래소에 상장된 전체 종목의 시가총액을 기반으로 산출됩니다."
+  },
+  {
+    "id": "eco_003",
+    "category": "economy",
+    "question": "GDP는 무엇의 약자인가?",
+    "options": ["Gross Domestic Product", "General Development Plan", "Global Distribution Process", "Government Debt Policy"],
+    "answer": 0,
+    "explanation": "GDP는 Gross Domestic Product(국내총생산)의 약자로, 일정 기간 한 나라 안에서 생산된 모든 재화와 서비스의 시장가치 합계입니다."
+  },
+  {
+    "id": "eco_004",
+    "category": "economy",
+    "question": "비트코인을 최초로 만든 인물(또는 가명)은 누구인가?",
+    "options": ["일론 머스크", "비탈릭 부테린", "사토시 나카모토", "잭 도시"],
+    "answer": 2,
+    "explanation": "비트코인은 2008년 '사토시 나카모토'라는 가명의 인물이 백서를 발표하며 탄생했습니다."
+  },
+  {
+    "id": "eco_005",
+    "category": "economy",
+    "question": "인플레이션이란 무엇인가?",
+    "options": ["물가가 지속적으로 하락하는 현상", "물가가 지속적으로 상승하는 현상", "환율이 급격히 변동하는 현상", "실업률이 증가하는 현상"],
+    "answer": 1,
+    "explanation": "인플레이션은 전반적인 물가 수준이 지속적으로 상승하는 현상으로, 화폐의 구매력이 하락합니다."
+  },
+  {
+    "id": "eco_006",
+    "category": "economy",
+    "question": "애덤 스미스의 대표 저서는 무엇인가?",
+    "options": ["자본론", "국부론", "고용, 이자 및 화폐의 일반이론", "경제학 원리"],
+    "answer": 1,
+    "explanation": "애덤 스미스는 1776년 '국부론(An Inquiry into the Nature and Causes of the Wealth of Nations)'을 출간하여 근대 경제학의 기초를 놓았습니다."
+  },
+  {
+    "id": "eco_007",
+    "category": "economy",
+    "question": "한국은행의 주요 역할이 아닌 것은?",
+    "options": ["통화정책 수행", "화폐 발행", "국고금 관리", "개인 대출 승인"],
+    "answer": 3,
+    "explanation": "한국은행은 중앙은행으로서 통화정책 수행, 화폐 발행, 국고금 관리 등을 담당하지만 개인 대출은 시중은행의 업무입니다."
+  },
+  {
+    "id": "eco_008",
+    "category": "economy",
+    "question": "주식시장에서 '곰(Bear)'은 무엇을 상징하는가?",
+    "options": ["상승장", "하락장", "횡보장", "변동성 확대"],
+    "answer": 1,
+    "explanation": "곰(Bear)은 하락장을 상징하며, 곰이 발톱으로 아래로 내리치는 모습에서 유래했다고 알려져 있습니다."
+  },
+  {
+    "id": "eco_009",
+    "category": "economy",
+    "question": "세계에서 시가총액이 가장 큰 기업(2024년 기준)은 어디인가?",
+    "options": ["아마존", "애플", "마이크로소프트", "사우디 아람코"],
+    "answer": 1,
+    "explanation": "애플은 2024년 기준 시가총액 약 3조 달러 이상을 기록하며 세계 최대 시가총액 기업 자리를 다투고 있습니다."
+  },
+  {
+    "id": "eco_010",
+    "category": "economy",
+    "question": "복리(Compound Interest)의 특징으로 올바른 것은?",
+    "options": ["원금에만 이자가 붙는다", "이자에도 이자가 붙는다", "이자율이 매년 감소한다", "원금이 매년 줄어든다"],
+    "answer": 1,
+    "explanation": "복리는 원금뿐 아니라 이미 발생한 이자에도 이자가 붙는 방식으로, 장기 투자 시 큰 효과를 발휘합니다."
+  },
+  {
+    "id": "eco_011",
+    "category": "economy",
+    "question": "한국의 부가가치세(VAT) 기본 세율은 몇 %인가?",
+    "options": ["5%", "8%", "10%", "15%"],
+    "answer": 2,
+    "explanation": "한국의 부가가치세 기본 세율은 10%이며, 재화나 서비스 거래 시 부과됩니다."
+  },
+  {
+    "id": "eco_012",
+    "category": "economy",
+    "question": "FTA는 무엇의 약자인가?",
+    "options": ["Free Trade Agreement", "Financial Transaction Authority", "Foreign Tax Administration", "Federal Treasury Act"],
+    "answer": 0,
+    "explanation": "FTA는 Free Trade Agreement(자유무역협정)의 약자로, 체약국 간 관세 및 무역 장벽을 철폐하는 협정입니다."
+  },
+  {
+    "id": "eco_013",
+    "category": "economy",
+    "question": "케인스 경제학의 핵심 주장은 무엇인가?",
+    "options": ["정부 개입 최소화", "자유시장이 항상 균형을 이룬다", "불황 시 정부의 적극적 재정 지출이 필요하다", "통화량만이 경제를 결정한다"],
+    "answer": 2,
+    "explanation": "존 메이너드 케인스는 불황 시 시장이 스스로 회복하기 어려우므로 정부의 적극적 재정 지출이 필요하다고 주장했습니다."
+  },
+  {
+    "id": "eco_014",
+    "category": "economy",
+    "question": "수요와 공급의 법칙에서, 가격이 올라가면 수요는 어떻게 변하는가?",
+    "options": ["증가한다", "감소한다", "변하지 않는다", "예측할 수 없다"],
+    "answer": 1,
+    "explanation": "수요의 법칙에 따르면, 다른 조건이 동일할 때 가격이 상승하면 수요량은 감소합니다."
+  },
+  {
+    "id": "eco_015",
+    "category": "economy",
+    "question": "이더리움(Ethereum)의 창시자는 누구인가?",
+    "options": ["사토시 나카모토", "찰스 호스킨슨", "비탈릭 부테린", "개빈 우드"],
+    "answer": 2,
+    "explanation": "이더리움은 비탈릭 부테린(Vitalik Buterin)이 2015년에 창시한 블록체인 플랫폼입니다."
+  },
+  {
+    "id": "eco_016",
+    "category": "economy",
+    "question": "다우존스 산업평균지수에 포함된 종목 수는 몇 개인가?",
+    "options": ["20개", "30개", "50개", "100개"],
+    "answer": 1,
+    "explanation": "다우존스 산업평균지수(DJIA)는 미국을 대표하는 30개 대형 우량주로 구성된 주가지수입니다."
+  },
+  {
+    "id": "eco_017",
+    "category": "economy",
+    "question": "'보이지 않는 손(Invisible Hand)' 개념을 제시한 경제학자는?",
+    "options": ["칼 마르크스", "존 메이너드 케인스", "애덤 스미스", "밀턴 프리드먼"],
+    "answer": 2,
+    "explanation": "애덤 스미스는 개인의 이기심이 시장의 '보이지 않는 손'에 의해 사회 전체의 이익으로 이어진다고 주장했습니다."
+  },
+  {
+    "id": "eco_018",
+    "category": "economy",
+    "question": "한국에서 소득세 최고 세율 구간(2024년 기준)은 약 몇 %인가?",
+    "options": ["35%", "40%", "42%", "45%"],
+    "answer": 3,
+    "explanation": "한국의 종합소득세 최고 세율은 과세표준 10억 원 초과 시 45%가 적용됩니다."
+  },
+  {
+    "id": "eco_019",
+    "category": "economy",
+    "question": "삼성전자가 한국 코스피 시가총액에서 차지하는 비중은 대략 얼마인가?",
+    "options": ["약 5%", "약 10%", "약 20%", "약 40%"],
+    "answer": 2,
+    "explanation": "삼성전자는 코스피 전체 시가총액의 약 20% 내외를 차지하며, 한국 주식시장에 큰 영향을 미칩니다."
+  },
+  {
+    "id": "eco_020",
+    "category": "economy",
+    "question": "디플레이션(Deflation)이란 무엇인가?",
+    "options": ["물가가 지속적으로 상승하는 현상", "물가가 지속적으로 하락하는 현상", "환율이 급등하는 현상", "금리가 급등하는 현상"],
+    "answer": 1,
+    "explanation": "디플레이션은 물가 수준이 지속적으로 하락하는 현상으로, 경기 침체와 소비 위축을 야기할 수 있습니다."
+  },
+  {
+    "id": "eco_021",
+    "category": "economy",
+    "question": "PER(주가수익비율)이 높다는 것은 무엇을 의미하는가?",
+    "options": ["주가가 이익에 비해 저평가되었다", "주가가 이익에 비해 고평가되었다", "배당금이 많다", "부채가 적다"],
+    "answer": 1,
+    "explanation": "PER(Price Earnings Ratio)이 높다는 것은 기업의 이익 대비 주가가 높게 형성되어 있다는 뜻으로, 고평가 상태를 나타낼 수 있습니다."
+  },
+  {
+    "id": "eco_022",
+    "category": "economy",
+    "question": "한국의 기준금리를 결정하는 기관은?",
+    "options": ["기획재정부", "금융위원회", "한국은행 금융통화위원회", "국회 기획재정위원회"],
+    "answer": 2,
+    "explanation": "한국의 기준금리는 한국은행 금융통화위원회가 통화정책 방향을 결정하며 설정합니다."
+  },
+  {
+    "id": "eco_023",
+    "category": "economy",
+    "question": "블록체인 기술의 핵심 특징이 아닌 것은?",
+    "options": ["탈중앙화", "데이터 변조 어려움", "거래 투명성", "중앙 서버 의존"],
+    "answer": 3,
+    "explanation": "블록체인은 탈중앙화, 데이터 무결성, 투명성을 핵심 특징으로 하며 중앙 서버에 의존하지 않는 분산원장 기술입니다."
+  },
+  {
+    "id": "eco_024",
+    "category": "economy",
+    "question": "KOSDAQ에 주로 상장되는 기업의 특징은?",
+    "options": ["대기업 위주", "벤처·중소기업 위주", "공기업 위주", "외국계 기업 위주"],
+    "answer": 1,
+    "explanation": "코스닥(KOSDAQ)은 주로 벤처기업, 중소기업, 기술 혁신 기업이 상장하는 시장입니다."
+  },
+  {
+    "id": "eco_025",
+    "category": "economy",
+    "question": "환율이 상승(원화 가치 하락)하면 수출 기업에 미치는 영향은?",
+    "options": ["수출 가격 경쟁력 저하", "수출 가격 경쟁력 상승", "영향 없음", "수입이 유리해짐"],
+    "answer": 1,
+    "explanation": "원화 가치가 하락하면 원화 표시 수출 가격이 상대적으로 낮아져 수출 기업의 가격 경쟁력이 상승합니다."
+  },
+  {
+    "id": "eco_026",
+    "category": "economy",
+    "question": "'자본론(Das Kapital)'의 저자는 누구인가?",
+    "options": ["애덤 스미스", "칼 마르크스", "존 메이너드 케인스", "프리드리히 하이에크"],
+    "answer": 1,
+    "explanation": "칼 마르크스는 1867년 '자본론'을 출간하여 자본주의 경제 체제를 비판적으로 분석했습니다."
+  },
+  {
+    "id": "eco_027",
+    "category": "economy",
+    "question": "ETF는 무엇의 약자인가?",
+    "options": ["Exchange Traded Fund", "Electronic Transfer Fee", "Equity Trading Framework", "Economic Tariff Formula"],
+    "answer": 0,
+    "explanation": "ETF는 Exchange Traded Fund(상장지수펀드)의 약자로, 특정 지수를 추종하며 주식처럼 거래되는 펀드입니다."
+  },
+  {
+    "id": "eco_028",
+    "category": "economy",
+    "question": "한국의 법정 화폐 단위는 무엇인가?",
+    "options": ["엔", "위안", "원", "달러"],
+    "answer": 2,
+    "explanation": "한국의 법정 화폐 단위는 '원(₩)'이며, 한국은행이 발행을 담당합니다."
+  },
+  {
+    "id": "eco_029",
+    "category": "economy",
+    "question": "워런 버핏이 이끄는 투자 회사의 이름은?",
+    "options": ["블랙록", "버크셔 해서웨이", "골드만삭스", "JP모건"],
+    "answer": 1,
+    "explanation": "워런 버핏은 버크셔 해서웨이(Berkshire Hathaway)의 회장으로, 가치투자의 대가로 알려져 있습니다."
+  },
+  {
+    "id": "eco_030",
+    "category": "economy",
+    "question": "기회비용(Opportunity Cost)이란 무엇인가?",
+    "options": ["실제 지출한 비용", "하나를 선택함으로써 포기한 대안의 가치", "미래에 발생할 비용", "고정적으로 발생하는 비용"],
+    "answer": 1,
+    "explanation": "기회비용은 하나의 선택을 할 때 포기한 차선책의 가치를 의미하는 경제학의 핵심 개념입니다."
+  },
+  {
+    "id": "eco_031",
+    "category": "economy",
+    "question": "한국에서 양도소득세가 부과되는 대상이 아닌 것은?",
+    "options": ["부동산 매매 차익", "비상장주식 매매 차익", "일반 예금 이자", "대주주의 상장주식 매매 차익"],
+    "answer": 2,
+    "explanation": "예금 이자는 이자소득세가 부과되며, 양도소득세는 부동산이나 주식 등 자산의 양도 차익에 대해 부과됩니다."
+  },
+  {
+    "id": "eco_032",
+    "category": "economy",
+    "question": "경상수지(Current Account)에 포함되지 않는 항목은?",
+    "options": ["상품수지", "서비스수지", "본원소득수지", "자본수지"],
+    "answer": 3,
+    "explanation": "경상수지는 상품수지, 서비스수지, 본원소득수지, 이전소득수지로 구성되며, 자본수지는 별도 항목입니다."
+  },
+  {
+    "id": "eco_033",
+    "category": "economy",
+    "question": "스태그플레이션(Stagflation)이란 무엇인가?",
+    "options": ["경기 호황과 물가 안정이 동시에 나타나는 현상", "경기 침체와 물가 상승이 동시에 나타나는 현상", "경기 호황과 물가 상승이 동시에 나타나는 현상", "경기 침체와 물가 하락이 동시에 나타나는 현상"],
+    "answer": 1,
+    "explanation": "스태그플레이션은 경기 침체(Stagnation)와 인플레이션(Inflation)이 동시에 발생하는 이례적 경제 현상입니다."
+  },
+  {
+    "id": "eco_034",
+    "category": "economy",
+    "question": "S&P 500 지수는 몇 개의 기업으로 구성되는가?",
+    "options": ["100개", "300개", "500개", "1000개"],
+    "answer": 2,
+    "explanation": "S&P 500은 미국 대형주 500개 기업의 시가총액을 기반으로 산출되는 대표적인 주가지수입니다."
+  },
+  {
+    "id": "eco_035",
+    "category": "economy",
+    "question": "한국의 예금보호 한도는 1인당 얼마인가?",
+    "options": ["3천만 원", "5천만 원", "1억 원", "2억 원"],
+    "answer": 1,
+    "explanation": "예금자보호법에 따라 금융기관별로 1인당 원금과 이자를 합산하여 5천만 원까지 보호됩니다."
+  },
+  {
+    "id": "eco_036",
+    "category": "economy",
+    "question": "비교우위(Comparative Advantage) 이론을 제시한 경제학자는?",
+    "options": ["애덤 스미스", "데이비드 리카도", "존 스튜어트 밀", "알프레드 마셜"],
+    "answer": 1,
+    "explanation": "데이비드 리카도는 비교우위 이론을 통해 상대적으로 생산비가 낮은 재화에 특화하여 무역하면 양국 모두 이익을 얻는다고 설명했습니다."
+  },
+  {
+    "id": "eco_037",
+    "category": "economy",
+    "question": "주식시장에서 '황소(Bull)'는 무엇을 상징하는가?",
+    "options": ["하락장", "상승장", "횡보장", "폭락장"],
+    "answer": 1,
+    "explanation": "황소(Bull)는 상승장을 상징하며, 황소가 뿔로 위로 치받는 모습에서 유래했다고 합니다."
+  },
+  {
+    "id": "eco_038",
+    "category": "economy",
+    "question": "한국 원화 지폐에 세종대왕이 그려진 권종은?",
+    "options": ["천 원권", "오천 원권", "만 원권", "오만 원권"],
+    "answer": 2,
+    "explanation": "만 원권 지폐에는 세종대왕의 초상이 그려져 있습니다."
+  },
+  {
+    "id": "eco_039",
+    "category": "economy",
+    "question": "한계효용체감의 법칙이란?",
+    "options": ["소비량이 늘수록 총 효용이 줄어드는 현상", "소비량이 늘수록 추가적인 만족감이 줄어드는 현상", "가격이 오를수록 수요가 늘어나는 현상", "생산량이 늘수록 비용이 줄어드는 현상"],
+    "answer": 1,
+    "explanation": "한계효용체감의 법칙은 동일한 재화를 추가로 소비할수록 그로부터 얻는 추가적 만족(한계효용)이 점점 줄어든다는 원리입니다."
+  },
+  {
+    "id": "eco_040",
+    "category": "economy",
+    "question": "DeFi는 무엇의 약자인가?",
+    "options": ["Decentralized Finance", "Digital Financial Index", "Distributed Fiscal Infrastructure", "Direct Fund Investment"],
+    "answer": 0,
+    "explanation": "DeFi는 Decentralized Finance(탈중앙화 금융)의 약자로, 블록체인 기반으로 중개자 없이 금융 서비스를 제공하는 것을 의미합니다."
+  },
+  {
+    "id": "eco_041",
+    "category": "economy",
+    "question": "한국에서 가장 큰 시중은행(자산 기준)은 어디인가?",
+    "options": ["우리은행", "신한은행", "KB국민은행", "하나은행"],
+    "answer": 2,
+    "explanation": "KB국민은행은 자산 규모 기준으로 한국 최대 시중은행 중 하나입니다."
+  },
+  {
+    "id": "eco_042",
+    "category": "economy",
+    "question": "무역에서 '관세(Tariff)'란 무엇인가?",
+    "options": ["수입품에 부과되는 세금", "수출품에 지급되는 보조금", "무역 거래 수수료", "운송 보험료"],
+    "answer": 0,
+    "explanation": "관세는 외국으로부터 수입되는 상품에 부과되는 세금으로, 국내 산업 보호 등의 목적이 있습니다."
+  },
+  {
+    "id": "eco_043",
+    "category": "economy",
+    "question": "펀더멘털(Fundamental) 분석이란?",
+    "options": ["차트와 거래량을 분석하는 기법", "기업의 재무제표, 성장성 등 내재가치를 분석하는 기법", "시장 심리를 분석하는 기법", "알고리즘으로 매매 타이밍을 잡는 기법"],
+    "answer": 1,
+    "explanation": "펀더멘털 분석은 기업의 재무제표, 수익성, 성장성 등을 분석하여 내재가치를 평가하는 투자 분석 방법입니다."
+  },
+  {
+    "id": "eco_044",
+    "category": "economy",
+    "question": "한국의 1인당 GDP가 처음으로 3만 달러를 넘은 것은 대략 언제인가?",
+    "options": ["2010년", "2014년", "2018년", "2022년"],
+    "answer": 2,
+    "explanation": "한국의 1인당 GDP는 2018년에 처음으로 3만 달러를 돌파했습니다."
+  },
+  {
+    "id": "eco_045",
+    "category": "economy",
+    "question": "밀턴 프리드먼이 주장한 경제 이론은?",
+    "options": ["케인스주의", "통화주의(Monetarism)", "마르크스주의", "중상주의"],
+    "answer": 1,
+    "explanation": "밀턴 프리드먼은 통화량 조절이 경제 안정의 핵심이라고 주장한 통화주의(Monetarism)의 대표적 학자입니다."
+  },
+  {
+    "id": "eco_046",
+    "category": "economy",
+    "question": "ROE는 무엇의 약자인가?",
+    "options": ["Return on Equity", "Rate of Exchange", "Revenue of Enterprise", "Risk of Exposure"],
+    "answer": 0,
+    "explanation": "ROE는 Return on Equity(자기자본이익률)로, 기업이 자기자본 대비 얼마나 이익을 냈는지를 나타내는 지표입니다."
+  },
+  {
+    "id": "eco_047",
+    "category": "economy",
+    "question": "한국에서 종합부동산세가 부과되는 기준일은?",
+    "options": ["1월 1일", "3월 31일", "6월 1일", "12월 31일"],
+    "answer": 2,
+    "explanation": "종합부동산세는 매년 6월 1일 기준으로 보유한 부동산에 대해 과세됩니다."
+  },
+  {
+    "id": "eco_048",
+    "category": "economy",
+    "question": "OPEC는 어떤 자원과 관련된 국제 기구인가?",
+    "options": ["천연가스", "석유", "석탄", "우라늄"],
+    "answer": 1,
+    "explanation": "OPEC(석유수출국기구)는 주요 석유 수출국들이 원유 생산량과 가격을 조절하기 위해 설립한 국제 기구입니다."
+  },
+  {
+    "id": "eco_049",
+    "category": "economy",
+    "question": "공매도(Short Selling)란 무엇인가?",
+    "options": ["주식을 빌려서 매도한 후 하락 시 되사는 투자 기법", "대량으로 주식을 매수하는 기법", "배당금을 받기 위해 주식을 보유하는 기법", "비상장 주식을 거래하는 기법"],
+    "answer": 0,
+    "explanation": "공매도는 주식을 빌려서 먼저 매도한 후 가격이 하락하면 다시 매수하여 차익을 얻는 투자 전략입니다."
+  },
+  {
+    "id": "eco_050",
+    "category": "economy",
+    "question": "GNP와 GDP의 차이점은?",
+    "options": ["GNP는 국내 생산, GDP는 해외 생산", "GNP는 국민 기준, GDP는 영토 기준", "GNP는 서비스만, GDP는 재화만 포함", "차이가 없다"],
+    "answer": 1,
+    "explanation": "GNP(국민총생산)는 국민 기준으로 해외 소득을 포함하고, GDP(국내총생산)는 영토 기준으로 국내에서의 생산만 포함합니다."
+  },
+  {
+    "id": "eco_051",
+    "category": "economy",
+    "question": "NFT는 무엇의 약자인가?",
+    "options": ["Non-Fungible Token", "New Financial Technology", "National Fund Trust", "Network Fee Transfer"],
+    "answer": 0,
+    "explanation": "NFT는 Non-Fungible Token(대체 불가능 토큰)의 약자로, 블록체인 기반의 고유한 디지털 자산입니다."
+  },
+  {
+    "id": "eco_052",
+    "category": "economy",
+    "question": "무역수지 적자란 무엇인가?",
+    "options": ["수출이 수입보다 많은 상태", "수입이 수출보다 많은 상태", "수출과 수입이 같은 상태", "무역 거래가 없는 상태"],
+    "answer": 1,
+    "explanation": "무역수지 적자는 수입액이 수출액보다 큰 상태를 의미하며, 외화 유출이 발생합니다."
+  },
+  {
+    "id": "eco_053",
+    "category": "economy",
+    "question": "한국의 경제 위기가 발생한 1997년의 사건을 흔히 무엇이라 부르는가?",
+    "options": ["닷컴 버블", "서브프라임 모기지 사태", "IMF 외환위기", "유럽 재정위기"],
+    "answer": 2,
+    "explanation": "1997년 한국은 외환보유고 부족으로 IMF에 구제금융을 요청한 외환위기를 겪었습니다."
+  },
+  {
+    "id": "eco_054",
+    "category": "economy",
+    "question": "경제학에서 '외부효과(Externality)'란?",
+    "options": ["시장 거래에서 제3자에게 발생하는 의도치 않은 영향", "기업 내부의 비용 절감 효과", "정부 규제로 인한 시장 왜곡", "소비자의 합리적 선택 결과"],
+    "answer": 0,
+    "explanation": "외부효과는 경제 활동이 거래 당사자가 아닌 제3자에게 의도치 않은 편익이나 비용을 발생시키는 현상입니다."
+  },
+  {
+    "id": "eco_055",
+    "category": "economy",
+    "question": "배당수익률(Dividend Yield)의 계산 공식은?",
+    "options": ["주당 배당금 ÷ 주가 × 100", "주가 ÷ 주당 배당금 × 100", "총 배당금 ÷ 매출액 × 100", "순이익 ÷ 주당 배당금 × 100"],
+    "answer": 0,
+    "explanation": "배당수익률은 주당 배당금을 현재 주가로 나눈 값에 100을 곱해 백분율로 나타낸 것입니다."
+  },
+  {
+    "id": "eco_056",
+    "category": "economy",
+    "question": "한국에서 국세를 관리하는 기관은?",
+    "options": ["한국은행", "기획재정부", "국세청", "금융감독원"],
+    "answer": 2,
+    "explanation": "국세청은 소득세, 법인세, 부가가치세 등 국세의 부과·징수를 담당하는 기관입니다."
+  },
+  {
+    "id": "eco_057",
+    "category": "economy",
+    "question": "마이크로소프트(Microsoft)의 창업자는 누구인가?",
+    "options": ["스티브 잡스", "빌 게이츠", "마크 저커버그", "제프 베이조스"],
+    "answer": 1,
+    "explanation": "빌 게이츠는 1975년 폴 앨런과 함께 마이크로소프트를 공동 창업했습니다."
+  },
+  {
+    "id": "eco_058",
+    "category": "economy",
+    "question": "채권(Bond)과 주식(Stock)의 차이로 올바른 것은?",
+    "options": ["채권은 소유권, 주식은 채권자 지위", "채권은 확정 이자, 주식은 배당(변동)", "채권은 위험이 더 크다", "주식은 만기가 있다"],
+    "answer": 1,
+    "explanation": "채권은 확정 이자를 받는 채권자 지위이고, 주식은 기업의 소유권 일부를 갖는 것으로 배당은 변동적입니다."
+  },
+  {
+    "id": "eco_059",
+    "category": "economy",
+    "question": "필립스 곡선(Phillips Curve)이 나타내는 관계는?",
+    "options": ["인플레이션과 실업률의 역관계", "금리와 환율의 정관계", "GDP와 인구의 정관계", "수출과 수입의 역관계"],
+    "answer": 0,
+    "explanation": "필립스 곡선은 인플레이션율과 실업률 사이에 단기적으로 역의 관계가 있음을 보여주는 경제학 모형입니다."
+  },
+  {
+    "id": "eco_060",
+    "category": "economy",
+    "question": "한국 오만 원권 지폐에 그려진 인물은?",
+    "options": ["이순신", "세종대왕", "퇴계 이황", "신사임당"],
+    "answer": 3,
+    "explanation": "오만 원권 지폐에는 조선시대의 예술가이자 학자의 어머니인 신사임당의 초상이 그려져 있습니다."
+  },
+  {
+    "id": "eco_061",
+    "category": "economy",
+    "question": "EPS는 무엇의 약자인가?",
+    "options": ["Earnings Per Share", "Economic Policy Statement", "Exchange Price Standard", "Equity Premium Spread"],
+    "answer": 0,
+    "explanation": "EPS는 Earnings Per Share(주당순이익)로, 기업의 순이익을 발행 주식 수로 나눈 값입니다."
+  },
+  {
+    "id": "eco_062",
+    "category": "economy",
+    "question": "세계은행(World Bank)의 본부는 어디에 있는가?",
+    "options": ["뉴욕", "제네바", "워싱턴 D.C.", "런던"],
+    "answer": 2,
+    "explanation": "세계은행의 본부는 미국 워싱턴 D.C.에 위치해 있으며, 개발도상국의 경제 발전을 지원합니다."
+  },
+  {
+    "id": "eco_063",
+    "category": "economy",
+    "question": "수요의 가격탄력성이 1보다 클 때를 무엇이라 하는가?",
+    "options": ["비탄력적", "탄력적", "단위탄력적", "완전비탄력적"],
+    "answer": 1,
+    "explanation": "수요의 가격탄력성이 1보다 크면 탄력적이라 하며, 가격 변화에 수요량이 민감하게 반응합니다."
+  },
+  {
+    "id": "eco_064",
+    "category": "economy",
+    "question": "테슬라(Tesla)의 CEO는 누구인가?",
+    "options": ["제프 베이조스", "팀 쿡", "일론 머스크", "순다르 피차이"],
+    "answer": 2,
+    "explanation": "일론 머스크는 전기차 기업 테슬라의 CEO이자 SpaceX의 창업자이기도 합니다."
+  },
+  {
+    "id": "eco_065",
+    "category": "economy",
+    "question": "한국의 법인세 최고 세율(2024년 기준)은 약 몇 %인가?",
+    "options": ["20%", "22%", "24%", "25%"],
+    "answer": 2,
+    "explanation": "한국의 법인세 최고 세율은 2023년 개정으로 24%가 적용됩니다(과세표준 3,000억 원 초과 구간)."
+  },
+  {
+    "id": "eco_066",
+    "category": "economy",
+    "question": "경제학에서 '한계비용(Marginal Cost)'이란?",
+    "options": ["총 생산비용", "제품 1단위를 추가 생산할 때 드는 추가 비용", "고정비용의 평균", "변동비용의 합계"],
+    "answer": 1,
+    "explanation": "한계비용은 생산량을 1단위 추가로 늘릴 때 발생하는 추가적인 비용을 의미합니다."
+  },
+  {
+    "id": "eco_067",
+    "category": "economy",
+    "question": "비트코인의 최소 단위를 무엇이라 하는가?",
+    "options": ["웨이(Wei)", "사토시(Satoshi)", "가스(Gas)", "루멘(Lumen)"],
+    "answer": 1,
+    "explanation": "비트코인의 최소 단위는 '사토시'로, 1사토시는 0.00000001 BTC에 해당합니다."
+  },
+  {
+    "id": "eco_068",
+    "category": "economy",
+    "question": "IMF(국제통화기금)의 주요 역할은?",
+    "options": ["세계 무역 분쟁 중재", "국제 통화 안정과 금융 위기 지원", "세계 보건 정책 수립", "국제 노동 기준 설정"],
+    "answer": 1,
+    "explanation": "IMF는 국제 통화 시스템의 안정을 도모하고 금융 위기에 처한 국가에 자금을 지원하는 국제 기구입니다."
+  },
+  {
+    "id": "eco_069",
+    "category": "economy",
+    "question": "한국의 주식시장 거래 시간은?(정규 시장 기준)",
+    "options": ["오전 8시~오후 2시", "오전 9시~오후 3시 30분", "오전 10시~오후 4시", "오전 9시~오후 4시"],
+    "answer": 1,
+    "explanation": "한국 주식시장의 정규 거래 시간은 오전 9시부터 오후 3시 30분까지입니다."
+  },
+  {
+    "id": "eco_070",
+    "category": "economy",
+    "question": "시장실패(Market Failure)의 원인이 아닌 것은?",
+    "options": ["외부효과", "공공재", "완전경쟁", "정보 비대칭"],
+    "answer": 2,
+    "explanation": "완전경쟁은 시장이 효율적으로 작동하는 조건이며, 시장실패는 외부효과, 공공재, 독과점, 정보 비대칭 등에 의해 발생합니다."
+  },
+  {
+    "id": "eco_071",
+    "category": "economy",
+    "question": "한국에서 근로소득세를 원천징수하는 주체는?",
+    "options": ["근로자 본인", "국세청", "고용주(사업자)", "한국은행"],
+    "answer": 2,
+    "explanation": "근로소득세는 고용주가 급여 지급 시 원천징수하여 국세청에 납부합니다."
+  },
+  {
+    "id": "eco_072",
+    "category": "economy",
+    "question": "경제 용어 '모럴 해저드(Moral Hazard)'란?",
+    "options": ["도덕적으로 올바른 경제 행위", "보험 등에 의한 위험 보장으로 인해 부주의해지는 현상", "시장의 윤리적 규제", "환경 파괴에 대한 경제적 처벌"],
+    "answer": 1,
+    "explanation": "모럴 해저드는 보험이나 정부 보증 등으로 인해 위험을 전가할 수 있게 되면서 당사자가 부주의해지는 현상입니다."
+  },
+  {
+    "id": "eco_073",
+    "category": "economy",
+    "question": "금본위제(Gold Standard)란 무엇인가?",
+    "options": ["금을 화폐로 직접 사용하는 제도", "화폐의 가치를 금의 일정량에 고정시키는 제도", "금 거래를 국가가 독점하는 제도", "금 수출을 금지하는 제도"],
+    "answer": 1,
+    "explanation": "금본위제는 화폐의 가치를 일정량의 금에 연동시키는 통화 제도로, 20세기 중반 이후 대부분 폐지되었습니다."
+  },
+  {
+    "id": "eco_074",
+    "category": "economy",
+    "question": "PBR(주가순자산비율)이 1 미만이라는 것은?",
+    "options": ["주가가 순자산보다 높다", "주가가 순자산보다 낮다", "기업이 흑자이다", "기업이 적자이다"],
+    "answer": 1,
+    "explanation": "PBR이 1 미만이면 주가가 1주당 순자산가치보다 낮다는 의미로, 저평가 가능성을 나타냅니다."
+  },
+  {
+    "id": "eco_075",
+    "category": "economy",
+    "question": "아마존(Amazon)의 창업자는 누구인가?",
+    "options": ["래리 페이지", "제프 베이조스", "마크 저커버그", "잭 마"],
+    "answer": 1,
+    "explanation": "제프 베이조스는 1994년 아마존을 창업하여 세계 최대 전자상거래 기업으로 성장시켰습니다."
+  },
+  {
+    "id": "eco_076",
+    "category": "economy",
+    "question": "한국의 국채를 발행하는 기관은?",
+    "options": ["한국은행", "기획재정부", "금융위원회", "국세청"],
+    "answer": 1,
+    "explanation": "한국의 국채는 기획재정부가 발행하며, 한국은행이 인수·매매 대리 업무를 수행합니다."
+  },
+  {
+    "id": "eco_077",
+    "category": "economy",
+    "question": "WTO는 무엇의 약자인가?",
+    "options": ["World Trade Organization", "World Tax Office", "Western Treaty Organization", "World Technology Order"],
+    "answer": 0,
+    "explanation": "WTO는 World Trade Organization(세계무역기구)의 약자로, 국가 간 무역 규칙을 관장하는 국제 기구입니다."
+  },
+  {
+    "id": "eco_078",
+    "category": "economy",
+    "question": "양적완화(QE: Quantitative Easing)란?",
+    "options": ["중앙은행이 금리를 올리는 정책", "중앙은행이 시중에 돈을 풀어 유동성을 확대하는 정책", "정부가 세금을 올리는 정책", "정부가 규제를 완화하는 정책"],
+    "answer": 1,
+    "explanation": "양적완화는 중앙은행이 국채 등을 매입하여 시중에 유동성을 공급하는 비전통적 통화정책입니다."
+  },
+  {
+    "id": "eco_079",
+    "category": "economy",
+    "question": "한국에서 '재벌(Chaebol)'의 특징이 아닌 것은?",
+    "options": ["가족 중심 경영", "다각화된 사업 구조", "순환출자 구조", "소규모 단일 사업 운영"],
+    "answer": 3,
+    "explanation": "한국 재벌은 가족 중심 경영, 다각화된 사업 구조, 순환출자 등을 특징으로 하며 대규모 기업집단입니다."
+  },
+  {
+    "id": "eco_080",
+    "category": "economy",
+    "question": "소비자물가지수(CPI)란 무엇인가?",
+    "options": ["생산자가 받는 가격의 지수", "소비자가 구입하는 상품·서비스의 가격 변동을 측정하는 지수", "주가지수의 한 종류", "수출입 가격의 지수"],
+    "answer": 1,
+    "explanation": "CPI는 소비자가 일상적으로 구입하는 상품과 서비스의 가격 변동을 측정하는 물가 지표입니다."
+  },
+  {
+    "id": "eco_081",
+    "category": "economy",
+    "question": "포트폴리오 분산투자의 주된 목적은?",
+    "options": ["수익률 극대화", "위험 분산", "세금 회피", "거래 비용 절감"],
+    "answer": 1,
+    "explanation": "분산투자는 여러 자산에 투자하여 특정 자산의 손실이 전체 포트폴리오에 미치는 영향을 줄이기 위한 위험 관리 전략입니다."
+  },
+  {
+    "id": "eco_082",
+    "category": "economy",
+    "question": "한국의 4대 사회보험에 해당하지 않는 것은?",
+    "options": ["국민건강보험", "국민연금", "고용보험", "생명보험"],
+    "answer": 3,
+    "explanation": "4대 사회보험은 국민건강보험, 국민연금, 고용보험, 산업재해보상보험이며, 생명보험은 민간보험입니다."
+  },
+  {
+    "id": "eco_083",
+    "category": "economy",
+    "question": "프리드리히 하이에크가 주장한 경제 사상은?",
+    "options": ["정부의 적극적 시장 개입", "자유시장과 최소한의 정부 개입", "계획경제의 우월성", "통화량 조절을 통한 경기 안정"],
+    "answer": 1,
+    "explanation": "하이에크는 자유시장경제를 옹호하고 정부 개입의 최소화를 주장한 오스트리아학파의 대표적 경제학자입니다."
+  },
+  {
+    "id": "eco_084",
+    "category": "economy",
+    "question": "서킷브레이커(Circuit Breaker)란?",
+    "options": ["주가가 급등할 때 발동되는 거래 촉진 제도", "주가가 급락할 때 거래를 일시 중단하는 제도", "외국인 투자 제한 제도", "공매도 금지 제도"],
+    "answer": 1,
+    "explanation": "서킷브레이커는 주가가 급격히 하락할 때 시장의 과도한 혼란을 방지하기 위해 거래를 일시 중단하는 안전장치입니다."
+  },
+  {
+    "id": "eco_085",
+    "category": "economy",
+    "question": "한국의 수출 1위 품목(2024년 기준)은?",
+    "options": ["자동차", "반도체", "석유화학제품", "선박"],
+    "answer": 1,
+    "explanation": "한국의 최대 수출 품목은 반도체로, 전체 수출에서 큰 비중을 차지합니다."
+  },
+  {
+    "id": "eco_086",
+    "category": "economy",
+    "question": "경제학에서 '독점(Monopoly)'이란?",
+    "options": ["다수의 기업이 경쟁하는 시장", "한 기업만이 특정 상품을 공급하는 시장", "정부가 가격을 통제하는 시장", "수요자가 하나인 시장"],
+    "answer": 1,
+    "explanation": "독점은 특정 재화나 서비스를 단 하나의 공급자만이 생산·판매하는 시장 구조입니다."
+  },
+  {
+    "id": "eco_087",
+    "category": "economy",
+    "question": "레버리지(Leverage) 투자란?",
+    "options": ["빚을 내어 투자 규모를 키우는 전략", "분산투자 전략", "장기 보유 전략", "손실을 제한하는 전략"],
+    "answer": 0,
+    "explanation": "레버리지 투자는 차입금(빚)을 활용하여 투자 규모를 늘리는 전략으로, 수익과 손실이 모두 확대될 수 있습니다."
+  },
+  {
+    "id": "eco_088",
+    "category": "economy",
+    "question": "한국의 최저임금을 결정하는 기구는?",
+    "options": ["기획재정부", "고용노동부", "최저임금위원회", "국회"],
+    "answer": 2,
+    "explanation": "최저임금위원회가 노·사·공익 위원으로 구성되어 매년 최저임금을 심의·의결합니다."
+  },
+  {
+    "id": "eco_089",
+    "category": "economy",
+    "question": "스마트 컨트랙트(Smart Contract)란?",
+    "options": ["스마트폰으로 체결하는 계약", "블록체인 상에서 자동으로 실행되는 프로그래밍된 계약", "AI가 관리하는 보험 계약", "전자서명 기반의 종이 계약"],
+    "answer": 1,
+    "explanation": "스마트 컨트랙트는 블록체인 위에서 특정 조건이 충족되면 자동으로 실행되는 프로그래밍된 계약입니다."
+  },
+  {
+    "id": "eco_090",
+    "category": "economy",
+    "question": "SWIFT는 금융에서 어떤 역할을 하는가?",
+    "options": ["주식 거래 중개", "국제 은행 간 금융 메시지 전달", "신용카드 결제 처리", "보험금 지급 관리"],
+    "answer": 1,
+    "explanation": "SWIFT는 전 세계 은행 간 국제 송금 및 금융 메시지를 안전하게 전달하는 국제 네트워크 시스템입니다."
+  },
+  {
+    "id": "eco_091",
+    "category": "economy",
+    "question": "2008년 글로벌 금융위기의 주된 원인은?",
+    "options": ["석유 가격 폭등", "미국 서브프라임 모기지 사태", "유럽 국가 부도", "일본 부동산 버블"],
+    "answer": 1,
+    "explanation": "2008년 글로벌 금융위기는 미국의 서브프라임 모기지(비우량 주택담보대출) 부실이 금융 시스템 전체로 확산된 사건입니다."
+  },
+  {
+    "id": "eco_092",
+    "category": "economy",
+    "question": "경제 용어 '유동성(Liquidity)'이란?",
+    "options": ["기업의 수익성", "자산을 현금으로 쉽게 전환할 수 있는 정도", "시장의 규모", "물가 상승률"],
+    "answer": 1,
+    "explanation": "유동성은 자산을 가치 손실 없이 빠르게 현금으로 전환할 수 있는 정도를 나타냅니다."
+  },
+  {
+    "id": "eco_093",
+    "category": "economy",
+    "question": "한국의 천 원권 지폐에 그려진 인물은?",
+    "options": ["세종대왕", "퇴계 이황", "율곡 이이", "신사임당"],
+    "answer": 1,
+    "explanation": "천 원권 지폐에는 조선시대 유학자 퇴계 이황의 초상이 그려져 있습니다."
+  },
+  {
+    "id": "eco_094",
+    "category": "economy",
+    "question": "통화승수(Money Multiplier) 효과란?",
+    "options": ["중앙은행이 발행한 화폐가 은행 시스템을 통해 몇 배로 증가하는 효과", "금리가 올라가면 통화량이 줄어드는 효과", "환율 변동에 따라 화폐 가치가 변하는 효과", "세금 인상으로 통화가 축소되는 효과"],
+    "answer": 0,
+    "explanation": "통화승수 효과는 중앙은행이 공급한 본원통화가 예금-대출의 반복을 통해 몇 배의 통화량으로 확대되는 현상입니다."
+  },
+  {
+    "id": "eco_095",
+    "category": "economy",
+    "question": "금리와 채권 가격의 관계는?",
+    "options": ["정비례 관계", "반비례 관계", "무관한 관계", "비선형적 관계만 존재"],
+    "answer": 1,
+    "explanation": "금리가 상승하면 기존 채권의 가격은 하락하고, 금리가 하락하면 채권 가격은 상승하는 반비례 관계입니다."
+  },
+  {
+    "id": "eco_096",
+    "category": "economy",
+    "question": "세계 최초의 증권거래소가 설립된 도시는?",
+    "options": ["런던", "뉴욕", "암스테르담", "파리"],
+    "answer": 2,
+    "explanation": "1602년 네덜란드 암스테르담에 세계 최초의 증권거래소가 설립되었으며, 동인도회사 주식이 거래되었습니다."
+  },
+  {
+    "id": "eco_097",
+    "category": "economy",
+    "question": "한국에서 자본이득세(금융투자소득세)의 시행이 논의되는 대상은?",
+    "options": ["부동산 매매", "주식·펀드 등 금융투자 소득", "근로소득", "사업소득"],
+    "answer": 1,
+    "explanation": "금융투자소득세는 주식, 펀드, 채권 등 금융투자에서 발생하는 소득에 대해 과세하는 제도입니다."
+  },
+  {
+    "id": "eco_098",
+    "category": "economy",
+    "question": "엥겔의 법칙(Engel's Law)이란?",
+    "options": ["소득이 증가하면 식료품비 비중이 높아진다", "소득이 증가하면 식료품비 비중이 낮아진다", "물가가 오르면 소비가 증가한다", "인구가 늘면 실업률이 떨어진다"],
+    "answer": 1,
+    "explanation": "엥겔의 법칙은 소득이 증가할수록 전체 소비에서 식료품비가 차지하는 비율(엥겔계수)이 감소한다는 법칙입니다."
+  },
+  {
+    "id": "eco_099",
+    "category": "economy",
+    "question": "코스닥(KOSDAQ)의 Q는 무엇의 약자인가?",
+    "options": ["Quality", "Quotation", "Quantitative", "Quick"],
+    "answer": 1,
+    "explanation": "KOSDAQ은 Korea Securities Dealers Automated Quotation의 약자로, Q는 Quotation(시세)을 의미합니다."
+  },
+  {
+    "id": "eco_100",
+    "category": "economy",
+    "question": "세계 3대 신용평가사에 해당하지 않는 곳은?",
+    "options": ["무디스(Moody's)", "S&P", "피치(Fitch)", "블룸버그(Bloomberg)"],
+    "answer": 3,
+    "explanation": "세계 3대 신용평가사는 무디스, S&P, 피치이며, 블룸버그는 금융정보 제공 기업입니다."
+  },
+  {
+    "id": "eco_101",
+    "category": "economy",
+    "question": "한국의 오천 원권 지폐에 그려진 인물은?",
+    "options": ["퇴계 이황", "율곡 이이", "세종대왕", "신사임당"],
+    "answer": 1,
+    "explanation": "오천 원권 지폐에는 조선시대 유학자 율곡 이이의 초상이 그려져 있습니다."
+  },
+  {
+    "id": "eco_102",
+    "category": "economy",
+    "question": "인플레이션을 측정하는 대표적 지표는?",
+    "options": ["GDP", "CPI(소비자물가지수)", "PER", "환율"],
+    "answer": 1,
+    "explanation": "인플레이션은 주로 소비자물가지수(CPI)의 변동률로 측정됩니다."
+  },
+  {
+    "id": "eco_103",
+    "category": "economy",
+    "question": "벤처캐피탈(VC)이란?",
+    "options": ["정부 기관에서 운영하는 펀드", "고위험·고수익을 추구하며 스타트업에 투자하는 자본", "은행의 정기예금 상품", "부동산 투자 전문 펀드"],
+    "answer": 1,
+    "explanation": "벤처캐피탈은 성장 가능성이 높은 스타트업이나 초기 기업에 투자하여 높은 수익을 추구하는 투자 자본입니다."
+  },
+  {
+    "id": "eco_104",
+    "category": "economy",
+    "question": "한국 경제에서 '한강의 기적'이란 무엇을 가리키는가?",
+    "options": ["한강 주변 부동산 가격 급등", "1960~90년대 한국의 급속한 경제 성장", "한강 수질 개선 성과", "2002년 월드컵의 경제 효과"],
+    "answer": 1,
+    "explanation": "'한강의 기적'은 1960년대부터 1990년대까지 한국이 이룬 급속한 경제 성장과 산업화를 비유적으로 표현한 말입니다."
+  },
+  {
+    "id": "eco_105",
+    "category": "economy",
+    "question": "래퍼 곡선(Laffer Curve)이 설명하는 것은?",
+    "options": ["세율과 세수의 관계", "실업률과 인플레이션의 관계", "금리와 투자의 관계", "환율과 수출의 관계"],
+    "answer": 0,
+    "explanation": "래퍼 곡선은 세율이 일정 수준을 넘으면 오히려 세수가 줄어든다는 세율과 세수의 관계를 나타냅니다."
+  },
+  {
+    "id": "eco_106",
+    "category": "economy",
+    "question": "헤지펀드(Hedge Fund)의 특징은?",
+    "options": ["소액 투자자 전용", "공격적이고 다양한 투자 전략 활용", "정부가 운용하는 펀드", "원금 보장형 상품"],
+    "answer": 1,
+    "explanation": "헤지펀드는 주로 고액 투자자를 대상으로 공매도, 레버리지 등 다양한 전략을 활용하는 사모펀드입니다."
+  },
+  {
+    "id": "eco_107",
+    "category": "economy",
+    "question": "세계에서 GDP가 가장 큰 나라(2024년 기준)는?",
+    "options": ["중국", "일본", "미국", "독일"],
+    "answer": 2,
+    "explanation": "미국은 2024년 기준 세계 최대 GDP를 보유한 국가입니다."
+  },
+  {
+    "id": "eco_108",
+    "category": "economy",
+    "question": "경기선행지수란?",
+    "options": ["현재 경기 상태를 나타내는 지표", "과거 경기를 평가하는 지표", "미래 경기 동향을 예측하는 지표", "물가를 예측하는 지표"],
+    "answer": 2,
+    "explanation": "경기선행지수는 향후 경기 동향을 미리 예측하기 위해 사용하는 경제 지표입니다."
+  },
+  {
+    "id": "eco_109",
+    "category": "economy",
+    "question": "구글(Google/Alphabet)의 공동 창업자는 누구인가?",
+    "options": ["스티브 잡스와 스티브 워즈니악", "래리 페이지와 세르게이 브린", "빌 게이츠와 폴 앨런", "마크 저커버그와 에두아르도 사베린"],
+    "answer": 1,
+    "explanation": "구글은 래리 페이지와 세르게이 브린이 1998년에 공동 창업한 기업입니다."
+  },
+  {
+    "id": "eco_110",
+    "category": "economy",
+    "question": "금융감독원의 주요 역할은?",
+    "options": ["기준금리 결정", "화폐 발행", "금융기관 감독·검사", "국채 발행"],
+    "answer": 2,
+    "explanation": "금융감독원은 은행, 보험, 증권 등 금융기관의 건전성을 감독하고 검사하는 기관입니다."
+  },
+  {
+    "id": "eco_111",
+    "category": "economy",
+    "question": "한국의 가상자산(암호화폐) 거래소 중 거래량 1위는?(2024년 기준)",
+    "options": ["빗썸", "코인원", "업비트", "코빗"],
+    "answer": 2,
+    "explanation": "업비트(Upbit)는 한국에서 가장 큰 거래량을 기록하고 있는 가상자산 거래소입니다."
+  },
+  {
+    "id": "eco_112",
+    "category": "economy",
+    "question": "비용-편익 분석(Cost-Benefit Analysis)의 목적은?",
+    "options": ["기업의 세금을 줄이기 위해", "프로젝트의 비용과 편익을 비교하여 타당성을 평가하기 위해", "직원 급여를 결정하기 위해", "마케팅 전략을 수립하기 위해"],
+    "answer": 1,
+    "explanation": "비용-편익 분석은 특정 프로젝트나 정책의 비용과 편익을 비교하여 경제적 타당성을 평가하는 방법입니다."
+  },
+  {
+    "id": "eco_113",
+    "category": "economy",
+    "question": "한국의 경제성장률이 가장 높았던 시기는 대략 언제인가?",
+    "options": ["1950년대", "1960~70년대", "1990년대", "2010년대"],
+    "answer": 1,
+    "explanation": "한국은 1960~70년대에 연평균 10% 이상의 높은 경제성장률을 기록하며 급속한 산업화를 이루었습니다."
+  },
+  {
+    "id": "eco_114",
+    "category": "economy",
+    "question": "테이퍼링(Tapering)이란?",
+    "options": ["양적완화 규모를 점진적으로 축소하는 것", "금리를 급격히 인상하는 것", "재정지출을 확대하는 것", "환율을 인위적으로 조정하는 것"],
+    "answer": 0,
+    "explanation": "테이퍼링은 중앙은행이 양적완화 정책에서 자산 매입 규모를 점진적으로 줄여나가는 것을 의미합니다."
+  },
+  {
+    "id": "eco_115",
+    "category": "economy",
+    "question": "국제수지(Balance of Payments)란?",
+    "options": ["국가 내 소비지출 총계", "한 나라의 외국과의 모든 경제적 거래를 기록한 것", "정부 예산의 수입과 지출", "기업의 재무제표"],
+    "answer": 1,
+    "explanation": "국제수지는 일정 기간 한 나라가 외국과 행한 모든 경제적 거래를 체계적으로 기록한 표입니다."
+  },
+  {
+    "id": "eco_116",
+    "category": "economy",
+    "question": "워런 버핏의 투자 철학으로 알려진 것은?",
+    "options": ["단기 트레이딩", "기술적 분석 중심", "가치투자(Value Investing)", "암호화폐 적극 투자"],
+    "answer": 2,
+    "explanation": "워런 버핏은 기업의 내재가치를 분석하여 저평가된 우량주에 장기 투자하는 가치투자로 유명합니다."
+  },
+  {
+    "id": "eco_117",
+    "category": "economy",
+    "question": "한국의 국민연금 의무 가입 대상 연령은?",
+    "options": ["18세 이상 55세 미만", "18세 이상 60세 미만", "20세 이상 60세 미만", "20세 이상 65세 미만"],
+    "answer": 1,
+    "explanation": "국민연금은 만 18세 이상 60세 미만의 국내 거주 국민이 의무 가입 대상입니다."
+  },
+  {
+    "id": "eco_118",
+    "category": "economy",
+    "question": "경제학에서 '공유지의 비극(Tragedy of the Commons)'이란?",
+    "options": ["사유재산이 침해되는 현상", "공유 자원이 과도하게 사용되어 고갈되는 현상", "공공재에 대한 투자가 과다한 현상", "정부 규제로 자원이 낭비되는 현상"],
+    "answer": 1,
+    "explanation": "공유지의 비극은 공동으로 소유한 자원을 각 개인이 자신의 이익을 위해 남용하여 자원이 고갈되는 현상입니다."
+  },
+  {
+    "id": "eco_119",
+    "category": "economy",
+    "question": "리먼 브라더스(Lehman Brothers)가 파산한 해는?",
+    "options": ["2005년", "2007년", "2008년", "2010년"],
+    "answer": 2,
+    "explanation": "리먼 브라더스는 2008년 9월 15일 파산 신청을 하여 글로벌 금융위기를 촉발시켰습니다."
+  },
+  {
+    "id": "eco_120",
+    "category": "economy",
+    "question": "CBDC란 무엇인가?",
+    "options": ["중앙은행 디지털 화폐", "상업은행 디지털 코인", "암호화폐 거래소", "블록체인 데이터 센터"],
+    "answer": 0,
+    "explanation": "CBDC(Central Bank Digital Currency)는 중앙은행이 직접 발행하는 디지털 형태의 법정화폐입니다."
+  },
+  {
+    "id": "eco_121",
+    "category": "economy",
+    "question": "경제학에서 '매몰비용(Sunk Cost)'이란?",
+    "options": ["미래에 발생할 비용", "이미 지출되어 회수 불가능한 비용", "변동비용의 일종", "기회비용과 같은 개념"],
+    "answer": 1,
+    "explanation": "매몰비용은 이미 지출되어 어떤 선택을 하더라도 회수할 수 없는 비용으로, 합리적 의사결정 시 고려하지 않아야 합니다."
+  },
+  {
+    "id": "eco_122",
+    "category": "economy",
+    "question": "한국에서 증권거래세를 부과하는 시점은?",
+    "options": ["주식을 매수할 때", "주식을 매도할 때", "배당금을 받을 때", "계좌를 개설할 때"],
+    "answer": 1,
+    "explanation": "한국의 증권거래세는 주식을 매도(판매)할 때 부과됩니다."
+  },
+  {
+    "id": "eco_123",
+    "category": "economy",
+    "question": "역선택(Adverse Selection)이란?",
+    "options": ["정보 비대칭으로 인해 불량한 상대방이 선택될 가능성이 높아지는 현상", "소비자가 합리적으로 최적의 선택을 하는 것", "정부가 시장에 개입하여 비효율이 발생하는 것", "기업이 가격을 임의로 올리는 행위"],
+    "answer": 0,
+    "explanation": "역선택은 정보 비대칭 상황에서 불리한 특성을 가진 쪽이 거래에 더 적극적으로 참여하게 되는 현상입니다."
+  },
+  {
+    "id": "eco_124",
+    "category": "economy",
+    "question": "나스닥(NASDAQ)에 주로 상장된 기업의 특징은?",
+    "options": ["전통 제조업 중심", "기술·IT 기업 중심", "금융기관 중심", "에너지 기업 중심"],
+    "answer": 1,
+    "explanation": "나스닥은 애플, 마이크로소프트, 구글 등 기술·IT 기업이 주로 상장되어 있는 미국의 주식시장입니다."
+  },
+  {
+    "id": "eco_125",
+    "category": "economy",
+    "question": "한국의 국가 신용등급을 평가한 최초의 시기는 대략 언제인가?",
+    "options": ["1960년대", "1970년대", "1980년대", "1990년대"],
+    "answer": 2,
+    "explanation": "한국은 1980년대에 처음으로 국제 신용평가사로부터 국가 신용등급을 부여받았습니다."
+  },
+  {
+    "id": "eco_126",
+    "category": "economy",
+    "question": "경제학에서 '파레토 최적(Pareto Optimality)'이란?",
+    "options": ["모든 사람이 동등한 소득을 가진 상태", "누군가의 상태를 악화시키지 않고는 다른 누군가를 개선할 수 없는 상태", "시장이 독점 상태에 있는 것", "정부 개입이 최대인 상태"],
+    "answer": 1,
+    "explanation": "파레토 최적은 어떤 사람의 효용을 감소시키지 않고는 다른 사람의 효용을 증가시킬 수 없는 자원 배분 상태입니다."
+  },
+  {
+    "id": "eco_127",
+    "category": "economy",
+    "question": "한국의 산업구조에서 서비스업이 GDP에서 차지하는 비중은 대략?",
+    "options": ["약 30%", "약 40%", "약 50%", "약 60%"],
+    "answer": 3,
+    "explanation": "한국 GDP에서 서비스업이 차지하는 비중은 약 60% 이상으로, 제조업 비중보다 높습니다."
+  },
+  {
+    "id": "eco_128",
+    "category": "economy",
+    "question": "CDS(Credit Default Swap)란?",
+    "options": ["주식 선물 계약", "신용부도 위험을 이전하는 파생상품", "환율 변동을 헤지하는 상품", "원자재 선물 계약"],
+    "answer": 1,
+    "explanation": "CDS는 채권 발행자의 채무불이행 위험을 보험처럼 보장해주는 신용파생상품입니다."
+  },
+  {
+    "id": "eco_129",
+    "category": "economy",
+    "question": "한국의 국민연금은 어떤 방식으로 운용되는가?",
+    "options": ["적립방식(Funded System)", "부과방식(Pay-as-you-go)", "수정적립방식", "개인계좌방식"],
+    "answer": 2,
+    "explanation": "한국의 국민연금은 수정적립방식으로 운영되며, 적립방식과 부과방식의 절충 형태입니다."
+  },
+  {
+    "id": "eco_130",
+    "category": "economy",
+    "question": "세이의 법칙(Say's Law)이란?",
+    "options": ["수요가 공급을 창출한다", "공급이 스스로 수요를 창출한다", "금리가 투자를 결정한다", "정부 지출이 경기를 결정한다"],
+    "answer": 1,
+    "explanation": "세이의 법칙은 '공급은 스스로 수요를 창출한다'는 고전파 경제학의 핵심 명제입니다."
+  },
+  {
+    "id": "eco_131",
+    "category": "economy",
+    "question": "ESG 투자에서 'S'는 무엇을 의미하는가?",
+    "options": ["Sustainability", "Social", "Security", "Strategy"],
+    "answer": 1,
+    "explanation": "ESG에서 S는 Social(사회)을 의미하며, E는 Environment(환경), G는 Governance(지배구조)를 뜻합니다."
+  },
+  {
+    "id": "eco_132",
+    "category": "economy",
+    "question": "한국 주식시장에서 '사이드카(Sidecar)'란?",
+    "options": ["주식 자동 매매 시스템", "선물시장 급변 시 프로그램 매매를 일시 중단하는 제도", "외국인 투자 한도 제한", "신용거래 제한 제도"],
+    "answer": 1,
+    "explanation": "사이드카는 선물가격이 급변할 때 현물시장에서 프로그램 매매 호가를 일시적으로 중단하는 제도입니다."
+  },
+  {
+    "id": "eco_133",
+    "category": "economy",
+    "question": "페이스북(Meta)의 창업자는 누구인가?",
+    "options": ["잭 도시", "마크 저커버그", "래리 페이지", "제프 베이조스"],
+    "answer": 1,
+    "explanation": "마크 저커버그는 2004년 하버드대학 재학 중 페이스북(현 Meta)을 창업했습니다."
+  },
+  {
+    "id": "eco_134",
+    "category": "economy",
+    "question": "자연실업률(Natural Rate of Unemployment)이란?",
+    "options": ["실업률이 0%인 상태", "경기 변동과 무관하게 존재하는 구조적·마찰적 실업률", "모든 사람이 취업한 상태", "정부가 목표로 하는 실업률"],
+    "answer": 1,
+    "explanation": "자연실업률은 경기적 요인을 제외하고 구조적·마찰적 요인에 의해 항상 존재하는 실업률 수준입니다."
+  },
+  {
+    "id": "eco_135",
+    "category": "economy",
+    "question": "한국에서 '코픽스(COFIX)' 금리란?",
+    "options": ["한국은행 기준금리", "은행의 자금조달비용 지수", "주택담보대출 고정금리", "회사채 수익률 지표"],
+    "answer": 1,
+    "explanation": "코픽스(COFIX)는 Cost of Funds Index의 약자로, 은행들의 자금조달비용을 반영한 금리 지표입니다."
+  },
+  {
+    "id": "eco_136",
+    "category": "economy",
+    "question": "경상수지 흑자가 지속되면 일반적으로 환율에 어떤 영향을 미치는가?",
+    "options": ["원화 가치 상승(환율 하락)", "원화 가치 하락(환율 상승)", "영향 없음", "금리 하락"],
+    "answer": 0,
+    "explanation": "경상수지 흑자는 외화 유입 증가를 의미하므로, 원화 수요가 늘어 원화 가치가 상승(환율 하락)하는 경향이 있습니다."
+  },
+  {
+    "id": "eco_137",
+    "category": "economy",
+    "question": "유로(Euro)를 사용하는 경제 권역을 무엇이라 하는가?",
+    "options": ["EU", "유로존(Eurozone)", "EFTA", "OECD"],
+    "answer": 1,
+    "explanation": "유로존은 유로화를 공식 통화로 채택한 유럽연합(EU) 회원국들의 경제 권역입니다."
+  },
+  {
+    "id": "eco_138",
+    "category": "economy",
+    "question": "스톡옵션(Stock Option)이란?",
+    "options": ["주식을 강제로 매수하는 권리", "일정 가격에 자사 주식을 매수할 수 있는 권리", "배당금을 추가로 받을 수 있는 권리", "주식을 비과세로 매도할 수 있는 권리"],
+    "answer": 1,
+    "explanation": "스톡옵션은 임직원에게 미리 정해진 가격으로 회사 주식을 매수할 수 있는 권리를 부여하는 보상 제도입니다."
+  },
+  {
+    "id": "eco_139",
+    "category": "economy",
+    "question": "한국의 수출 상대국 중 가장 큰 비중을 차지하는 나라는?(2024년 기준)",
+    "options": ["일본", "미국", "중국", "베트남"],
+    "answer": 2,
+    "explanation": "중국은 한국의 최대 수출 상대국으로, 전체 수출에서 큰 비중을 차지합니다."
+  },
+  {
+    "id": "eco_140",
+    "category": "economy",
+    "question": "경제학에서 '게임이론(Game Theory)'의 대표적 개념인 '내쉬 균형'을 제시한 학자는?",
+    "options": ["존 내쉬", "폰 노이만", "애덤 스미스", "존 케인스"],
+    "answer": 0,
+    "explanation": "존 내쉬(John Nash)는 비협력 게임에서 각 참가자가 최적 전략을 선택하는 균형 상태인 '내쉬 균형'을 제시했습니다."
+  },
+  {
+    "id": "eco_141",
+    "category": "economy",
+    "question": "BIS 자기자본비율이란?",
+    "options": ["은행의 위험가중자산 대비 자기자본 비율", "기업의 매출 대비 순이익 비율", "국가의 GDP 대비 국가부채 비율", "펀드의 수익률 대비 위험 비율"],
+    "answer": 0,
+    "explanation": "BIS 자기자본비율은 은행의 위험가중자산 대비 자기자본의 비율로, 국제결제은행이 정한 건전성 지표입니다."
+  },
+  {
+    "id": "eco_142",
+    "category": "economy",
+    "question": "피셔 효과(Fisher Effect)가 설명하는 것은?",
+    "options": ["명목금리 = 실질금리 + 기대인플레이션율", "환율은 물가 차이에 의해 결정된다", "금리 인하는 항상 경기를 부양한다", "주가는 항상 랜덤워크한다"],
+    "answer": 0,
+    "explanation": "피셔 효과는 명목금리가 실질금리와 기대인플레이션율의 합으로 결정된다는 이론입니다."
+  },
+  {
+    "id": "eco_143",
+    "category": "economy",
+    "question": "한국에서 '특수고용직(특고)'에 해당하는 직종이 아닌 것은?",
+    "options": ["보험설계사", "택배기사", "공무원", "대리운전기사"],
+    "answer": 2,
+    "explanation": "특수고용직은 근로자와 자영업자의 중간 형태로, 공무원은 이에 해당하지 않습니다."
+  },
+  {
+    "id": "eco_144",
+    "category": "economy",
+    "question": "경제학에서 '도덕적 해이(Moral Hazard)'가 발생하기 쉬운 상황은?",
+    "options": ["완전경쟁 시장", "보험 가입 후", "자유 무역 협정 체결 후", "금본위제 하에서"],
+    "answer": 1,
+    "explanation": "보험 가입 후 위험이 전가되면 보험 가입자가 위험한 행동을 더 많이 할 수 있어 도덕적 해이가 발생할 수 있습니다."
+  },
+  {
+    "id": "eco_145",
+    "category": "economy",
+    "question": "한국의 종합소득세 신고·납부 기간은?",
+    "options": ["1월", "3월", "5월", "7월"],
+    "answer": 2,
+    "explanation": "종합소득세는 매년 5월 1일부터 5월 31일까지 전년도 소득에 대해 신고·납부합니다."
+  },
+  {
+    "id": "eco_146",
+    "category": "economy",
+    "question": "산업혁명이 처음 시작된 나라는?",
+    "options": ["프랑스", "독일", "영국", "미국"],
+    "answer": 2,
+    "explanation": "산업혁명은 18세기 후반 영국에서 방직기와 증기기관의 발명을 시작으로 일어났습니다."
+  },
+  {
+    "id": "eco_147",
+    "category": "economy",
+    "question": "선물(Futures)과 옵션(Options)의 차이는?",
+    "options": ["선물은 의무, 옵션은 권리", "선물은 권리, 옵션은 의무", "둘 다 의무", "둘 다 권리"],
+    "answer": 0,
+    "explanation": "선물 계약은 만기에 반드시 이행해야 하는 의무이고, 옵션은 매수자에게 행사할 수 있는 권리를 부여합니다."
+  },
+  {
+    "id": "eco_148",
+    "category": "economy",
+    "question": "한국에서 재산세는 누구에게 부과되는가?",
+    "options": ["부동산 매수자", "부동산 소유자", "부동산 세입자", "부동산 중개사"],
+    "answer": 1,
+    "explanation": "재산세는 토지, 건축물, 주택 등 부동산의 소유자에게 매년 부과되는 지방세입니다."
+  },
+  {
+    "id": "eco_149",
+    "category": "economy",
+    "question": "경제학에서 '규모의 경제(Economies of Scale)'란?",
+    "options": ["생산량이 늘수록 단위당 생산비가 증가하는 현상", "생산량이 늘수록 단위당 생산비가 감소하는 현상", "기업의 규모가 작을수록 효율적인 현상", "수입이 늘수록 지출이 줄어드는 현상"],
+    "answer": 1,
+    "explanation": "규모의 경제는 생산량이 증가할수록 고정비가 분산되어 단위당 평균 생산비가 감소하는 현상입니다."
+  },
+  {
+    "id": "eco_150",
+    "category": "economy",
+    "question": "핀테크(FinTech)란?",
+    "options": ["핀란드의 기술 산업", "금융(Finance)과 기술(Technology)의 합성어", "첨단 반도체 기술", "핀란드의 통화 체계"],
+    "answer": 1,
+    "explanation": "핀테크는 금융(Finance)과 기술(Technology)을 결합한 용어로, 모바일 결제, 로보어드바이저 등을 포함합니다."
+  },
+  {
+    "id": "eco_151",
+    "category": "economy",
+    "question": "한국의 GDP 순위는 세계 몇 위권인가?(2024년 기준)",
+    "options": ["5~8위", "9~15위", "16~20위", "21~30위"],
+    "answer": 1,
+    "explanation": "한국의 GDP는 세계 10~14위권에 위치하며, 주요 선진국 경제 규모를 유지하고 있습니다."
+  },
+  {
+    "id": "eco_152",
+    "category": "economy",
+    "question": "은행의 지급준비율(Reserve Ratio)이란?",
+    "options": ["은행이 대출에 부과하는 이자율", "예금 중 중앙은행에 의무적으로 예치해야 하는 비율", "은행의 자기자본비율", "은행의 영업이익률"],
+    "answer": 1,
+    "explanation": "지급준비율은 은행이 고객 예금의 일정 비율을 중앙은행에 의무적으로 예치해야 하는 비율입니다."
+  },
+  {
+    "id": "eco_153",
+    "category": "economy",
+    "question": "토빈세(Tobin Tax)란?",
+    "options": ["부동산 거래세", "국제 외환 거래에 부과하는 세금", "법인세의 일종", "소비세의 일종"],
+    "answer": 1,
+    "explanation": "토빈세는 경제학자 제임스 토빈이 제안한 것으로, 단기 투기적 외환 거래를 억제하기 위해 부과하는 세금입니다."
+  },
+  {
+    "id": "eco_154",
+    "category": "economy",
+    "question": "한국에서 'K-방산'이 수출 효자 산업으로 부상한 시기는?",
+    "options": ["2000년대 초", "2010년대 초", "2020년대 초", "1990년대"],
+    "answer": 2,
+    "explanation": "한국 방산 수출은 2020년대 초 폴란드 등과의 대규모 계약을 통해 급성장하며 주목받았습니다."
+  },
+  {
+    "id": "eco_155",
+    "category": "economy",
+    "question": "국부펀드(Sovereign Wealth Fund)란?",
+    "options": ["개인 투자자의 펀드", "국가가 외환보유고 등을 활용하여 운용하는 투자 펀드", "중소기업 지원 펀드", "은행의 신탁 상품"],
+    "answer": 1,
+    "explanation": "국부펀드는 국가가 외환보유고, 자원 수익 등을 활용하여 운용하는 대규모 투자 펀드입니다."
+  },
+  {
+    "id": "eco_156",
+    "category": "economy",
+    "question": "경제학에서 '지니계수(Gini Coefficient)'가 측정하는 것은?",
+    "options": ["경제성장률", "물가 수준", "소득 불평등도", "실업률"],
+    "answer": 2,
+    "explanation": "지니계수는 0에서 1 사이의 값으로, 1에 가까울수록 소득 불평등이 심한 것을 나타냅니다."
+  },
+  {
+    "id": "eco_157",
+    "category": "economy",
+    "question": "뉴욕증권거래소(NYSE)의 위치는?",
+    "options": ["타임스퀘어", "월스트리트", "매디슨 애비뉴", "센트럴파크"],
+    "answer": 1,
+    "explanation": "뉴욕증권거래소는 뉴욕 맨해튼의 월스트리트에 위치한 세계 최대 규모의 증권거래소입니다."
+  },
+  {
+    "id": "eco_158",
+    "category": "economy",
+    "question": "한국의 상속세 최고 세율은?(2024년 기준)",
+    "options": ["30%", "40%", "50%", "60%"],
+    "answer": 2,
+    "explanation": "한국의 상속세 최고 세율은 50%로, 세계적으로도 높은 수준에 속합니다."
+  },
+  {
+    "id": "eco_159",
+    "category": "economy",
+    "question": "대공황(Great Depression)이 시작된 해는?",
+    "options": ["1919년", "1929년", "1939년", "1949년"],
+    "answer": 1,
+    "explanation": "1929년 10월 뉴욕 주식시장의 대폭락으로 시작된 대공황은 전 세계 경제에 심각한 불황을 가져왔습니다."
+  },
+  {
+    "id": "eco_160",
+    "category": "economy",
+    "question": "M2 통화량에 포함되는 것은?",
+    "options": ["현금만", "현금 + 요구불예금만", "현금 + 요구불예금 + 저축성예금 등", "외국 화폐만"],
+    "answer": 2,
+    "explanation": "M2는 현금, 요구불예금에 저축성 예금, 시장형 금융상품 등을 포함한 넓은 의미의 통화 지표입니다."
+  },
+  {
+    "id": "eco_161",
+    "category": "economy",
+    "question": "탄소배출권 거래제(ETS)란?",
+    "options": ["탄소를 무제한 배출할 수 있는 권리", "탄소 배출 허용량을 정해 거래할 수 있게 한 제도", "탄소세를 폐지하는 제도", "신재생에너지 보조금 제도"],
+    "answer": 1,
+    "explanation": "탄소배출권 거래제는 정부가 기업별 탄소 배출 허용량을 정하고, 남거나 부족한 배출권을 시장에서 거래할 수 있게 하는 제도입니다."
+  },
+  {
+    "id": "eco_162",
+    "category": "economy",
+    "question": "한국거래소(KRX)가 운영하는 시장이 아닌 것은?",
+    "options": ["유가증권시장(코스피)", "코스닥시장", "파생상품시장", "뉴욕 외환시장"],
+    "answer": 3,
+    "explanation": "한국거래소(KRX)는 유가증권시장, 코스닥시장, 파생상품시장 등을 운영하며, 뉴욕 외환시장은 미국 시장입니다."
+  },
+  {
+    "id": "eco_163",
+    "category": "economy",
+    "question": "한계소비성향(MPC)이 0.8이라면 소득이 100만 원 증가할 때 소비는 얼마나 늘어나는가?",
+    "options": ["20만 원", "50만 원", "80만 원", "100만 원"],
+    "answer": 2,
+    "explanation": "한계소비성향(MPC)이 0.8이면 추가 소득 100만 원 중 80%인 80만 원을 소비에 사용한다는 의미입니다."
+  },
+  {
+    "id": "eco_164",
+    "category": "economy",
+    "question": "일본은행(BOJ)의 장기적 초저금리 정책을 흔히 무엇이라 부르는가?",
+    "options": ["양적완화", "아베노믹스", "제로금리 정책", "마이너스 금리 정책"],
+    "answer": 2,
+    "explanation": "일본은 장기 디플레이션에 대응하기 위해 오랫동안 기준금리를 0%에 가깝게 유지하는 제로금리 정책을 시행했습니다."
+  },
+  {
+    "id": "eco_165",
+    "category": "economy",
+    "question": "한국의 외환보유고는 세계 몇 위권인가?(2024년 기준)",
+    "options": ["3~5위", "6~10위", "11~15위", "16~20위"],
+    "answer": 1,
+    "explanation": "한국의 외환보유고는 약 4,000억 달러 내외로, 세계 8~9위권 수준입니다."
+  },
+  {
+    "id": "eco_166",
+    "category": "economy",
+    "question": "유니콘 기업(Unicorn Company)의 조건은?",
+    "options": ["시가총액 1억 달러 이상의 상장사", "기업 가치 10억 달러 이상의 비상장 스타트업", "직원 수 1만 명 이상의 기업", "설립 10년 이상의 대기업"],
+    "answer": 1,
+    "explanation": "유니콘 기업은 기업 가치가 10억 달러(약 1조 원) 이상인 비상장 스타트업을 의미합니다."
+  },
+  {
+    "id": "eco_167",
+    "category": "economy",
+    "question": "한국에서 취득세가 부과되는 대표적인 거래는?",
+    "options": ["주식 매도", "부동산 구입", "소득세 납부", "이자 수령"],
+    "answer": 1,
+    "explanation": "취득세는 부동산, 차량 등의 자산을 취득할 때 부과되는 지방세입니다."
+  },
+  {
+    "id": "eco_168",
+    "category": "economy",
+    "question": "통화정책의 주요 수단이 아닌 것은?",
+    "options": ["기준금리 조정", "지급준비율 조정", "공개시장조작", "소득세율 변경"],
+    "answer": 3,
+    "explanation": "소득세율 변경은 재정정책의 수단이며, 통화정책은 금리, 지급준비율, 공개시장조작 등이 주요 수단입니다."
+  },
+  {
+    "id": "eco_169",
+    "category": "economy",
+    "question": "셰일혁명(Shale Revolution)으로 에너지 자급률이 크게 높아진 나라는?",
+    "options": ["사우디아라비아", "러시아", "미국", "중국"],
+    "answer": 2,
+    "explanation": "미국은 수압파쇄법(프래킹) 기술 발전으로 셰일가스·셰일오일 생산이 급증하여 에너지 자급률이 크게 높아졌습니다."
+  },
+  {
+    "id": "eco_170",
+    "category": "economy",
+    "question": "한국의 신용등급(무디스 기준, 2024년)은?",
+    "options": ["A1", "Aa2", "Aa3", "Aaa"],
+    "answer": 1,
+    "explanation": "한국의 국가신용등급은 무디스 기준 Aa2로, 높은 신용도를 인정받고 있습니다."
+  },
+  {
+    "id": "eco_171",
+    "category": "economy",
+    "question": "경제학에서 '탄력성(Elasticity)'이란?",
+    "options": ["가격이 변하지 않는 성질", "한 변수의 변화에 대한 다른 변수의 반응 정도", "시장이 자동으로 균형을 찾는 성질", "생산비가 일정한 성질"],
+    "answer": 1,
+    "explanation": "탄력성은 한 경제 변수의 변화에 대해 다른 변수가 얼마나 민감하게 반응하는지를 나타내는 개념입니다."
+  },
+  {
+    "id": "eco_172",
+    "category": "economy",
+    "question": "한국의 '전세' 제도는 다른 나라에서 보기 드문 독특한 제도인데, 그 특징은?",
+    "options": ["매월 임대료를 내는 방식", "목돈을 맡기고 거주한 후 만기에 돌려받는 방식", "집을 공유하는 방식", "정부가 임대료를 보조하는 방식"],
+    "answer": 1,
+    "explanation": "전세는 임차인이 큰 보증금을 집주인에게 맡기고 거주한 후, 계약 만기 시 보증금을 돌려받는 한국 고유의 제도입니다."
+  },
+  {
+    "id": "eco_173",
+    "category": "economy",
+    "question": "경제학자 조지프 슘페터가 강조한 경제 발전의 핵심 개념은?",
+    "options": ["비교우위", "창조적 파괴(Creative Destruction)", "보이지 않는 손", "유효수요 이론"],
+    "answer": 1,
+    "explanation": "슘페터는 기존 산업이 혁신에 의해 대체되는 '창조적 파괴'가 자본주의 발전의 핵심이라고 주장했습니다."
+  },
+  {
+    "id": "eco_174",
+    "category": "economy",
+    "question": "FOMC는 어떤 기관의 의사결정 기구인가?",
+    "options": ["세계은행", "미국 연방준비제도(Fed)", "IMF", "유럽중앙은행(ECB)"],
+    "answer": 1,
+    "explanation": "FOMC(Federal Open Market Committee)는 미국 연방준비제도의 통화정책 결정 기구입니다."
+  },
+  {
+    "id": "eco_175",
+    "category": "economy",
+    "question": "한국에서 금(Gold) 투자 시 부과되는 세금은?",
+    "options": ["부가가치세 10%", "양도소득세만", "비과세", "법인세만"],
+    "answer": 0,
+    "explanation": "한국에서 금 현물을 구입할 때는 부가가치세 10%가 부과되며, KRX 금시장을 통하면 비과세 혜택이 있습니다."
+  },
+  {
+    "id": "eco_176",
+    "category": "economy",
+    "question": "브레턴우즈 체제(Bretton Woods System)의 핵심 내용은?",
+    "options": ["금본위제 완전 폐지", "달러를 금에 고정하고 각국 통화를 달러에 고정하는 고정환율제", "모든 나라가 자유변동환율제를 채택", "유로화를 기축통화로 지정"],
+    "answer": 1,
+    "explanation": "브레턴우즈 체제(1944~1971)는 미 달러를 금에 고정시키고 각국 통화를 달러에 연동하는 고정환율 체제였습니다."
+  },
+  {
+    "id": "eco_177",
+    "category": "economy",
+    "question": "한국의 국가부채 비율(GDP 대비)은 대략 얼마인가?(2024년 기준)",
+    "options": ["약 25%", "약 50%", "약 75%", "약 100%"],
+    "answer": 1,
+    "explanation": "한국의 국가채무 비율은 GDP 대비 약 50% 내외로, OECD 평균보다는 낮은 수준입니다."
+  },
+  {
+    "id": "eco_178",
+    "category": "economy",
+    "question": "실질GDP와 명목GDP의 차이는?",
+    "options": ["실질GDP는 물가 변동을 반영하고, 명목GDP는 반영하지 않는다", "실질GDP는 물가 변동을 제거하고, 명목GDP는 포함한다", "차이가 없다", "실질GDP는 해외 소득을 포함한다"],
+    "answer": 1,
+    "explanation": "실질GDP는 물가 변동의 영향을 제거하여 실제 생산량 변화를 파악하고, 명목GDP는 당해 가격으로 계산합니다."
+  },
+  {
+    "id": "eco_179",
+    "category": "economy",
+    "question": "비트코인의 총 발행량 상한은 몇 개인가?",
+    "options": ["1,000만 개", "2,100만 개", "5,000만 개", "1억 개"],
+    "answer": 1,
+    "explanation": "비트코인은 프로토콜에 의해 총 발행량이 2,100만 개로 제한되어 있습니다."
+  },
+  {
+    "id": "eco_180",
+    "category": "economy",
+    "question": "한국에서 DSR(총부채원리금상환비율)이란?",
+    "options": ["연소득 대비 모든 대출의 원리금 상환액 비율", "부동산 가격 대비 대출 비율", "주식 투자 수익 대비 세금 비율", "저축 대비 소비 비율"],
+    "answer": 0,
+    "explanation": "DSR은 Debt Service Ratio의 약자로, 차주의 연소득 대비 모든 대출의 연간 원리금 상환액 비율을 의미합니다."
+  },
+  {
+    "id": "eco_181",
+    "category": "economy",
+    "question": "경제학에서 'GDP 디플레이터'란?",
+    "options": ["GDP를 줄이는 정책", "명목GDP를 실질GDP로 나눈 물가 지표", "GDP 성장률의 다른 이름", "GDP에서 세금을 뺀 수치"],
+    "answer": 1,
+    "explanation": "GDP 디플레이터는 명목GDP를 실질GDP로 나누어 산출하는 물가 수준 지표입니다."
+  },
+  {
+    "id": "eco_182",
+    "category": "economy",
+    "question": "현대자동차그룹의 총수 가문은?",
+    "options": ["이재용 가문", "정의선 가문", "구광모 가문", "최태원 가문"],
+    "answer": 1,
+    "explanation": "현대자동차그룹은 정주영 창업 이후 현재 정의선 회장이 이끌고 있습니다."
+  },
+  {
+    "id": "eco_183",
+    "category": "economy",
+    "question": "구매력평가(PPP) 환율이란?",
+    "options": ["시장에서 실제로 거래되는 환율", "두 나라의 물가 수준 차이를 반영한 이론적 환율", "중앙은행이 공식 지정한 환율", "선물 시장의 환율"],
+    "answer": 1,
+    "explanation": "PPP 환율은 두 나라의 물가 수준을 비교하여 동일한 재화를 같은 가격에 살 수 있도록 산출된 이론적 환율입니다."
+  },
+  {
+    "id": "eco_184",
+    "category": "economy",
+    "question": "한국에서 개인종합자산관리계좌(ISA)의 주요 혜택은?",
+    "options": ["대출 금리 할인", "투자 수익에 대한 세제 혜택", "부동산 취득세 면제", "의료비 공제"],
+    "answer": 1,
+    "explanation": "ISA(Individual Savings Account)는 다양한 금융상품에 투자하면서 투자 수익에 대한 세제 혜택을 받을 수 있는 계좌입니다."
+  },
+  {
+    "id": "eco_185",
+    "category": "economy",
+    "question": "경제학에서 '공공재(Public Goods)'의 특성이 아닌 것은?",
+    "options": ["비배제성", "비경합성", "배제성", "무임승차 문제 발생"],
+    "answer": 2,
+    "explanation": "공공재는 비배제성(특정인 배제 불가)과 비경합성(한 사람의 소비가 다른 사람의 소비를 줄이지 않음)의 특성을 가집니다."
+  },
+  {
+    "id": "eco_186",
+    "category": "economy",
+    "question": "한국에서 '금리인하요구권'이란?",
+    "options": ["한국은행에 기준금리 인하를 요구하는 권리", "대출자가 신용상태 개선 시 금융기관에 금리 인하를 요구할 수 있는 권리", "예금자가 이자율 인상을 요구하는 권리", "정부가 은행 금리를 강제로 낮추는 권리"],
+    "answer": 1,
+    "explanation": "금리인하요구권은 대출을 받은 사람이 소득 증가, 신용등급 상승 등 신용상태가 개선되었을 때 금리 인하를 요구할 수 있는 법적 권리입니다."
+  },
+  {
+    "id": "eco_187",
+    "category": "economy",
+    "question": "세계 최대 자산운용사는 어디인가?(2024년 기준)",
+    "options": ["골드만삭스", "뱅가드", "블랙록", "피델리티"],
+    "answer": 2,
+    "explanation": "블랙록(BlackRock)은 운용 자산 약 10조 달러 이상으로 세계 최대 자산운용사입니다."
+  },
+  {
+    "id": "eco_188",
+    "category": "economy",
+    "question": "프리미엄과 디스카운트의 의미로 올바른 것은?",
+    "options": ["프리미엄은 기준가 이하, 디스카운트는 기준가 이상", "프리미엄은 기준가 이상, 디스카운트는 기준가 이하", "둘 다 기준가와 동일", "프리미엄은 거래 수수료의 다른 이름"],
+    "answer": 1,
+    "explanation": "프리미엄은 기준 가격보다 높게 거래되는 것이고, 디스카운트는 기준 가격보다 낮게 거래되는 것을 의미합니다."
+  },
+  {
+    "id": "eco_189",
+    "category": "economy",
+    "question": "한국의 경제활동인구에 포함되지 않는 사람은?",
+    "options": ["직장인", "구직 중인 실업자", "전업 주부(구직 의사 없는)", "아르바이트생"],
+    "answer": 2,
+    "explanation": "경제활동인구는 취업자와 실업자(적극적으로 구직 활동 중인 자)를 포함하며, 구직 의사가 없는 사람은 비경제활동인구입니다."
+  },
+  {
+    "id": "eco_190",
+    "category": "economy",
+    "question": "기축통화(Key Currency)의 역할은?",
+    "options": ["특정 국가에서만 사용되는 화폐", "국제 무역·금융 거래에서 기준이 되는 통화", "금본위제에서만 사용되는 화폐", "암호화폐의 다른 이름"],
+    "answer": 1,
+    "explanation": "기축통화는 국제 무역과 금융 거래에서 기준이 되는 통화로, 현재 미국 달러가 대표적인 기축통화입니다."
+  },
+  {
+    "id": "eco_191",
+    "category": "economy",
+    "question": "한국에서 근로장려금(EITC)의 목적은?",
+    "options": ["고소득층에게 세금 환급", "저소득 근로자에게 현금 지원", "기업에게 고용 보조금 지급", "실업자에게 취업 교육 제공"],
+    "answer": 1,
+    "explanation": "근로장려금(EITC)은 저소득 근로자 가구에 소득에 따라 현금을 지원하여 근로 의욕을 높이는 제도입니다."
+  },
+  {
+    "id": "eco_192",
+    "category": "economy",
+    "question": "일론 머스크가 인수한 소셜미디어 플랫폼은?",
+    "options": ["인스타그램", "트위터(현 X)", "틱톡", "레딧"],
+    "answer": 1,
+    "explanation": "일론 머스크는 2022년 트위터를 인수하고 사명을 X로 변경했습니다."
+  },
+  {
+    "id": "eco_193",
+    "category": "economy",
+    "question": "경제학에서 '유효수요(Effective Demand)'란?",
+    "options": ["구매력이 뒷받침되는 실제 수요", "잠재적인 수요", "공급자가 원하는 수요량", "정부가 예측한 수요"],
+    "answer": 0,
+    "explanation": "유효수요는 구매력과 구매 의사가 모두 갖춰진 실제적인 수요로, 케인스 경제학의 핵심 개념입니다."
+  },
+  {
+    "id": "eco_194",
+    "category": "economy",
+    "question": "한국의 기업 지배구조에서 '이사회(Board of Directors)'의 역할은?",
+    "options": ["일상적 업무 수행", "경영 전반에 대한 의사결정과 감독", "세금 납부", "직원 채용만 담당"],
+    "answer": 1,
+    "explanation": "이사회는 기업의 경영 전략, 주요 의사결정, 경영진 감독 등의 역할을 수행하는 최고 의사결정 기관입니다."
+  },
+  {
+    "id": "eco_195",
+    "category": "economy",
+    "question": "인도의 IT 산업 중심 도시로 '인도의 실리콘밸리'라 불리는 곳은?",
+    "options": ["뭄바이", "뉴델리", "방갈로르(벵갈루루)", "첸나이"],
+    "answer": 2,
+    "explanation": "방갈로르(벵갈루루)는 인도의 IT 산업 중심지로 '인도의 실리콘밸리'라 불립니다."
+  },
+  {
+    "id": "eco_196",
+    "category": "economy",
+    "question": "한국의 공정거래위원회의 주요 역할은?",
+    "options": ["금리 결정", "독과점 규제 및 공정 경쟁 촉진", "화폐 발행", "국세 징수"],
+    "answer": 1,
+    "explanation": "공정거래위원회는 시장의 독과점 규제, 불공정 거래 행위 방지 등 공정한 경쟁 질서를 유지하는 역할을 합니다."
+  },
+  {
+    "id": "eco_197",
+    "category": "economy",
+    "question": "가격상한제(Price Ceiling)를 시행하면 일반적으로 어떤 현상이 발생하는가?",
+    "options": ["공급 과잉", "수요 부족", "초과 수요(품귀 현상)", "시장 균형 달성"],
+    "answer": 2,
+    "explanation": "가격상한제는 균형가격보다 낮은 수준으로 가격을 제한하므로 초과 수요(품귀 현상)가 발생할 수 있습니다."
+  },
+  {
+    "id": "eco_198",
+    "category": "economy",
+    "question": "비트코인 반감기(Halving)란?",
+    "options": ["비트코인 가격이 절반으로 떨어지는 것", "채굴 보상이 절반으로 줄어드는 이벤트", "거래 수수료가 절반으로 줄어드는 것", "비트코인 발행량이 절반으로 소각되는 것"],
+    "answer": 1,
+    "explanation": "비트코인 반감기는 약 4년마다 블록 채굴 보상이 절반으로 줄어드는 이벤트로, 공급 감소로 가격에 영향을 줄 수 있습니다."
+  },
+  {
+    "id": "eco_199",
+    "category": "economy",
+    "question": "OECD는 무엇의 약자인가?",
+    "options": ["Organization for Economic Cooperation and Development", "Office of Environmental Control and Defense", "Order of European Currency Division", "Organization of Energy Consuming Democracies"],
+    "answer": 0,
+    "explanation": "OECD는 경제협력개발기구(Organization for Economic Cooperation and Development)의 약자로, 38개 선진국이 가입해 있습니다."
+  },
+  {
+    "id": "eco_200",
+    "category": "economy",
+    "question": "한국에서 '연말정산'이란?",
+    "options": ["기업의 연간 회계 결산", "근로소득자의 세금을 연말에 재계산하여 과부족을 정산하는 것", "주식 계좌의 연간 수익 정산", "은행 이자의 연말 지급"],
+    "answer": 1,
+    "explanation": "연말정산은 근로소득자가 1년간 납부한 소득세를 각종 공제를 반영하여 재계산하고 과부족을 정산하는 절차입니다."
+  },
+  {
+    "id": "eco_201",
+    "category": "economy",
+    "question": "경제학에서 '승수효과(Multiplier Effect)'란?",
+    "options": ["투자 한 단위 증가가 GDP를 그 이상으로 증가시키는 효과", "세금이 늘면 소비가 줄어드는 효과", "환율이 급변하는 현상", "인구 증가가 경제를 위축시키는 효과"],
+    "answer": 0,
+    "explanation": "승수효과는 정부 지출이나 투자가 한 단위 증가할 때 총소득이 그 이상으로 증가하는 경제적 파급 효과입니다."
+  },
+  {
+    "id": "eco_202",
+    "category": "economy",
+    "question": "미국의 중앙은행 역할을 하는 기관은?",
+    "options": ["재무부(Treasury)", "연방준비제도(Federal Reserve)", "SEC", "FDIC"],
+    "answer": 1,
+    "explanation": "미국 연방준비제도(Fed)는 미국의 중앙은행으로서 통화정책 수행, 금융 시스템 안정 등의 역할을 합니다."
+  },
+  {
+    "id": "eco_203",
+    "category": "economy",
+    "question": "한국에서 '생애최초 주택구입자'에 대한 대표적 혜택은?",
+    "options": ["소득세 면제", "취득세 감면", "부가가치세 면제", "건강보험료 면제"],
+    "answer": 1,
+    "explanation": "생애최초 주택구입자에게는 취득세 감면 등의 세제 혜택이 제공됩니다."
+  },
+  {
+    "id": "eco_204",
+    "category": "economy",
+    "question": "투자에서 '분산투자(Diversification)'의 핵심 원리를 설명한 학자는?",
+    "options": ["워런 버핏", "해리 마코위츠", "벤저민 그레이엄", "존 보글"],
+    "answer": 1,
+    "explanation": "해리 마코위츠는 현대포트폴리오이론(MPT)을 통해 분산투자의 수학적 원리를 체계화한 경제학자입니다."
+  },
+  {
+    "id": "eco_205",
+    "category": "economy",
+    "question": "경제학에서 '무차별곡선(Indifference Curve)'이 나타내는 것은?",
+    "options": ["동일한 가격의 상품 조합", "동일한 만족도를 주는 상품 조합", "수요와 공급이 일치하는 점", "비용이 최소화되는 생산량"],
+    "answer": 1,
+    "explanation": "무차별곡선은 소비자에게 동일한 수준의 만족(효용)을 제공하는 재화의 다양한 조합을 나타내는 곡선입니다."
+  },
+  {
+    "id": "eco_206",
+    "category": "economy",
+    "question": "한국 주식시장에서 '상한가'는 전일 종가 대비 몇 %인가?",
+    "options": ["15%", "20%", "25%", "30%"],
+    "answer": 3,
+    "explanation": "한국 주식시장의 가격제한폭은 전일 종가 대비 ±30%이며, 상한가는 +30%입니다."
+  },
+  {
+    "id": "eco_207",
+    "category": "economy",
+    "question": "글로벌 금융위기 이후 강화된 은행 규제 프레임워크는?",
+    "options": ["바젤 I", "바젤 II", "바젤 III", "바젤 IV"],
+    "answer": 2,
+    "explanation": "바젤 III는 2008년 금융위기 이후 은행의 자본·유동성 규제를 강화한 국제 금융 규제 프레임워크입니다."
+  },
+  {
+    "id": "eco_208",
+    "category": "economy",
+    "question": "한국의 수출 주요 상대국에 해당하지 않는 나라는?",
+    "options": ["중국", "미국", "베트남", "브라질"],
+    "answer": 3,
+    "explanation": "한국의 주요 수출 상대국은 중국, 미국, 베트남, 일본 등이며, 브라질은 상위권에 포함되지 않습니다."
+  },
+  {
+    "id": "eco_209",
+    "category": "economy",
+    "question": "경상수지가 흑자라는 것은?",
+    "options": ["외국에서 돈이 더 많이 들어온 상태", "외국으로 돈이 더 많이 나간 상태", "무역이 중단된 상태", "환율이 고정된 상태"],
+    "answer": 0,
+    "explanation": "경상수지 흑자는 수출, 서비스, 소득 등을 통해 외국에서 들어오는 돈이 나가는 돈보다 많은 상태를 의미합니다."
+  },
+  {
+    "id": "eco_210",
+    "category": "economy",
+    "question": "삼성전자의 주요 사업 부문이 아닌 것은?",
+    "options": ["반도체(DS)", "모바일(MX)", "디스플레이", "항공기 제조"],
+    "answer": 3,
+    "explanation": "삼성전자의 주요 사업 부문은 반도체, 모바일, 디스플레이, 가전 등이며 항공기 제조는 하지 않습니다."
+  },
+  {
+    "id": "eco_211",
+    "category": "economy",
+    "question": "경제학에서 '보호무역주의(Protectionism)'의 수단이 아닌 것은?",
+    "options": ["관세 부과", "수입 할당제", "FTA 체결", "반덤핑 관세"],
+    "answer": 2,
+    "explanation": "FTA(자유무역협정)는 무역 장벽을 낮추는 자유무역의 수단이지, 보호무역주의의 수단이 아닙니다."
+  },
+  {
+    "id": "eco_212",
+    "category": "economy",
+    "question": "한국에서 '연금저축'의 세제 혜택은?",
+    "options": ["전액 비과세", "세액공제(납입액의 일정 비율)", "소득공제만 가능", "혜택 없음"],
+    "answer": 1,
+    "explanation": "연금저축 납입액에 대해 총급여에 따라 세액공제(13.2% 또는 16.5%)를 받을 수 있습니다."
+  },
+  {
+    "id": "eco_213",
+    "category": "economy",
+    "question": "경제 용어 '블랙스완(Black Swan)'이란?",
+    "options": ["예측 불가능하고 극단적인 영향을 미치는 사건", "주식시장의 일반적인 조정", "경기 회복의 신호", "안정적인 경제 성장"],
+    "answer": 0,
+    "explanation": "블랙스완은 예측이 매우 어렵지만 발생하면 극단적인 영향을 미치는 사건을 의미하는 나심 탈레브의 용어입니다."
+  },
+  {
+    "id": "eco_214",
+    "category": "economy",
+    "question": "이더리움 2.0에서 채택한 합의 메커니즘은?",
+    "options": ["작업증명(PoW)", "지분증명(PoS)", "위임지분증명(DPoS)", "권한증명(PoA)"],
+    "answer": 1,
+    "explanation": "이더리움은 'The Merge' 업그레이드를 통해 작업증명(PoW)에서 지분증명(PoS) 방식으로 전환했습니다."
+  },
+  {
+    "id": "eco_215",
+    "category": "economy",
+    "question": "한국에서 부동산 LTV(주택담보대출비율)란?",
+    "options": ["소득 대비 대출 비율", "주택 가격 대비 대출 가능 비율", "대출 이자 대비 소득 비율", "주택 면적 대비 대출 비율"],
+    "answer": 1,
+    "explanation": "LTV(Loan to Value)는 주택 가격 대비 대출 가능 금액의 비율로, 대출 한도를 결정하는 기준입니다."
+  },
+  {
+    "id": "eco_216",
+    "category": "economy",
+    "question": "경제학에서 '래칫 효과(Ratchet Effect)'란?",
+    "options": ["소비 수준이 오르면 쉽게 내려가지 않는 현상", "금리가 한번 오르면 계속 오르는 현상", "환율이 한 방향으로만 움직이는 현상", "세금이 증가하면 감소하지 않는 현상"],
+    "answer": 0,
+    "explanation": "래칫 효과는 소득이 줄어도 한번 올라간 소비 수준은 쉽게 낮아지지 않는 소비의 비가역성을 의미합니다."
+  },
+  {
+    "id": "eco_217",
+    "category": "economy",
+    "question": "한국에서 가장 큰 재벌그룹(자산 기준, 2024년)은?",
+    "options": ["현대자동차그룹", "SK그룹", "삼성그룹", "LG그룹"],
+    "answer": 2,
+    "explanation": "삼성그룹은 자산 규모 기준으로 한국 최대 재벌그룹입니다."
+  },
+  {
+    "id": "eco_218",
+    "category": "economy",
+    "question": "유동비율(Current Ratio)이란?",
+    "options": ["유동자산 ÷ 유동부채", "총자산 ÷ 총부채", "순이익 ÷ 매출액", "현금 ÷ 장기부채"],
+    "answer": 0,
+    "explanation": "유동비율은 유동자산을 유동부채로 나눈 비율로, 기업의 단기 지급 능력을 나타내며 일반적으로 200% 이상이 양호합니다."
+  },
+  {
+    "id": "eco_219",
+    "category": "economy",
+    "question": "빅맥지수(Big Mac Index)는 무엇을 측정하기 위해 만들어졌는가?",
+    "options": ["맥도날드의 매출", "각국 통화의 구매력 비교", "패스트푸드 산업 성장률", "비만율 국제 비교"],
+    "answer": 1,
+    "explanation": "빅맥지수는 이코노미스트지가 각국의 빅맥 가격을 비교하여 통화의 구매력과 환율 적정성을 간단히 평가하는 지표입니다."
+  },
+  {
+    "id": "eco_220",
+    "category": "economy",
+    "question": "한국의 '국민연금 기금'의 운용 규모는 대략 얼마인가?(2024년 기준)",
+    "options": ["약 500조 원", "약 800조 원", "약 1,000조 원", "약 1,500조 원"],
+    "answer": 2,
+    "explanation": "한국 국민연금 기금의 운용 규모는 약 1,000조 원을 넘어 세계 3위 수준의 연기금입니다."
+  },
+  {
+    "id": "eco_221",
+    "category": "economy",
+    "question": "경제학에서 '역진세(Regressive Tax)'란?",
+    "options": ["소득이 높을수록 세율이 높은 세금", "소득이 낮을수록 상대적 세 부담이 큰 세금", "모든 사람에게 동일한 금액의 세금", "면세 대상이 많은 세금"],
+    "answer": 1,
+    "explanation": "역진세는 소득이 낮을수록 소득 대비 세금 부담 비율이 높아지는 세금으로, 부가가치세가 대표적 예입니다."
+  },
+  {
+    "id": "eco_222",
+    "category": "economy",
+    "question": "디지털 위안(e-CNY)을 개발하고 있는 나라는?",
+    "options": ["일본", "미국", "중국", "한국"],
+    "answer": 2,
+    "explanation": "중국 인민은행은 디지털 위안(e-CNY)을 개발하여 여러 도시에서 시범 운영하고 있습니다."
+  },
+  {
+    "id": "eco_223",
+    "category": "economy",
+    "question": "한국에서 '금융소비자보호법'이 시행된 해는?",
+    "options": ["2019년", "2020년", "2021년", "2022년"],
+    "answer": 2,
+    "explanation": "금융소비자보호법은 2021년 3월 25일 시행되어 금융소비자의 권익 보호를 강화했습니다."
+  },
+  {
+    "id": "eco_224",
+    "category": "economy",
+    "question": "세계에서 가장 부유한 사람(2024년 기준, 포브스)은?",
+    "options": ["빌 게이츠", "일론 머스크", "제프 베이조스", "베르나르 아르노"],
+    "answer": 3,
+    "explanation": "2024년 기준 LVMH 그룹의 베르나르 아르노가 포브스 세계 부자 순위 1위에 올랐습니다."
+  },
+  {
+    "id": "eco_225",
+    "category": "economy",
+    "question": "가격하한제(Price Floor)의 대표적 사례는?",
+    "options": ["아파트 분양가 상한제", "최저임금제", "이자율 상한제", "수입 관세"],
+    "answer": 1,
+    "explanation": "최저임금제는 임금에 최저 기준을 설정하는 대표적인 가격하한제의 사례입니다."
+  },
+  {
+    "id": "eco_226",
+    "category": "economy",
+    "question": "한국에서 '공시지가'란?",
+    "options": ["부동산의 실거래가격", "정부가 공시하는 토지의 표준적인 가격", "건축물의 감정가", "주택의 전세 시세"],
+    "answer": 1,
+    "explanation": "공시지가는 정부가 매년 조사·평가하여 공시하는 토지의 적정 가격으로, 세금·부담금의 산정 기준이 됩니다."
+  },
+  {
+    "id": "eco_227",
+    "category": "economy",
+    "question": "경제학에서 '코스 정리(Coase Theorem)'의 핵심 내용은?",
+    "options": ["정부 개입이 항상 효율적이다", "거래비용이 0이면 재산권 배분과 무관하게 효율적 결과를 달성한다", "독점은 항상 비효율적이다", "관세가 항상 무역을 감소시킨다"],
+    "answer": 1,
+    "explanation": "코스 정리는 거래비용이 없다면 재산권이 어떻게 배분되든 당사자 간 협상을 통해 효율적 결과에 도달한다는 이론입니다."
+  },
+  {
+    "id": "eco_228",
+    "category": "economy",
+    "question": "애플(Apple)의 현 CEO(2024년 기준)는 누구인가?",
+    "options": ["스티브 잡스", "팀 쿡", "스티브 워즈니악", "존 아이브"],
+    "answer": 1,
+    "explanation": "팀 쿡은 2011년 스티브 잡스의 뒤를 이어 애플의 CEO가 되었습니다."
+  },
+  {
+    "id": "eco_229",
+    "category": "economy",
+    "question": "한국에서 '특례보금자리론'의 주된 목적은?",
+    "options": ["기업 대출 지원", "중·저소득 무주택자의 주택구입자금 지원", "유학생 학자금 대출", "자동차 구입 대출"],
+    "answer": 1,
+    "explanation": "특례보금자리론은 무주택자 또는 1주택자의 주택구입·전세자금을 저금리로 지원하는 정책 모기지 상품입니다."
+  },
+  {
+    "id": "eco_230",
+    "category": "economy",
+    "question": "경제학에서 '유동성 함정(Liquidity Trap)'이란?",
+    "options": ["현금 보유가 불법이 되는 상황", "금리가 매우 낮아 통화정책이 효과를 잃는 상황", "은행이 대출을 과도하게 하는 상황", "주식시장에 유동성이 넘치는 상황"],
+    "answer": 1,
+    "explanation": "유동성 함정은 금리가 극도로 낮아져 추가 금리 인하가 투자와 소비를 촉진하지 못하는 상황입니다."
+  },
+  {
+    "id": "eco_231",
+    "category": "economy",
+    "question": "한국의 '전자공시시스템(DART)'의 운영 주체는?",
+    "options": ["한국은행", "금융감독원", "한국거래소", "기획재정부"],
+    "answer": 1,
+    "explanation": "DART(Data Analysis, Retrieval and Transfer System)는 금융감독원이 운영하는 기업 공시 정보 시스템입니다."
+  },
+  {
+    "id": "eco_232",
+    "category": "economy",
+    "question": "경제학에서 '크라우딩 아웃 효과(Crowding Out Effect)'란?",
+    "options": ["정부 지출 증가로 민간 투자가 위축되는 현상", "외국인 투자가 국내 기업을 밀어내는 현상", "대기업이 중소기업을 시장에서 밀어내는 현상", "소비자가 시장을 떠나는 현상"],
+    "answer": 0,
+    "explanation": "크라우딩 아웃 효과는 정부의 재정지출 확대로 금리가 상승하여 민간 부문의 투자가 위축되는 현상입니다."
+  },
+  {
+    "id": "eco_233",
+    "category": "economy",
+    "question": "한국에서 '주택청약종합저축'의 가입 가능 대상은?",
+    "options": ["만 19세 이상 성인만", "만 19세 이상 세대주만", "연령 제한 없음(미성년자 포함)", "만 30세 이상만"],
+    "answer": 2,
+    "explanation": "주택청약종합저축은 연령 제한 없이 미성년자를 포함한 누구나 가입할 수 있습니다."
+  },
+  {
+    "id": "eco_234",
+    "category": "economy",
+    "question": "경제학에서 '정보 비대칭(Information Asymmetry)'이란?",
+    "options": ["모든 경제 주체가 동일한 정보를 보유한 상태", "거래 당사자 간 정보 보유량에 차이가 있는 상태", "정부가 정보를 독점한 상태", "시장에 정보가 전혀 없는 상태"],
+    "answer": 1,
+    "explanation": "정보 비대칭은 거래 당사자 중 한쪽이 다른 쪽보다 더 많은 정보를 보유하고 있는 불균형 상태입니다."
+  },
+  {
+    "id": "eco_235",
+    "category": "economy",
+    "question": "엔비디아(NVIDIA)가 세계적으로 주목받는 이유는?",
+    "options": ["스마트폰 제조", "AI·데이터센터용 GPU 반도체", "전기차 제조", "소셜미디어 플랫폼"],
+    "answer": 1,
+    "explanation": "엔비디아는 AI 학습과 데이터센터에 핵심적인 GPU를 설계·제조하여 AI 시대의 핵심 기업으로 부상했습니다."
+  },
+  {
+    "id": "eco_236",
+    "category": "economy",
+    "question": "한국의 '코넥스(KONEX)'시장이란?",
+    "options": ["대형주 전용 시장", "초기 중소기업 전용 주식시장", "외국인 전용 채권시장", "파생상품 전용 시장"],
+    "answer": 1,
+    "explanation": "코넥스(KONEX)는 Korea New Exchange의 약자로, 초기 중소·벤처기업의 자금 조달을 위한 자본시장입니다."
+  },
+  {
+    "id": "eco_237",
+    "category": "economy",
+    "question": "미국 달러 인덱스(DXY)란?",
+    "options": ["미국 주가지수", "미국 달러의 주요 6개 통화 대비 가치 지수", "미국 금리 지표", "미국 물가 지수"],
+    "answer": 1,
+    "explanation": "달러 인덱스(DXY)는 유로, 엔, 파운드 등 주요 6개 통화 대비 미국 달러의 상대적 가치를 나타내는 지수입니다."
+  },
+  {
+    "id": "eco_238",
+    "category": "economy",
+    "question": "경제학에서 '스톡과 플로우(Stock and Flow)'의 차이는?",
+    "options": ["스톡은 특정 시점의 양, 플로우는 일정 기간의 양", "스톡은 주식, 플로우는 채권", "스톡은 소비, 플로우는 저축", "차이가 없다"],
+    "answer": 0,
+    "explanation": "스톡은 특정 시점에서의 양(예: 자산 총액)이고, 플로우는 일정 기간 동안의 변화량(예: 연간 소득)입니다."
+  },
+  {
+    "id": "eco_239",
+    "category": "economy",
+    "question": "한국에서 '간이과세자'란?",
+    "options": ["연매출 8,000만 원 이상의 사업자", "연매출 8,000만 원 미만의 소규모 사업자", "법인사업자", "비영리법인"],
+    "answer": 1,
+    "explanation": "간이과세자는 연매출 8,000만 원(2024년 기준) 미만의 소규모 개인사업자에게 적용되는 부가가치세 특례제도입니다."
+  },
+  {
+    "id": "eco_240",
+    "category": "economy",
+    "question": "한국에서 '개인사업자'와 '법인사업자'의 세금 차이는?",
+    "options": ["개인사업자는 소득세, 법인사업자는 법인세를 납부", "둘 다 소득세만 납부", "둘 다 법인세만 납부", "개인사업자는 세금 면제"],
+    "answer": 0,
+    "explanation": "개인사업자는 소득세(최고 45%)를, 법인사업자는 법인세(최고 24%)를 납부하며 세율 구조가 다릅니다."
+  },
+  {
+    "id": "eco_241",
+    "category": "economy",
+    "question": "경제학에서 '완전경쟁시장'의 조건이 아닌 것은?",
+    "options": ["다수의 구매자와 판매자", "동질적 상품", "진입·퇴출 자유", "한 기업이 가격 결정력을 가짐"],
+    "answer": 3,
+    "explanation": "완전경쟁시장에서는 개별 기업이 가격에 영향을 미칠 수 없는 가격 수용자(Price Taker)입니다."
+  },
+  {
+    "id": "eco_242",
+    "category": "economy",
+    "question": "블록체인의 '51% 공격'이란?",
+    "options": ["네트워크 참여자의 51%가 탈퇴하는 것", "네트워크 해시파워의 과반 이상을 장악하여 거래를 조작하는 공격", "노드의 51%가 업데이트를 거부하는 것", "전체 코인의 51%를 소각하는 것"],
+    "answer": 1,
+    "explanation": "51% 공격은 악의적 참여자가 네트워크의 전체 연산 능력 과반을 장악하여 이중 지불 등 거래를 조작하는 공격입니다."
+  },
+  {
+    "id": "eco_243",
+    "category": "economy",
+    "question": "한국에서 '서학개미'란?",
+    "options": ["미국 주식에 투자하는 한국 개인투자자", "한국 주식에 투자하는 외국인", "서울 지역 투자자", "서양식 투자 기법을 사용하는 투자자"],
+    "answer": 0,
+    "explanation": "'서학개미'는 미국 등 해외 주식시장에 투자하는 한국 개인투자자를 가리키는 신조어입니다."
+  },
+  {
+    "id": "eco_244",
+    "category": "economy",
+    "question": "리보(LIBOR) 금리는 어느 도시에서 산정되었는가?",
+    "options": ["뉴욕", "런던", "도쿄", "프랑크푸르트"],
+    "answer": 1,
+    "explanation": "LIBOR(London Interbank Offered Rate)는 런던 은행 간 자금 거래에 적용되는 기준 금리였으나, 2023년 폐지되었습니다."
+  },
+  {
+    "id": "eco_245",
+    "category": "economy",
+    "question": "경제학에서 '한계대체율(MRS)'이란?",
+    "options": ["한 재화를 1단위 더 소비하기 위해 포기해야 하는 다른 재화의 양", "생산비용의 한계", "이익의 한계", "소비 총량의 한계"],
+    "answer": 0,
+    "explanation": "한계대체율은 동일한 효용을 유지하면서 한 재화를 1단위 더 소비하기 위해 포기해야 하는 다른 재화의 양입니다."
+  },
+  {
+    "id": "eco_246",
+    "category": "economy",
+    "question": "한국에서 '금융실명제'가 시행된 해는?",
+    "options": ["1988년", "1990년", "1993년", "1997년"],
+    "answer": 2,
+    "explanation": "금융실명제는 1993년 8월 김영삼 정부에서 긴급재정경제명령으로 전격 시행되었습니다."
+  },
+  {
+    "id": "eco_247",
+    "category": "economy",
+    "question": "사모펀드(Private Equity Fund)와 공모펀드의 차이는?",
+    "options": ["사모펀드는 소수 투자자, 공모펀드는 다수 투자자 대상", "사모펀드는 정부 운영, 공모펀드는 민간 운영", "차이가 없다", "사모펀드는 원금 보장, 공모펀드는 비보장"],
+    "answer": 0,
+    "explanation": "사모펀드는 소수의 전문 투자자를 대상으로 비공개로 모집하고, 공모펀드는 불특정 다수를 대상으로 공개 모집합니다."
+  },
+  {
+    "id": "eco_248",
+    "category": "economy",
+    "question": "한국의 수출 비중에서 중국이 차지하는 비율은 대략?",
+    "options": ["약 10%", "약 20%", "약 30%", "약 40%"],
+    "answer": 1,
+    "explanation": "한국 전체 수출에서 중국이 차지하는 비중은 약 20% 내외입니다."
+  },
+  {
+    "id": "eco_249",
+    "category": "economy",
+    "question": "경제학에서 '구성의 오류(Fallacy of Composition)'란?",
+    "options": ["개별적으로 참인 것이 전체적으로도 반드시 참이라고 잘못 추론하는 오류", "통계의 표본 오류", "가격 계산의 실수", "인과관계를 잘못 파악하는 오류"],
+    "answer": 0,
+    "explanation": "구성의 오류는 개별 구성원에게 유리한 행동이 전체적으로는 불리한 결과를 초래할 수 있다는 것을 무시하는 오류입니다."
+  },
+  {
+    "id": "eco_250",
+    "category": "economy",
+    "question": "세계 최대 산유국(2024년 기준)은?",
+    "options": ["사우디아라비아", "러시아", "미국", "이란"],
+    "answer": 2,
+    "explanation": "셰일혁명 이후 미국은 세계 최대 원유 생산국이 되었습니다."
+  },
+  {
+    "id": "eco_251",
+    "category": "economy",
+    "question": "한국의 DTI(총부채상환비율)란?",
+    "options": ["자산 대비 부채 비율", "연소득 대비 연간 대출 원리금 상환액 비율", "주택가격 대비 대출 비율", "월소득 대비 임대료 비율"],
+    "answer": 1,
+    "explanation": "DTI(Debt to Income)는 연소득 대비 주택담보대출 원리금과 기타 대출 이자 상환액의 비율입니다."
+  },
+  {
+    "id": "eco_252",
+    "category": "economy",
+    "question": "경제학에서 '외부불경제(Negative Externality)'의 대표적 사례는?",
+    "options": ["공원 조성", "공해(환경오염)", "교육 투자", "백신 접종"],
+    "answer": 1,
+    "explanation": "공해는 생산 과정에서 제3자에게 비용(환경 피해)을 전가하는 대표적인 외부불경제의 사례입니다."
+  },
+  {
+    "id": "eco_253",
+    "category": "economy",
+    "question": "SPAC(특수목적 인수합병회사)란?",
+    "options": ["실제 사업 없이 기업 인수를 위해 설립된 회사", "정부 출자 공기업", "우주 산업 전문 기업", "부동산 투자 전문 회사"],
+    "answer": 0,
+    "explanation": "SPAC은 비상장 기업을 인수·합병하는 것을 유일한 목적으로 설립되어 상장된 페이퍼컴퍼니입니다."
+  },
+  {
+    "id": "eco_254",
+    "category": "economy",
+    "question": "한국의 '가계부채' 규모는 GDP의 대략 몇 %인가?(2024년 기준)",
+    "options": ["약 50%", "약 70%", "약 100%", "약 130%"],
+    "answer": 2,
+    "explanation": "한국의 가계부채는 GDP 대비 약 100% 수준으로, 세계적으로 높은 편에 속합니다."
+  },
+  {
+    "id": "eco_255",
+    "category": "economy",
+    "question": "케인스의 대표 저서는 무엇인가?",
+    "options": ["국부론", "자본론", "고용, 이자 및 화폐의 일반이론", "경제학 원리"],
+    "answer": 2,
+    "explanation": "케인스의 대표작 '고용, 이자 및 화폐의 일반이론'(1936)은 거시경제학의 기초를 놓은 저서입니다."
+  },
+  {
+    "id": "eco_256",
+    "category": "economy",
+    "question": "한국에서 '예금자보호법'에 의해 보호되지 않는 금융상품은?",
+    "options": ["정기예금", "정기적금", "주식 투자(증권)", "보험 상품(원금 보장형)"],
+    "answer": 2,
+    "explanation": "주식 투자는 원본손실 위험이 있는 투자상품으로 예금자보호법의 보호 대상이 아닙니다."
+  },
+  {
+    "id": "eco_257",
+    "category": "economy",
+    "question": "일본의 '잃어버린 30년'이란?",
+    "options": ["전쟁으로 인한 경제 파괴 기간", "1990년대 이후 장기 경기 침체 기간", "일본의 급속한 성장 기간", "일본의 수출 급감 기간"],
+    "answer": 1,
+    "explanation": "'잃어버린 30년'은 1990년대 버블 붕괴 이후 일본이 경험한 장기 경기 침체와 디플레이션 시기를 의미합니다."
+  },
+  {
+    "id": "eco_258",
+    "category": "economy",
+    "question": "주식에서 '시가총액(Market Capitalization)'의 계산 방법은?",
+    "options": ["주가 × 발행주식수", "매출액 × 순이익률", "자산총액 - 부채총액", "배당금 × 주식수"],
+    "answer": 0,
+    "explanation": "시가총액은 현재 주가에 총 발행주식수를 곱하여 산출하며, 기업의 시장 가치를 나타냅니다."
+  },
+  {
+    "id": "eco_259",
+    "category": "economy",
+    "question": "한국의 '주52시간 근무제'가 시행된 해는?",
+    "options": ["2015년", "2017년", "2018년", "2020년"],
+    "answer": 2,
+    "explanation": "주52시간 근무제는 2018년 7월부터 300인 이상 사업장을 시작으로 단계적으로 시행되었습니다."
+  },
+  {
+    "id": "eco_260",
+    "category": "economy",
+    "question": "경제학에서 '한계생산체감의 법칙'이란?",
+    "options": ["생산요소를 계속 추가하면 추가 생산량이 점차 감소하는 법칙", "생산량이 늘면 비용이 항상 감소하는 법칙", "가격이 오르면 생산량이 줄어드는 법칙", "기술이 발전하면 생산이 줄어드는 법칙"],
+    "answer": 0,
+    "explanation": "한계생산체감의 법칙은 다른 생산요소를 고정한 채 한 생산요소만 계속 추가하면 추가 생산량이 점차 줄어드는 현상입니다."
+  },
+  {
+    "id": "eco_261",
+    "category": "economy",
+    "question": "RCEP(역내포괄적경제동반자협정)에 참여하지 않는 국가는?",
+    "options": ["한국", "일본", "중국", "미국"],
+    "answer": 3,
+    "explanation": "RCEP은 아시아·태평양 15개국이 참여하는 대규모 자유무역협정으로, 미국은 참여하지 않습니다."
+  },
+  {
+    "id": "eco_262",
+    "category": "economy",
+    "question": "한국에서 '종합부동산세'가 도입된 해는?",
+    "options": ["2000년", "2003년", "2005년", "2008년"],
+    "answer": 2,
+    "explanation": "종합부동산세는 2005년부터 시행되어 고가 부동산 보유자에 대한 과세를 강화했습니다."
+  },
+  {
+    "id": "eco_263",
+    "category": "economy",
+    "question": "경제학에서 '완전고용'이란?",
+    "options": ["실업률이 0%인 상태", "자연실업률 수준의 고용 상태", "모든 국민이 정규직인 상태", "노동자가 원하는 만큼 일하는 상태"],
+    "answer": 1,
+    "explanation": "완전고용은 경기적 실업이 없고 자연실업률 수준의 고용이 달성된 상태를 의미합니다."
+  },
+  {
+    "id": "eco_264",
+    "category": "economy",
+    "question": "다단계 판매(MLM)와 피라미드 사기의 핵심적 차이는?",
+    "options": ["차이가 없다", "실제 상품 판매 여부", "참여 인원 수", "투자 금액의 차이"],
+    "answer": 1,
+    "explanation": "합법적 다단계는 실제 상품 판매를 통한 수익 구조이고, 피라미드 사기는 신규 가입자의 투자금이 주 수익원입니다."
+  },
+  {
+    "id": "eco_265",
+    "category": "economy",
+    "question": "한국의 '기업공시 의무'를 지지 않는 기업은?",
+    "options": ["코스피 상장사", "코스닥 상장사", "비상장 소규모 개인기업", "코넥스 상장사"],
+    "answer": 2,
+    "explanation": "상장회사는 투자자 보호를 위해 기업공시 의무가 있지만, 비상장 소규모 개인기업은 공시 의무가 없습니다."
+  },
+  {
+    "id": "eco_266",
+    "category": "economy",
+    "question": "경제학에서 '비용체증산업(Increasing Cost Industry)'이란?",
+    "options": ["생산량이 늘면 비용이 줄어드는 산업", "산업 전체의 생산 확대 시 투입 요소 가격이 상승하는 산업", "정부 보조금을 받는 산업", "기술 혁신이 빠른 산업"],
+    "answer": 1,
+    "explanation": "비용체증산업은 산업 전체의 생산이 확대될 때 생산요소 가격이 상승하여 기업의 비용이 증가하는 산업입니다."
+  },
+  {
+    "id": "eco_267",
+    "category": "economy",
+    "question": "세계은행 그룹의 산하 기관이 아닌 것은?",
+    "options": ["IBRD", "IDA", "IFC", "IMF"],
+    "answer": 3,
+    "explanation": "IMF는 독립적인 국제 기구이며, 세계은행 그룹에는 IBRD, IDA, IFC, MIGA, ICSID가 포함됩니다."
+  },
+  {
+    "id": "eco_268",
+    "category": "economy",
+    "question": "한국에서 '퇴직연금(DC형)'의 특징은?",
+    "options": ["확정급여형으로 퇴직 시 정해진 금액을 받음", "확정기여형으로 운용 성과에 따라 수령액이 변동", "정부가 운용하는 연금", "개인이 가입하는 국민연금"],
+    "answer": 1,
+    "explanation": "DC(Defined Contribution)형 퇴직연금은 사용자가 정해진 금액을 납입하고, 근로자가 직접 운용하여 수령액이 변동합니다."
+  },
+  {
+    "id": "eco_269",
+    "category": "economy",
+    "question": "한국에서 '사채'란 일반적으로 무엇을 의미하는가?",
+    "options": ["회사채(기업이 발행하는 채권)", "제도권 밖에서 높은 이자로 빌리는 돈", "정부가 발행하는 채권", "외국 화폐"],
+    "answer": 1,
+    "explanation": "한국에서 '사채'는 일반적으로 은행 등 제도권 금융기관이 아닌 곳에서 높은 이자로 빌리는 비공식 대출을 의미합니다."
+  },
+  {
+    "id": "eco_270",
+    "category": "economy",
+    "question": "경제학에서 '독점적 경쟁(Monopolistic Competition)'의 특징은?",
+    "options": ["단 하나의 판매자", "다수의 판매자가 차별화된 상품을 판매", "정부가 가격을 결정", "상품이 완전히 동질적"],
+    "answer": 1,
+    "explanation": "독점적 경쟁은 다수의 판매자가 유사하지만 차별화된 상품을 판매하는 시장 구조로, 브랜드 경쟁이 대표적입니다."
+  },
+  {
+    "id": "eco_271",
+    "category": "economy",
+    "question": "한국에서 '원천징수'란?",
+    "options": ["본인이 직접 세금을 납부하는 방식", "소득을 지급하는 자가 세금을 미리 공제하고 지급하는 방식", "세금을 감면받는 방식", "세금을 분할 납부하는 방식"],
+    "answer": 1,
+    "explanation": "원천징수는 소득을 지급하는 자가 지급 시 일정 세액을 미리 공제하여 국가에 납부하는 제도입니다."
+  },
+  {
+    "id": "eco_272",
+    "category": "economy",
+    "question": "벤처기업 투자에서 '시리즈 A, B, C' 라운드란?",
+    "options": ["기업 등급 평가", "스타트업의 단계별 투자 유치 라운드", "주식시장 상장 단계", "기업 구조조정 단계"],
+    "answer": 1,
+    "explanation": "시리즈 A, B, C는 스타트업이 성장 단계에 따라 외부 투자를 유치하는 단계별 펀딩 라운드를 의미합니다."
+  },
+  {
+    "id": "eco_273",
+    "category": "economy",
+    "question": "한국의 '실질금리'가 마이너스라는 것은?",
+    "options": ["금리가 0% 미만이라는 뜻", "금리보다 물가상승률이 더 높다는 뜻", "중앙은행이 금리를 인하했다는 뜻", "대출 이자가 면제된다는 뜻"],
+    "answer": 1,
+    "explanation": "실질금리 = 명목금리 - 물가상승률이므로, 물가상승률이 명목금리보다 높으면 실질금리가 마이너스가 됩니다."
+  },
+  {
+    "id": "eco_274",
+    "category": "economy",
+    "question": "세계 최초의 중앙은행은 어디인가?",
+    "options": ["영란은행(Bank of England)", "스웨덴 릭스방크(Riksbank)", "미국 연방준비제도", "네덜란드 은행"],
+    "answer": 1,
+    "explanation": "스웨덴 릭스방크(Sveriges Riksbank)는 1668년에 설립된 세계 최초의 중앙은행입니다."
+  },
+  {
+    "id": "eco_275",
+    "category": "economy",
+    "question": "한국의 '공매도 재개'가 이루어진 2024년의 변화는?",
+    "options": ["공매도 전면 허용", "공매도 전면 금지 유지", "기관·외국인 한정 공매도 허용", "개인 투자자만 공매도 허용"],
+    "answer": 0,
+    "explanation": "한국은 공매도를 한시적으로 금지했다가 제도 개선 후 2025년 재개를 추진하고 있습니다."
+  },
+  {
+    "id": "eco_276",
+    "category": "economy",
+    "question": "경제학에서 '트리핀의 딜레마(Triffin Dilemma)'란?",
+    "options": ["무역 적자와 환율 안정의 모순", "기축통화국이 세계 유동성 공급과 자국 통화 안정성 사이에서 겪는 모순", "재정 적자와 인플레이션의 관계", "독점 기업의 가격 결정 딜레마"],
+    "answer": 1,
+    "explanation": "트리핀의 딜레마는 기축통화국이 세계에 충분한 유동성을 공급하려면 경상수지 적자를 감수해야 하는 구조적 모순입니다."
+  },
+  {
+    "id": "eco_277",
+    "category": "economy",
+    "question": "한국에서 '재형저축'의 목적은?",
+    "options": ["고소득자 자산 증식", "서민·중산층의 재산 형성 지원", "기업 투자 유치", "외국인 투자 유치"],
+    "answer": 1,
+    "explanation": "재형저축(재산형성저축)은 서민·중산층의 재산 형성을 돕기 위해 세제 혜택을 부여하는 저축 상품입니다."
+  },
+  {
+    "id": "eco_278",
+    "category": "economy",
+    "question": "미국의 SEC(Securities and Exchange Commission)의 역할은?",
+    "options": ["미국 통화정책 결정", "미국 증권시장 감독 및 투자자 보호", "미국 국방 예산 관리", "미국 무역 정책 수립"],
+    "answer": 1,
+    "explanation": "SEC는 미국 증권거래위원회로, 증권시장을 감독하고 투자자를 보호하는 역할을 합니다."
+  },
+  {
+    "id": "eco_279",
+    "category": "economy",
+    "question": "한국에서 '고향사랑기부제'의 세제 혜택은?",
+    "options": ["소득공제만 가능", "세액공제(10만 원까지 전액 공제)", "비과세", "혜택 없음"],
+    "answer": 1,
+    "explanation": "고향사랑기부제는 10만 원까지 전액 세액공제가 되며, 초과분은 16.5% 세액공제가 적용됩니다."
+  },
+  {
+    "id": "eco_280",
+    "category": "economy",
+    "question": "경제학에서 'J커브 효과'란?",
+    "options": ["환율 상승 직후 무역수지가 일시적으로 악화된 후 개선되는 현상", "금리 인상 직후 경기가 호전되는 현상", "인플레이션 직후 디플레이션이 오는 현상", "주가가 J자 형태로 상승하는 현상"],
+    "answer": 0,
+    "explanation": "J커브 효과는 환율 상승(자국 통화 가치 하락) 후 단기적으로 무역수지가 악화되다가 점차 개선되는 현상입니다."
+  },
+  {
+    "id": "eco_281",
+    "category": "economy",
+    "question": "한국의 '주식 배당소득세율'은?(분리과세 기준)",
+    "options": ["10%", "15.4%", "22%", "25%"],
+    "answer": 1,
+    "explanation": "주식 배당소득에 대한 원천징수세율은 소득세 14% + 지방소득세 1.4% = 15.4%입니다."
+  },
+  {
+    "id": "eco_282",
+    "category": "economy",
+    "question": "BRICS에 원래 포함되지 않았던 나라는?",
+    "options": ["브라질", "러시아", "인도", "남아프리카공화국"],
+    "answer": 3,
+    "explanation": "BRIC은 원래 브라질, 러시아, 인도, 중국 4개국을 가리켰으며, 2010년 남아프리카공화국이 합류하여 BRICS가 되었습니다."
+  },
+  {
+    "id": "eco_283",
+    "category": "economy",
+    "question": "한국의 '통합재정수지'란?",
+    "options": ["기업의 재무상태", "정부의 총수입과 총지출의 차이", "무역수지의 다른 이름", "은행의 수지 현황"],
+    "answer": 1,
+    "explanation": "통합재정수지는 정부의 총수입에서 총지출을 뺀 것으로, 재정 건전성을 나타내는 지표입니다."
+  },
+  {
+    "id": "eco_284",
+    "category": "economy",
+    "question": "경제학에서 '효율적 시장 가설(EMH)'을 제시한 학자는?",
+    "options": ["유진 파마", "워런 버핏", "폴 크루그먼", "로버트 실러"],
+    "answer": 0,
+    "explanation": "유진 파마(Eugene Fama)는 시장 가격이 이용 가능한 모든 정보를 반영한다는 효율적 시장 가설을 제시했습니다."
+  },
+  {
+    "id": "eco_285",
+    "category": "economy",
+    "question": "한국에서 '금산분리 원칙'이란?",
+    "options": ["금과 다른 금속을 분리하는 정책", "금융자본과 산업자본의 분리 원칙", "금리와 산출량의 분리 원칙", "수출과 수입의 분리 원칙"],
+    "answer": 1,
+    "explanation": "금산분리는 금융자본이 산업자본을 지배하거나 그 반대의 경우를 방지하기 위한 규제 원칙입니다."
+  },
+  {
+    "id": "eco_286",
+    "category": "economy",
+    "question": "경제학에서 '오쿤의 법칙(Okun's Law)'이 설명하는 것은?",
+    "options": ["인플레이션과 금리의 관계", "실업률과 GDP 성장률의 역관계", "환율과 물가의 관계", "투자와 소비의 관계"],
+    "answer": 1,
+    "explanation": "오쿤의 법칙은 실업률이 1% 상승하면 GDP가 약 2~3% 감소한다는 실업률과 GDP의 역관계를 설명합니다."
+  },
+  {
+    "id": "eco_287",
+    "category": "economy",
+    "question": "한국에서 '가상자산 과세'가 논의되는 내용은?",
+    "options": ["부가가치세 부과", "양도차익에 대한 기타소득세 부과", "재산세 부과", "법인세 부과"],
+    "answer": 1,
+    "explanation": "가상자산 과세는 암호화폐의 양도·대여 차익을 기타소득으로 보고 소득세를 부과하는 방안이 논의되고 있습니다."
+  },
+  {
+    "id": "eco_288",
+    "category": "economy",
+    "question": "일본의 중앙은행은 어디인가?",
+    "options": ["미쓰비시은행", "일본은행(BOJ)", "미즈호은행", "노무라증권"],
+    "answer": 1,
+    "explanation": "일본은행(Bank of Japan, BOJ)은 일본의 중앙은행으로 통화정책과 화폐 발행을 담당합니다."
+  },
+  {
+    "id": "eco_289",
+    "category": "economy",
+    "question": "경제학에서 '피구세(Pigouvian Tax)'의 목적은?",
+    "options": ["기업 수익 증대", "외부불경제를 교정하기 위한 과세", "국방비 조달", "소득 재분배"],
+    "answer": 1,
+    "explanation": "피구세는 경제학자 아서 피구가 제안한 것으로, 환경오염 등 외부불경제를 유발하는 활동에 세금을 부과하여 시장실패를 교정합니다."
+  },
+  {
+    "id": "eco_290",
+    "category": "economy",
+    "question": "한국에서 '기업 밸류업 프로그램'의 목적은?",
+    "options": ["기업 세금 인상", "상장기업의 기업가치 제고 유도", "비상장기업의 상장 촉진", "외국인 투자 제한"],
+    "answer": 1,
+    "explanation": "기업 밸류업 프로그램은 상장기업의 저평가 문제를 해소하고 기업가치를 높이기 위한 정부 정책입니다."
+  },
+  {
+    "id": "eco_291",
+    "category": "economy",
+    "question": "경제학에서 '비교정태분석(Comparative Statics)'이란?",
+    "options": ["두 시점의 균형을 비교 분석하는 방법", "동적 분석의 다른 이름", "기업 간 비교 분석", "국가 간 무역 분석"],
+    "answer": 0,
+    "explanation": "비교정태분석은 외생변수가 변하기 전과 후의 균형 상태를 비교하는 분석 방법입니다."
+  },
+  {
+    "id": "eco_292",
+    "category": "economy",
+    "question": "한국에서 '카드론(Card Loan)'이란?",
+    "options": ["신용카드로 물건을 구매하는 것", "신용카드를 통한 현금 대출 서비스", "직불카드의 다른 이름", "카드 포인트 적립"],
+    "answer": 1,
+    "explanation": "카드론은 신용카드사가 카드 이용자에게 현금을 직접 대출해주는 서비스입니다."
+  },
+  {
+    "id": "eco_293",
+    "category": "economy",
+    "question": "경제학에서 '자연독점(Natural Monopoly)'이 발생하는 이유는?",
+    "options": ["정부의 독점 허가", "초기 고정비용이 매우 커서 한 기업이 공급하는 것이 효율적", "기술 특허 독점", "자원의 희소성"],
+    "answer": 1,
+    "explanation": "자연독점은 규모의 경제가 매우 커서 한 기업이 시장 전체를 공급하는 것이 가장 효율적인 경우에 발생합니다."
+  },
+  {
+    "id": "eco_294",
+    "category": "economy",
+    "question": "미국 국채(Treasury Bond)의 만기 기간 중 가장 긴 것은?",
+    "options": ["5년", "10년", "20년", "30년"],
+    "answer": 3,
+    "explanation": "미국 국채 중 Treasury Bond는 만기 30년으로 가장 긴 장기 국채입니다."
+  },
+  {
+    "id": "eco_295",
+    "category": "economy",
+    "question": "한국에서 '공적자금'이 대규모로 투입된 사건은?",
+    "options": ["2002년 월드컵", "1997년 IMF 외환위기", "2020년 코로나 팬데믹", "2008년 금융위기"],
+    "answer": 1,
+    "explanation": "1997년 IMF 외환위기 당시 부실 금융기관 정리를 위해 약 168조 원의 공적자금이 투입되었습니다."
+  },
+  {
+    "id": "eco_296",
+    "category": "economy",
+    "question": "경제학에서 '가격차별(Price Discrimination)'이란?",
+    "options": ["모든 소비자에게 같은 가격을 책정하는 것", "같은 상품을 다른 소비자에게 다른 가격으로 판매하는 것", "가격을 인위적으로 낮추는 것", "경쟁사보다 높은 가격을 책정하는 것"],
+    "answer": 1,
+    "explanation": "가격차별은 동일한 상품을 소비자의 특성(연령, 지역 등)에 따라 다른 가격에 판매하는 전략입니다."
+  },
+  {
+    "id": "eco_297",
+    "category": "economy",
+    "question": "한국에서 '전자세금계산서' 발급 의무 대상은?",
+    "options": ["모든 개인", "법인사업자 및 일정 규모 이상 개인사업자", "외국인만", "공무원만"],
+    "answer": 1,
+    "explanation": "전자세금계산서는 법인사업자와 일정 규모 이상의 개인사업자에게 발급 의무가 있습니다."
+  },
+  {
+    "id": "eco_298",
+    "category": "economy",
+    "question": "글로벌 공급망(Global Supply Chain)에서 '리쇼어링(Reshoring)'이란?",
+    "options": ["해외로 생산시설을 이전하는 것", "해외에 있던 생산시설을 자국으로 다시 들여오는 것", "생산시설을 제3국으로 이전하는 것", "생산을 완전 자동화하는 것"],
+    "answer": 1,
+    "explanation": "리쇼어링은 인건비 절감 등을 위해 해외로 나갔던 생산시설을 다시 자국으로 되돌리는 현상입니다."
+  },
+  {
+    "id": "eco_299",
+    "category": "economy",
+    "question": "경제학에서 '화폐의 기능'에 해당하지 않는 것은?",
+    "options": ["교환의 매개", "가치의 저장", "가치의 척도", "노동의 대체"],
+    "answer": 3,
+    "explanation": "화폐의 3대 기능은 교환의 매개, 가치의 척도, 가치의 저장이며 '노동의 대체'는 화폐의 기능이 아닙니다."
+  },
+  {
+    "id": "eco_300",
+    "category": "economy",
+    "question": "한국 경제에서 '수출 주도형 성장 모델'의 특징은?",
+    "options": ["내수 소비 중심 성장", "수출을 통해 외화를 벌어들여 경제 성장을 이루는 모델", "해외 원조에 의존하는 성장", "자원 수출 중심 성장"],
+    "answer": 1,
+    "explanation": "한국은 1960년대 이후 수출 주도형 성장 모델을 채택하여 제조업 수출을 통해 급속한 경제 성장을 이루었습니다."
+  }
+]

@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "sci_001",
+    "category": "science",
+    "question": "물의 화학식은 무엇인가?",
+    "options": ["H2O", "CO2", "NaCl", "O2"],
+    "answer": 0,
+    "explanation": "물은 수소 원자 2개와 산소 원자 1개로 이루어진 H2O입니다."
+  },
+  {
+    "id": "sci_002",
+    "category": "science",
+    "question": "지구에서 가장 가까운 별은 무엇인가?",
+    "options": ["시리우스", "프록시마 센타우리", "베텔게우스", "태양"],
+    "answer": 3,
+    "explanation": "태양은 지구에서 약 1억 5천만 km 떨어진 가장 가까운 별입니다."
+  },
+  {
+    "id": "sci_003",
+    "category": "science",
+    "question": "인체에서 가장 큰 장기는 무엇인가?",
+    "options": ["간", "폐", "피부", "대장"],
+    "answer": 2,
+    "explanation": "피부는 면적이 약 1.5~2㎡에 달하는 인체에서 가장 큰 장기입니다."
+  },
+  {
+    "id": "sci_004",
+    "category": "science",
+    "question": "빛의 속도는 초속 약 몇 km인가?",
+    "options": ["약 30만 km", "약 15만 km", "약 50만 km", "약 10만 km"],
+    "answer": 0,
+    "explanation": "빛의 속도는 진공에서 초속 약 299,792km(약 30만 km)입니다."
+  },
+  {
+    "id": "sci_005",
+    "category": "science",
+    "question": "DNA의 이중 나선 구조를 발견한 과학자는 누구인가?",
+    "options": ["다윈과 월리스", "왓슨과 크릭", "멘델과 모건", "파스퇴르와 코흐"],
+    "answer": 1,
+    "explanation": "1953년 제임스 왓슨과 프랜시스 크릭이 DNA의 이중 나선 구조를 밝혀냈습니다."
+  },
+  {
+    "id": "sci_006",
+    "category": "science",
+    "question": "원소 주기율표에서 원자번호 1번인 원소는?",
+    "options": ["헬륨", "리튬", "수소", "탄소"],
+    "answer": 2,
+    "explanation": "수소(H)는 원자번호 1번으로 가장 가벼운 원소입니다."
+  },
+  {
+    "id": "sci_007",
+    "category": "science",
+    "question": "광합성의 주요 산물은 무엇인가?",
+    "options": ["이산화탄소와 물", "포도당과 산소", "단백질과 지방", "질소와 수소"],
+    "answer": 1,
+    "explanation": "광합성은 빛 에너지를 이용하여 이산화탄소와 물을 포도당과 산소로 전환하는 과정입니다."
+  },
+  {
+    "id": "sci_008",
+    "category": "science",
+    "question": "태양계에서 가장 큰 행성은?",
+    "options": ["토성", "해왕성", "목성", "천왕성"],
+    "answer": 2,
+    "explanation": "목성은 지름이 약 14만 km로 태양계에서 가장 큰 행성입니다."
+  },
+  {
+    "id": "sci_009",
+    "category": "science",
+    "question": "뉴턴의 운동 제2법칙(F=ma)에서 F는 무엇을 의미하는가?",
+    "options": ["주파수", "힘", "마찰", "유량"],
+    "answer": 1,
+    "explanation": "F는 힘(Force)을 의미하며, 물체의 질량과 가속도의 곱으로 나타냅니다."
+  },
+  {
+    "id": "sci_010",
+    "category": "science",
+    "question": "혈액형을 결정하는 물질은 무엇인가?",
+    "options": ["항원", "헤모글로빈", "백혈구", "혈소판"],
+    "answer": 0,
+    "explanation": "적혈구 표면의 항원(A, B) 종류에 따라 ABO 혈액형이 결정됩니다."
+  },
+  {
+    "id": "sci_011",
+    "category": "science",
+    "question": "지구의 대기에서 가장 많은 비율을 차지하는 기체는?",
+    "options": ["산소", "이산화탄소", "질소", "아르곤"],
+    "answer": 2,
+    "explanation": "질소는 지구 대기의 약 78%를 차지하는 가장 풍부한 기체입니다."
+  },
+  {
+    "id": "sci_012",
+    "category": "science",
+    "question": "세포의 에너지 공장이라 불리는 소기관은?",
+    "options": ["리보솜", "골지체", "미토콘드리아", "소포체"],
+    "answer": 2,
+    "explanation": "미토콘드리아는 세포 호흡을 통해 ATP(에너지)를 생산하는 소기관입니다."
+  },
+  {
+    "id": "sci_013",
+    "category": "science",
+    "question": "상대성 이론을 발표한 과학자는 누구인가?",
+    "options": ["닐스 보어", "알베르트 아인슈타인", "막스 플랑크", "에르빈 슈뢰딩거"],
+    "answer": 1,
+    "explanation": "알베르트 아인슈타인은 1905년 특수상대성이론, 1915년 일반상대성이론을 발표했습니다."
+  },
+  {
+    "id": "sci_014",
+    "category": "science",
+    "question": "pH 7은 어떤 성질을 나타내는가?",
+    "options": ["산성", "중성", "염기성", "강산성"],
+    "answer": 1,
+    "explanation": "pH 7은 중성을 나타내며, 7보다 작으면 산성, 크면 염기성입니다."
+  },
+  {
+    "id": "sci_015",
+    "category": "science",
+    "question": "포유류의 특징이 아닌 것은?",
+    "options": ["젖샘이 있다", "체온이 일정하다", "알을 낳아 번식한다", "털이 있다"],
+    "answer": 2,
+    "explanation": "대부분의 포유류는 태생으로 번식하며, 알을 낳는 것은 일반적 특징이 아닙니다(단공류 제외)."
+  },
+  {
+    "id": "sci_016",
+    "category": "science",
+    "question": "지구의 내핵은 주로 어떤 물질로 구성되어 있는가?",
+    "options": ["규소와 알루미늄", "철과 니켈", "마그네슘과 칼슘", "탄소와 질소"],
+    "answer": 1,
+    "explanation": "지구의 내핵은 주로 철과 니켈로 이루어져 있으며, 고체 상태입니다."
+  },
+  {
+    "id": "sci_017",
+    "category": "science",
+    "question": "소리의 전달 속도가 가장 빠른 매질은?",
+    "options": ["진공", "공기", "물", "철"],
+    "answer": 3,
+    "explanation": "소리는 고체에서 가장 빠르게 전달되며, 철에서의 속도는 약 5,100m/s입니다."
+  },
+  {
+    "id": "sci_018",
+    "category": "science",
+    "question": "페니실린을 발견한 과학자는 누구인가?",
+    "options": ["루이 파스퇴르", "알렉산더 플레밍", "로버트 코흐", "에드워드 제너"],
+    "answer": 1,
+    "explanation": "알렉산더 플레밍은 1928년 푸른곰팡이에서 최초의 항생제 페니실린을 발견했습니다."
+  },
+  {
+    "id": "sci_019",
+    "category": "science",
+    "question": "화학 반응에서 촉매의 역할은?",
+    "options": ["반응물을 증가시킨다", "반응 속도를 변화시킨다", "생성물의 양을 늘린다", "반응열을 증가시킨다"],
+    "answer": 1,
+    "explanation": "촉매는 자신은 변하지 않으면서 화학 반응의 활성화 에너지를 낮추어 반응 속도를 변화시킵니다."
+  },
+  {
+    "id": "sci_020",
+    "category": "science",
+    "question": "인체에서 적혈구를 생성하는 기관은?",
+    "options": ["간", "비장", "골수", "신장"],
+    "answer": 2,
+    "explanation": "적혈구는 주로 골수(뼛속)에서 생성됩니다."
+  },
+  {
+    "id": "sci_021",
+    "category": "science",
+    "question": "오존층은 대기의 어느 층에 위치하는가?",
+    "options": ["대류권", "성층권", "중간권", "열권"],
+    "answer": 1,
+    "explanation": "오존층은 성층권(약 15~35km 상공)에 위치하며 자외선을 흡수합니다."
+  },
+  {
+    "id": "sci_022",
+    "category": "science",
+    "question": "만유인력의 법칙을 발견한 과학자는?",
+    "options": ["갈릴레오 갈릴레이", "요하네스 케플러", "아이작 뉴턴", "니콜라우스 코페르니쿠스"],
+    "answer": 2,
+    "explanation": "아이작 뉴턴은 만유인력의 법칙을 통해 모든 물체 사이에 중력이 작용함을 밝혔습니다."
+  },
+  {
+    "id": "sci_023",
+    "category": "science",
+    "question": "다이아몬드와 흑연의 공통 구성 원소는?",
+    "options": ["규소", "탄소", "철", "알루미늄"],
+    "answer": 1,
+    "explanation": "다이아몬드와 흑연은 모두 탄소(C)로 이루어진 동소체입니다."
+  },
+  {
+    "id": "sci_024",
+    "category": "science",
+    "question": "식물 세포에만 있고 동물 세포에는 없는 구조는?",
+    "options": ["세포막", "핵", "세포벽", "미토콘드리아"],
+    "answer": 2,
+    "explanation": "세포벽은 식물 세포를 지지하고 보호하는 구조로, 동물 세포에는 없습니다."
+  },
+  {
+    "id": "sci_025",
+    "category": "science",
+    "question": "태양에서 지구까지 빛이 도달하는 데 걸리는 시간은 약?",
+    "options": ["약 1분", "약 8분", "약 30분", "약 1시간"],
+    "answer": 1,
+    "explanation": "태양빛은 약 1억 5천만 km를 이동하여 약 8분 20초 만에 지구에 도달합니다."
+  },
+  {
+    "id": "sci_026",
+    "category": "science",
+    "question": "전류의 단위는 무엇인가?",
+    "options": ["볼트(V)", "와트(W)", "암페어(A)", "옴(Ω)"],
+    "answer": 2,
+    "explanation": "전류의 SI 단위는 암페어(A)이며, 단위 시간당 흐르는 전하량을 나타냅니다."
+  },
+  {
+    "id": "sci_027",
+    "category": "science",
+    "question": "인체에서 가장 단단한 물질은?",
+    "options": ["뼈", "치아 에나멜", "손톱", "연골"],
+    "answer": 1,
+    "explanation": "치아 에나멜은 모스 경도 5 정도로 인체에서 가장 단단한 물질입니다."
+  },
+  {
+    "id": "sci_028",
+    "category": "science",
+    "question": "화성의 별명은 무엇인가?",
+    "options": ["푸른 행성", "붉은 행성", "고리 행성", "새벽별"],
+    "answer": 1,
+    "explanation": "화성은 표면의 산화철(녹) 때문에 붉게 보여 '붉은 행성'이라 불립니다."
+  },
+  {
+    "id": "sci_029",
+    "category": "science",
+    "question": "절대 영도의 온도는 섭씨 몇 도인가?",
+    "options": ["-100°C", "-273.15°C", "-373.15°C", "0°C"],
+    "answer": 1,
+    "explanation": "절대 영도는 -273.15°C(0K)로, 이론적으로 분자 운동이 멈추는 최저 온도입니다."
+  },
+  {
+    "id": "sci_030",
+    "category": "science",
+    "question": "진화론을 체계화한 과학자는 누구인가?",
+    "options": ["그레고어 멘델", "찰스 다윈", "장바티스트 라마르크", "토마스 헉슬리"],
+    "answer": 1,
+    "explanation": "찰스 다윈은 '종의 기원'(1859)을 통해 자연선택에 의한 진화론을 체계화했습니다."
+  },
+  {
+    "id": "sci_031",
+    "category": "science",
+    "question": "지진의 규모를 측정하는 단위는?",
+    "options": ["데시벨", "리히터 규모", "보퍼트 등급", "헤르츠"],
+    "answer": 1,
+    "explanation": "리히터 규모(현재는 모멘트 규모도 사용)는 지진의 에너지 크기를 나타내는 척도입니다."
+  },
+  {
+    "id": "sci_032",
+    "category": "science",
+    "question": "다음 중 화학 변화에 해당하는 것은?",
+    "options": ["얼음이 녹는다", "철이 녹슨다", "설탕이 물에 녹는다", "유리가 깨진다"],
+    "answer": 1,
+    "explanation": "철이 녹스는 것은 산화 반응으로, 새로운 물질(산화철)이 생성되는 화학 변화입니다."
+  },
+  {
+    "id": "sci_033",
+    "category": "science",
+    "question": "인체의 혈액 순환 중 폐순환의 역할은?",
+    "options": ["영양분 전달", "노폐물 제거", "가스 교환", "체온 조절"],
+    "answer": 2,
+    "explanation": "폐순환은 심장→폐→심장으로 혈액을 보내 산소와 이산화탄소를 교환하는 과정입니다."
+  },
+  {
+    "id": "sci_034",
+    "category": "science",
+    "question": "은하수(우리 은하)의 형태는?",
+    "options": ["타원 은하", "불규칙 은하", "막대 나선 은하", "렌즈형 은하"],
+    "answer": 2,
+    "explanation": "우리 은하는 막대 나선 은하(SBbc)로, 중심에 막대 구조가 있는 나선형입니다."
+  },
+  {
+    "id": "sci_035",
+    "category": "science",
+    "question": "열역학 제1법칙은 무엇에 관한 법칙인가?",
+    "options": ["에너지 보존", "엔트로피 증가", "절대 영도", "열전도"],
+    "answer": 0,
+    "explanation": "열역학 제1법칙은 에너지 보존 법칙으로, 에너지는 생성되거나 소멸되지 않고 형태만 바뀝니다."
+  },
+  {
+    "id": "sci_036",
+    "category": "science",
+    "question": "엽록체의 주요 색소는?",
+    "options": ["카로틴", "클로로필", "안토시아닌", "잔토필"],
+    "answer": 1,
+    "explanation": "클로로필(엽록소)은 엽록체의 주요 광합성 색소로, 녹색 빛을 반사합니다."
+  },
+  {
+    "id": "sci_037",
+    "category": "science",
+    "question": "주기율표에서 비활성 기체(18족)에 해당하지 않는 것은?",
+    "options": ["헬륨", "네온", "질소", "아르곤"],
+    "answer": 2,
+    "explanation": "질소는 15족 원소이며, 비활성 기체(18족)에는 헬륨, 네온, 아르곤 등이 포함됩니다."
+  },
+  {
+    "id": "sci_038",
+    "category": "science",
+    "question": "인체에서 소화 효소 펩신이 분비되는 장기는?",
+    "options": ["간", "위", "췌장", "소장"],
+    "answer": 1,
+    "explanation": "펩신은 위에서 분비되는 단백질 분해 효소로, 산성 환경에서 활성화됩니다."
+  },
+  {
+    "id": "sci_039",
+    "category": "science",
+    "question": "달에서 물체의 무게는 지구에서의 약 몇 분의 1인가?",
+    "options": ["약 1/2", "약 1/4", "약 1/6", "약 1/8"],
+    "answer": 2,
+    "explanation": "달의 중력은 지구의 약 1/6이므로, 물체의 무게도 약 1/6로 줄어듭니다."
+  },
+  {
+    "id": "sci_040",
+    "category": "science",
+    "question": "전자기파의 속도가 가장 빠른 것은?",
+    "options": ["라디오파", "가시광선", "감마선", "모두 같다"],
+    "answer": 3,
+    "explanation": "모든 전자기파는 진공에서 빛의 속도(약 3×10⁸ m/s)로 동일하게 이동합니다."
+  },
+  {
+    "id": "sci_041",
+    "category": "science",
+    "question": "멘델이 유전 법칙 연구에 사용한 생물은?",
+    "options": ["초파리", "완두콩", "대장균", "쥐"],
+    "answer": 1,
+    "explanation": "그레고어 멘델은 완두콩의 교배 실험을 통해 유전의 기본 법칙을 발견했습니다."
+  },
+  {
+    "id": "sci_042",
+    "category": "science",
+    "question": "화산 폭발 시 분출되는 용암의 원래 이름은?",
+    "options": ["마그마", "현무암", "화강암", "흑요석"],
+    "answer": 0,
+    "explanation": "지하에 있을 때는 마그마, 지표로 분출되면 용암이라고 합니다."
+  },
+  {
+    "id": "sci_043",
+    "category": "science",
+    "question": "다음 중 절지동물에 해당하지 않는 것은?",
+    "options": ["거미", "게", "곤충", "달팽이"],
+    "answer": 3,
+    "explanation": "달팽이는 연체동물에 속하며, 절지동물에는 곤충, 거미, 갑각류 등이 포함됩니다."
+  },
+  {
+    "id": "sci_044",
+    "category": "science",
+    "question": "레이저(LASER)에서 'L'은 무엇의 약자인가?",
+    "options": ["Luminous", "Light", "Linear", "Lateral"],
+    "answer": 1,
+    "explanation": "LASER는 'Light Amplification by Stimulated Emission of Radiation'의 약자입니다."
+  },
+  {
+    "id": "sci_045",
+    "category": "science",
+    "question": "산소를 발견한 과학자는 누구인가?",
+    "options": ["앙투안 라부아지에", "조지프 프리스틀리", "헨리 캐번디시", "존 돌턴"],
+    "answer": 1,
+    "explanation": "조지프 프리스틀리는 1774년 산소를 최초로 분리하여 발견한 것으로 알려져 있습니다."
+  },
+  {
+    "id": "sci_046",
+    "category": "science",
+    "question": "인체에서 체온 조절을 담당하는 뇌 부위는?",
+    "options": ["대뇌", "소뇌", "시상하부", "뇌간"],
+    "answer": 2,
+    "explanation": "시상하부는 체온, 식욕, 갈증 등 항상성을 조절하는 뇌의 중추입니다."
+  },
+  {
+    "id": "sci_047",
+    "category": "science",
+    "question": "금(Au)의 원자번호는?",
+    "options": ["47", "79", "29", "82"],
+    "answer": 1,
+    "explanation": "금(Au, Aurum)의 원자번호는 79이며, 전이금속에 속합니다."
+  },
+  {
+    "id": "sci_048",
+    "category": "science",
+    "question": "지구의 자전 주기는 약 얼마인가?",
+    "options": ["약 12시간", "약 24시간", "약 48시간", "약 365일"],
+    "answer": 1,
+    "explanation": "지구는 약 24시간(23시간 56분 4초)에 한 바퀴 자전하여 낮과 밤이 바뀝니다."
+  },
+  {
+    "id": "sci_049",
+    "category": "science",
+    "question": "다음 중 비타민 C가 풍부한 과일은?",
+    "options": ["바나나", "키위", "포도", "수박"],
+    "answer": 1,
+    "explanation": "키위는 100g당 약 90mg의 비타민 C를 함유하여 과일 중 매우 풍부한 편입니다."
+  },
+  {
+    "id": "sci_050",
+    "category": "science",
+    "question": "블랙홀의 경계면을 무엇이라 하는가?",
+    "options": ["코로나", "사건의 지평선", "광구", "오르트 구름"],
+    "answer": 1,
+    "explanation": "사건의 지평선(event horizon)은 빛조차 탈출할 수 없는 블랙홀의 경계면입니다."
+  },
+  {
+    "id": "sci_051",
+    "category": "science",
+    "question": "옴의 법칙에서 전압(V), 전류(I), 저항(R)의 관계는?",
+    "options": ["V = I × R", "V = I / R", "V = I + R", "V = I² × R"],
+    "answer": 0,
+    "explanation": "옴의 법칙은 V = IR로, 전압은 전류와 저항의 곱입니다."
+  },
+  {
+    "id": "sci_052",
+    "category": "science",
+    "question": "항체를 생산하는 면역 세포는?",
+    "options": ["T세포", "B세포", "대식세포", "자연살해세포"],
+    "answer": 1,
+    "explanation": "B세포(B림프구)는 항원에 대응하는 항체를 생산하는 적응면역의 핵심 세포입니다."
+  },
+  {
+    "id": "sci_053",
+    "category": "science",
+    "question": "지구의 나이는 약 몇 억 년인가?",
+    "options": ["약 25억 년", "약 35억 년", "약 46억 년", "약 60억 년"],
+    "answer": 2,
+    "explanation": "방사성 동위원소 연대측정 결과, 지구의 나이는 약 45.4억 년으로 추정됩니다."
+  },
+  {
+    "id": "sci_054",
+    "category": "science",
+    "question": "원자의 중심에 위치하며 양성자와 중성자로 구성된 부분은?",
+    "options": ["전자껍질", "원자핵", "전자구름", "이온"],
+    "answer": 1,
+    "explanation": "원자핵은 양성자와 중성자로 구성되며, 원자 질량의 대부분을 차지합니다."
+  },
+  {
+    "id": "sci_055",
+    "category": "science",
+    "question": "생태계에서 분해자의 역할은?",
+    "options": ["광합성을 한다", "유기물을 무기물로 분해한다", "초식동물을 잡아먹는다", "산소를 생산한다"],
+    "answer": 1,
+    "explanation": "분해자(세균, 곰팡이 등)는 죽은 생물의 유기물을 무기물로 분해하여 물질 순환에 기여합니다."
+  },
+  {
+    "id": "sci_056",
+    "category": "science",
+    "question": "명왕성이 행성에서 왜소행성으로 재분류된 해는?",
+    "options": ["2000년", "2003년", "2006년", "2010년"],
+    "answer": 2,
+    "explanation": "2006년 국제천문연맹(IAU) 총회에서 명왕성은 왜소행성으로 재분류되었습니다."
+  },
+  {
+    "id": "sci_057",
+    "category": "science",
+    "question": "열에너지가 직접 접촉 없이 전달되는 방식은?",
+    "options": ["전도", "대류", "복사", "증발"],
+    "answer": 2,
+    "explanation": "복사(방사)는 전자기파를 통해 열이 매질 없이 전달되는 방식입니다."
+  },
+  {
+    "id": "sci_058",
+    "category": "science",
+    "question": "인체에서 인슐린을 분비하는 장기는?",
+    "options": ["간", "부신", "췌장", "갑상선"],
+    "answer": 2,
+    "explanation": "췌장의 랑게르한스섬 베타 세포에서 혈당을 낮추는 인슐린을 분비합니다."
+  },
+  {
+    "id": "sci_059",
+    "category": "science",
+    "question": "스테인리스강에 크로뮴을 첨가하는 주된 이유는?",
+    "options": ["경도 증가", "녹 방지", "무게 감소", "전도성 향상"],
+    "answer": 1,
+    "explanation": "크로뮴은 표면에 산화 피막을 형성하여 부식(녹)을 방지하는 역할을 합니다."
+  },
+  {
+    "id": "sci_060",
+    "category": "science",
+    "question": "다음 중 척추동물이 아닌 것은?",
+    "options": ["상어", "개구리", "오징어", "뱀"],
+    "answer": 2,
+    "explanation": "오징어는 연체동물(무척추동물)에 속하며, 척추가 없습니다."
+  },
+  {
+    "id": "sci_061",
+    "category": "science",
+    "question": "케플러의 제1법칙에 따르면 행성의 공전 궤도는 어떤 형태인가?",
+    "options": ["원형", "타원형", "쌍곡선", "포물선"],
+    "answer": 1,
+    "explanation": "케플러의 제1법칙(타원 궤도의 법칙)에 의하면 행성은 태양을 초점으로 타원 궤도를 그립니다."
+  },
+  {
+    "id": "sci_062",
+    "category": "science",
+    "question": "이산화탄소의 화학식은?",
+    "options": ["CO", "CO2", "C2O", "CH4"],
+    "answer": 1,
+    "explanation": "이산화탄소(CO₂)는 탄소 원자 1개와 산소 원자 2개로 구성됩니다."
+  },
+  {
+    "id": "sci_063",
+    "category": "science",
+    "question": "인간의 염색체 수는 총 몇 개인가?",
+    "options": ["23개", "44개", "46개", "48개"],
+    "answer": 2,
+    "explanation": "인간은 23쌍, 총 46개의 염색체를 가지고 있습니다."
+  },
+  {
+    "id": "sci_064",
+    "category": "science",
+    "question": "모스 경도계에서 경도 10에 해당하는 광물은?",
+    "options": ["석영", "강옥", "다이아몬드", "토파즈"],
+    "answer": 2,
+    "explanation": "다이아몬드는 모스 경도 10으로 자연계에서 가장 단단한 광물입니다."
+  },
+  {
+    "id": "sci_065",
+    "category": "science",
+    "question": "음파는 어떤 종류의 파동인가?",
+    "options": ["횡파", "종파", "표면파", "전자기파"],
+    "answer": 1,
+    "explanation": "음파는 매질의 진동 방향과 파동의 진행 방향이 같은 종파(압축파)입니다."
+  },
+  {
+    "id": "sci_066",
+    "category": "science",
+    "question": "라듐을 발견한 과학자는?",
+    "options": ["마리 퀴리", "어니스트 러더퍼드", "앙리 베크렐", "빌헬름 뢴트겐"],
+    "answer": 0,
+    "explanation": "마리 퀴리는 1898년 남편 피에르와 함께 라듐을 발견하고 방사능을 연구했습니다."
+  },
+  {
+    "id": "sci_067",
+    "category": "science",
+    "question": "식물의 체관은 주로 무엇을 운반하는가?",
+    "options": ["물", "양분(유기물)", "무기 염류", "산소"],
+    "answer": 1,
+    "explanation": "체관은 광합성으로 만들어진 양분(유기물, 주로 설탕)을 식물 전체로 운반합니다."
+  },
+  {
+    "id": "sci_068",
+    "category": "science",
+    "question": "허블 우주망원경이 발사된 해는?",
+    "options": ["1985년", "1990년", "1995년", "2000년"],
+    "answer": 1,
+    "explanation": "허블 우주망원경은 1990년 4월 우주왕복선 디스커버리호에 의해 발사되었습니다."
+  },
+  {
+    "id": "sci_069",
+    "category": "science",
+    "question": "물질의 세 가지 기본 상태가 아닌 것은?",
+    "options": ["고체", "액체", "기체", "플라스마"],
+    "answer": 3,
+    "explanation": "물질의 세 가지 기본 상태는 고체, 액체, 기체이며, 플라스마는 제4의 상태입니다."
+  },
+  {
+    "id": "sci_070",
+    "category": "science",
+    "question": "지구 온난화의 주요 원인 물질은?",
+    "options": ["오존", "질소", "온실가스(CO₂ 등)", "산소"],
+    "answer": 2,
+    "explanation": "이산화탄소, 메탄 등의 온실가스가 지구 온난화의 주요 원인입니다."
+  },
+  {
+    "id": "sci_071",
+    "category": "science",
+    "question": "뇌의 어느 부분이 균형과 자세 유지를 담당하는가?",
+    "options": ["대뇌", "소뇌", "연수", "중뇌"],
+    "answer": 1,
+    "explanation": "소뇌는 운동의 조정, 균형 유지, 자세 제어를 담당합니다."
+  },
+  {
+    "id": "sci_072",
+    "category": "science",
+    "question": "원소의 화학적 성질을 결정하는 것은?",
+    "options": ["중성자 수", "전자 배치", "원자량", "핵의 크기"],
+    "answer": 1,
+    "explanation": "원소의 화학적 성질은 최외각 전자(원자가 전자)의 배치에 의해 결정됩니다."
+  },
+  {
+    "id": "sci_073",
+    "category": "science",
+    "question": "박쥐가 어둠 속에서 장애물을 피하는 방법은?",
+    "options": ["적외선 감지", "반향 정위(에코로케이션)", "자기장 감지", "뛰어난 시력"],
+    "answer": 1,
+    "explanation": "박쥐는 초음파를 발사하고 반사된 소리를 감지하는 반향 정위로 장애물을 감지합니다."
+  },
+  {
+    "id": "sci_074",
+    "category": "science",
+    "question": "판구조론에서 두 대륙판이 충돌하면 주로 무엇이 형성되는가?",
+    "options": ["해구", "습곡 산맥", "해령", "열곡"],
+    "answer": 1,
+    "explanation": "두 대륙판이 충돌하면 지각이 밀려 올라가면서 히말라야 같은 습곡 산맥이 형성됩니다."
+  },
+  {
+    "id": "sci_075",
+    "category": "science",
+    "question": "가속도의 SI 단위는?",
+    "options": ["m/s", "m/s²", "kg·m/s²", "N/m"],
+    "answer": 1,
+    "explanation": "가속도는 단위 시간당 속도의 변화량으로, SI 단위는 m/s²입니다."
+  },
+  {
+    "id": "sci_076",
+    "category": "science",
+    "question": "유전 정보를 전달하는 물질 DNA의 풀네임은?",
+    "options": ["디옥시리보핵산", "리보핵산", "아데노신삼인산", "글리코겐"],
+    "answer": 0,
+    "explanation": "DNA는 Deoxyribonucleic Acid(디옥시리보핵산)의 약자입니다."
+  },
+  {
+    "id": "sci_077",
+    "category": "science",
+    "question": "해왕성의 대기가 파란색을 띠는 주요 이유는?",
+    "options": ["산소 때문", "메탄 때문", "질소 때문", "수증기 때문"],
+    "answer": 1,
+    "explanation": "해왕성 대기의 메탄이 붉은 빛을 흡수하고 파란 빛을 반사하여 파랗게 보입니다."
+  },
+  {
+    "id": "sci_078",
+    "category": "science",
+    "question": "발효의 대표적 산물인 에탄올의 화학식은?",
+    "options": ["CH₃OH", "C₂H₅OH", "CH₃COOH", "C₆H₁₂O₆"],
+    "answer": 1,
+    "explanation": "에탄올(에틸알코올)의 화학식은 C₂H₅OH입니다."
+  },
+  {
+    "id": "sci_079",
+    "category": "science",
+    "question": "인간의 소장 길이는 약 얼마인가?",
+    "options": ["약 1m", "약 3m", "약 6m", "약 10m"],
+    "answer": 2,
+    "explanation": "성인의 소장 길이는 약 6~7m로, 영양분을 흡수하는 주요 장기입니다."
+  },
+  {
+    "id": "sci_080",
+    "category": "science",
+    "question": "우주에서 가장 풍부한 원소는?",
+    "options": ["헬륨", "수소", "산소", "탄소"],
+    "answer": 1,
+    "explanation": "수소는 우주 전체 원소의 약 75%를 차지하는 가장 풍부한 원소입니다."
+  },
+  {
+    "id": "sci_081",
+    "category": "science",
+    "question": "무지개의 색은 몇 가지인가?",
+    "options": ["5가지", "6가지", "7가지", "8가지"],
+    "answer": 2,
+    "explanation": "무지개는 빨주노초파남보 7가지 색으로 구성되며, 빛의 분산에 의해 나타납니다."
+  },
+  {
+    "id": "sci_082",
+    "category": "science",
+    "question": "엑스선(X-ray)을 발견한 과학자는?",
+    "options": ["마리 퀴리", "빌헬름 뢴트겐", "앙리 베크렐", "닐스 보어"],
+    "answer": 1,
+    "explanation": "빌헬름 뢴트겐은 1895년 엑스선을 발견하여 1901년 최초의 노벨 물리학상을 수상했습니다."
+  },
+  {
+    "id": "sci_083",
+    "category": "science",
+    "question": "다음 중 재생 에너지에 해당하지 않는 것은?",
+    "options": ["태양열", "풍력", "천연가스", "수력"],
+    "answer": 2,
+    "explanation": "천연가스는 화석 연료로, 한정된 자원이며 재생 에너지가 아닙니다."
+  },
+  {
+    "id": "sci_084",
+    "category": "science",
+    "question": "쓰나미(지진해일)의 주요 원인은?",
+    "options": ["강풍", "해저 지진", "조석 현상", "해류 변화"],
+    "answer": 1,
+    "explanation": "쓰나미는 주로 해저 지진에 의해 해저면이 급격히 변동하면서 발생합니다."
+  },
+  {
+    "id": "sci_085",
+    "category": "science",
+    "question": "파블로프의 개 실험으로 증명된 학습 유형은?",
+    "options": ["도구적 조건화", "고전적 조건화", "관찰 학습", "통찰 학습"],
+    "answer": 1,
+    "explanation": "파블로프는 종소리와 먹이를 반복 제시하여 고전적 조건화(조건 반사)를 증명했습니다."
+  },
+  {
+    "id": "sci_086",
+    "category": "science",
+    "question": "구리(Cu)의 원자번호는?",
+    "options": ["26", "29", "30", "47"],
+    "answer": 1,
+    "explanation": "구리(Cu, Cuprum)의 원자번호는 29이며, 전이금속에 속합니다."
+  },
+  {
+    "id": "sci_087",
+    "category": "science",
+    "question": "식물의 뿌리에서 물을 흡수하는 주요 원리는?",
+    "options": ["삼투 현상", "확산", "능동 수송", "증발"],
+    "answer": 0,
+    "explanation": "뿌리털은 삼투 현상에 의해 토양의 물을 흡수합니다(농도 차이에 의한 물의 이동)."
+  },
+  {
+    "id": "sci_088",
+    "category": "science",
+    "question": "토성의 고리를 처음 관측한 과학자는?",
+    "options": ["코페르니쿠스", "갈릴레오 갈릴레이", "케플러", "뉴턴"],
+    "answer": 1,
+    "explanation": "갈릴레오는 1610년 자작 망원경으로 토성의 고리를 최초로 관측했습니다."
+  },
+  {
+    "id": "sci_089",
+    "category": "science",
+    "question": "운동 에너지의 공식은?",
+    "options": ["E = mc²", "E = ½mv²", "E = mgh", "E = Fd"],
+    "answer": 1,
+    "explanation": "운동 에너지(Ek)는 ½mv²로, 질량과 속도의 제곱에 비례합니다."
+  },
+  {
+    "id": "sci_090",
+    "category": "science",
+    "question": "유글레나(짚신벌레)는 동물인가 식물인가?",
+    "options": ["동물", "식물", "원생생물", "세균"],
+    "answer": 2,
+    "explanation": "유글레나는 엽록체를 갖고 광합성도 하면서 운동도 하는 원생생물입니다."
+  },
+  {
+    "id": "sci_091",
+    "category": "science",
+    "question": "조류(潮流)를 일으키는 주요 원인은?",
+    "options": ["태양풍", "지구 자전", "달과 태양의 인력", "해저 화산"],
+    "answer": 2,
+    "explanation": "조석(밀물, 썰물)은 주로 달과 태양의 중력(인력)에 의해 발생합니다."
+  },
+  {
+    "id": "sci_092",
+    "category": "science",
+    "question": "아보가드로 수의 대략적인 값은?",
+    "options": ["6.02 × 10²¹", "6.02 × 10²³", "6.02 × 10²⁵", "6.02 × 10²⁷"],
+    "answer": 1,
+    "explanation": "아보가드로 수는 약 6.022 × 10²³으로, 1몰에 포함된 입자 수입니다."
+  },
+  {
+    "id": "sci_093",
+    "category": "science",
+    "question": "혈액에서 산소를 운반하는 단백질은?",
+    "options": ["알부민", "피브리노겐", "헤모글로빈", "면역글로불린"],
+    "answer": 2,
+    "explanation": "헤모글로빈은 적혈구에 포함된 단백질로, 철 이온과 결합하여 산소를 운반합니다."
+  },
+  {
+    "id": "sci_094",
+    "category": "science",
+    "question": "초신성 폭발 이후 남는 천체가 아닌 것은?",
+    "options": ["중성자별", "블랙홀", "백색왜성", "성운"],
+    "answer": 2,
+    "explanation": "백색왜성은 초신성이 아닌 적색거성 단계를 거친 중소질량 항성의 최종 형태입니다."
+  },
+  {
+    "id": "sci_095",
+    "category": "science",
+    "question": "파동에서 진동수와 파장의 관계는?",
+    "options": ["비례 관계", "반비례 관계", "무관", "제곱 비례"],
+    "answer": 1,
+    "explanation": "파동의 속도가 일정할 때, 진동수와 파장은 반비례합니다(v = fλ)."
+  },
+  {
+    "id": "sci_096",
+    "category": "science",
+    "question": "다음 중 단백질을 구성하는 기본 단위는?",
+    "options": ["포도당", "아미노산", "뉴클레오타이드", "지방산"],
+    "answer": 1,
+    "explanation": "단백질은 20종의 아미노산이 펩타이드 결합으로 연결된 고분자 화합물입니다."
+  },
+  {
+    "id": "sci_097",
+    "category": "science",
+    "question": "P파와 S파 중 지진 발생 시 먼저 도달하는 것은?",
+    "options": ["S파", "P파", "동시 도달", "표면파"],
+    "answer": 1,
+    "explanation": "P파(종파)는 S파(횡파)보다 속도가 빨라 지진 발생 시 먼저 도달합니다."
+  },
+  {
+    "id": "sci_098",
+    "category": "science",
+    "question": "보일의 법칙은 무엇에 대한 법칙인가?",
+    "options": ["온도와 부피", "압력과 부피", "압력과 온도", "물질량과 부피"],
+    "answer": 1,
+    "explanation": "보일의 법칙은 온도가 일정할 때 기체의 압력과 부피가 반비례한다는 법칙입니다."
+  },
+  {
+    "id": "sci_099",
+    "category": "science",
+    "question": "인체의 근육 종류가 아닌 것은?",
+    "options": ["골격근", "심장근", "평활근", "탄성근"],
+    "answer": 3,
+    "explanation": "인체의 근육은 골격근, 심장근, 평활근 3가지로 분류되며, '탄성근'은 존재하지 않습니다."
+  },
+  {
+    "id": "sci_100",
+    "category": "science",
+    "question": "빅뱅 이론에서 우주의 나이는 약?",
+    "options": ["약 46억 년", "약 100억 년", "약 138억 년", "약 200억 년"],
+    "answer": 2,
+    "explanation": "빅뱅 이론에 따르면 우주의 나이는 약 137.8억 년(약 138억 년)으로 추정됩니다."
+  },
+  {
+    "id": "sci_101",
+    "category": "science",
+    "question": "전자레인지에서 음식을 가열하는 원리는?",
+    "options": ["적외선 가열", "마이크로파에 의한 물 분자 진동", "전기 저항 가열", "유도 가열"],
+    "answer": 1,
+    "explanation": "전자레인지는 마이크로파가 음식 속 물 분자를 진동시켜 마찰열로 가열합니다."
+  },
+  {
+    "id": "sci_102",
+    "category": "science",
+    "question": "식물 호르몬 옥신의 주된 기능은?",
+    "options": ["개화 촉진", "세포 신장 촉진", "잎의 낙엽 촉진", "과일 숙성"],
+    "answer": 1,
+    "explanation": "옥신은 식물의 줄기와 뿌리의 세포 신장(성장)을 촉진하는 호르몬입니다."
+  },
+  {
+    "id": "sci_103",
+    "category": "science",
+    "question": "목성에 있는 대적반은 무엇인가?",
+    "options": ["거대한 화산", "초거대 폭풍", "극관 현상", "위성의 그림자"],
+    "answer": 1,
+    "explanation": "대적반(Great Red Spot)은 목성 대기에서 수백 년간 지속되고 있는 초거대 폭풍입니다."
+  },
+  {
+    "id": "sci_104",
+    "category": "science",
+    "question": "베르누이 원리와 가장 관련 깊은 현상은?",
+    "options": ["비행기 양력", "소리의 반사", "빛의 굴절", "열의 전도"],
+    "answer": 0,
+    "explanation": "베르누이 원리는 유체 속도와 압력의 반비례 관계로, 비행기 날개 위아래 압력 차이에 의한 양력을 설명합니다."
+  },
+  {
+    "id": "sci_105",
+    "category": "science",
+    "question": "물이 끓는 온도(1기압)는 섭씨 몇 도인가?",
+    "options": ["90°C", "95°C", "100°C", "110°C"],
+    "answer": 2,
+    "explanation": "1기압에서 순수한 물의 끓는점은 100°C입니다."
+  },
+  {
+    "id": "sci_106",
+    "category": "science",
+    "question": "감수분열의 결과 생성되는 딸세포의 수는?",
+    "options": ["2개", "3개", "4개", "8개"],
+    "answer": 2,
+    "explanation": "감수분열은 2회 연속 분열하여 염색체 수가 절반인 4개의 딸세포를 만듭니다."
+  },
+  {
+    "id": "sci_107",
+    "category": "science",
+    "question": "해류 중 쿠로시오 해류의 성질은?",
+    "options": ["한류", "난류", "심층류", "조류"],
+    "answer": 1,
+    "explanation": "쿠로시오(黑潮)는 적도 부근에서 북상하는 북태평양의 대표적 난류입니다."
+  },
+  {
+    "id": "sci_108",
+    "category": "science",
+    "question": "플랑크 상수의 기호는?",
+    "options": ["k", "h", "G", "c"],
+    "answer": 1,
+    "explanation": "플랑크 상수는 'h'로 표기하며, 약 6.626 × 10⁻³⁴ J·s입니다."
+  },
+  {
+    "id": "sci_109",
+    "category": "science",
+    "question": "바이러스가 세포에 비해 갖지 않는 것은?",
+    "options": ["유전물질", "단백질 껍질", "독자적 대사 능력", "핵산"],
+    "answer": 2,
+    "explanation": "바이러스는 독자적 대사 능력이 없어 숙주 세포에 기생해야만 증식할 수 있습니다."
+  },
+  {
+    "id": "sci_110",
+    "category": "science",
+    "question": "화성에 착륙한 최초의 탐사 로버는?",
+    "options": ["스피릿", "소저너", "큐리오시티", "퍼시비어런스"],
+    "answer": 1,
+    "explanation": "소저너(Sojourner)는 1997년 화성에 착륙한 최초의 로버입니다."
+  },
+  {
+    "id": "sci_111",
+    "category": "science",
+    "question": "정전기가 발생하는 원리는?",
+    "options": ["전자의 이동", "양성자의 이동", "중성자의 이동", "분자의 분해"],
+    "answer": 0,
+    "explanation": "정전기는 마찰 등에 의해 전자가 한 물체에서 다른 물체로 이동하면서 전하가 축적되는 현상입니다."
+  },
+  {
+    "id": "sci_112",
+    "category": "science",
+    "question": "인체에서 가장 긴 뼈는?",
+    "options": ["경골", "대퇴골", "비골", "상완골"],
+    "answer": 1,
+    "explanation": "대퇴골(넓적다리뼈)은 인체에서 가장 길고 강한 뼈입니다."
+  },
+  {
+    "id": "sci_113",
+    "category": "science",
+    "question": "황산의 화학식은?",
+    "options": ["HCl", "HNO₃", "H₂SO₄", "H₃PO₄"],
+    "answer": 2,
+    "explanation": "황산의 화학식은 H₂SO₄이며, 강산으로 산업에서 널리 사용됩니다."
+  },
+  {
+    "id": "sci_114",
+    "category": "science",
+    "question": "단세포 생물이 아닌 것은?",
+    "options": ["아메바", "짚신벌레", "대장균", "해파리"],
+    "answer": 3,
+    "explanation": "해파리는 자포동물로 다세포 생물이며, 나머지는 모두 단세포 생물입니다."
+  },
+  {
+    "id": "sci_115",
+    "category": "science",
+    "question": "안드로메다 은하는 우리 은하에서 약 몇 광년 떨어져 있는가?",
+    "options": ["약 25만 광년", "약 250만 광년", "약 2500만 광년", "약 2억 5천만 광년"],
+    "answer": 1,
+    "explanation": "안드로메다 은하(M31)는 우리 은하에서 약 250만 광년 떨어진 가장 가까운 대형 은하입니다."
+  },
+  {
+    "id": "sci_116",
+    "category": "science",
+    "question": "파스칼의 원리가 적용되는 장치는?",
+    "options": ["풍차", "유압 프레스", "발전기", "변압기"],
+    "answer": 1,
+    "explanation": "파스칼의 원리(밀폐된 유체의 압력 전달)는 유압 프레스, 유압 브레이크 등에 적용됩니다."
+  },
+  {
+    "id": "sci_117",
+    "category": "science",
+    "question": "광합성이 일어나는 세포 소기관은?",
+    "options": ["미토콘드리아", "엽록체", "리보솜", "핵"],
+    "answer": 1,
+    "explanation": "엽록체는 빛 에너지를 화학 에너지로 전환하는 광합성이 일어나는 소기관입니다."
+  },
+  {
+    "id": "sci_118",
+    "category": "science",
+    "question": "리히터 규모가 1 증가하면 에너지는 약 몇 배 증가하는가?",
+    "options": ["약 2배", "약 10배", "약 32배", "약 100배"],
+    "answer": 2,
+    "explanation": "리히터 규모가 1 증가하면 지진 에너지는 약 31.6배(약 32배) 증가합니다."
+  },
+  {
+    "id": "sci_119",
+    "category": "science",
+    "question": "초전도체의 특징은?",
+    "options": ["매우 높은 저항", "전기 저항이 0", "높은 자기장 생성 불가", "상온에서만 작동"],
+    "answer": 1,
+    "explanation": "초전도체는 특정 온도(임계 온도) 이하에서 전기 저항이 0이 되는 물질입니다."
+  },
+  {
+    "id": "sci_120",
+    "category": "science",
+    "question": "산호초는 어떤 생물에 의해 형성되는가?",
+    "options": ["해조류", "산호충(폴립)", "해면", "이끼"],
+    "answer": 1,
+    "explanation": "산호초는 산호충(자포동물의 일종)이 탄산칼슘 골격을 쌓아 형성한 구조물입니다."
+  },
+  {
+    "id": "sci_121",
+    "category": "science",
+    "question": "시속 100km로 달리는 자동차의 관성은 무엇에 의존하는가?",
+    "options": ["속도", "질량", "가속도", "마찰력"],
+    "answer": 1,
+    "explanation": "관성은 물체의 질량에만 의존하며, 질량이 클수록 관성도 큽니다."
+  },
+  {
+    "id": "sci_122",
+    "category": "science",
+    "question": "RNA에서 티민(T) 대신 사용되는 염기는?",
+    "options": ["아데닌", "구아닌", "유라실", "시토신"],
+    "answer": 2,
+    "explanation": "RNA에서는 DNA의 티민(T) 대신 유라실(U)이 아데닌(A)과 상보적 결합을 합니다."
+  },
+  {
+    "id": "sci_123",
+    "category": "science",
+    "question": "편서풍이 부는 위도대는?",
+    "options": ["0°~30°", "30°~60°", "60°~90°", "적도 부근"],
+    "answer": 1,
+    "explanation": "편서풍은 위도 30°~60° 사이에서 서쪽에서 동쪽으로 부는 바람입니다."
+  },
+  {
+    "id": "sci_124",
+    "category": "science",
+    "question": "양자역학에서 입자의 위치와 운동량을 동시에 정확히 알 수 없다는 원리는?",
+    "options": ["상보성 원리", "불확정성 원리", "배타 원리", "중첩 원리"],
+    "answer": 1,
+    "explanation": "하이젠베르크의 불확정성 원리는 입자의 위치와 운동량을 동시에 정확히 측정할 수 없음을 말합니다."
+  },
+  {
+    "id": "sci_125",
+    "category": "science",
+    "question": "다음 중 양서류에 해당하는 동물은?",
+    "options": ["도마뱀", "개구리", "거북이", "악어"],
+    "answer": 1,
+    "explanation": "개구리는 양서류로, 유충 시기에는 아가미, 성체에서는 폐와 피부로 호흡합니다."
+  },
+  {
+    "id": "sci_126",
+    "category": "science",
+    "question": "엔트로피가 증가한다는 것은 무엇을 의미하는가?",
+    "options": ["질서가 증가한다", "무질서가 증가한다", "에너지가 보존된다", "온도가 감소한다"],
+    "answer": 1,
+    "explanation": "엔트로피 증가는 시스템의 무질서도가 증가하는 것을 의미하며, 열역학 제2법칙과 관련됩니다."
+  },
+  {
+    "id": "sci_127",
+    "category": "science",
+    "question": "소금(NaCl)은 어떤 결합으로 이루어져 있는가?",
+    "options": ["공유 결합", "이온 결합", "금속 결합", "수소 결합"],
+    "answer": 1,
+    "explanation": "소금(NaCl)은 나트륨 양이온(Na⁺)과 염소 음이온(Cl⁻) 사이의 이온 결합으로 형성됩니다."
+  },
+  {
+    "id": "sci_128",
+    "category": "science",
+    "question": "인체에서 담즙을 생성하는 장기는?",
+    "options": ["위", "간", "쓸개(담낭)", "췌장"],
+    "answer": 1,
+    "explanation": "담즙은 간에서 생성되어 쓸개(담낭)에 저장된 후, 소장에서 지방 소화를 돕습니다."
+  },
+  {
+    "id": "sci_129",
+    "category": "science",
+    "question": "별의 밝기를 나타내는 단위인 '등급'에서, 1등급은 6등급보다 약 몇 배 밝은가?",
+    "options": ["5배", "10배", "50배", "100배"],
+    "answer": 3,
+    "explanation": "별의 등급에서 1등급 차이는 약 2.512배이며, 5등급 차이는 약 100배의 밝기 차이입니다."
+  },
+  {
+    "id": "sci_130",
+    "category": "science",
+    "question": "뉴턴의 운동 제3법칙은 무엇인가?",
+    "options": ["관성의 법칙", "가속도의 법칙", "작용·반작용의 법칙", "만유인력의 법칙"],
+    "answer": 2,
+    "explanation": "뉴턴의 제3법칙은 모든 작용에는 크기가 같고 방향이 반대인 반작용이 존재한다는 법칙입니다."
+  },
+  {
+    "id": "sci_131",
+    "category": "science",
+    "question": "PCR(중합효소 연쇄 반응)에 사용되는 효소는?",
+    "options": ["리가아제", "DNA 중합효소", "제한효소", "역전사효소"],
+    "answer": 1,
+    "explanation": "PCR은 내열성 DNA 중합효소(Taq polymerase 등)를 사용하여 DNA를 증폭합니다."
+  },
+  {
+    "id": "sci_132",
+    "category": "science",
+    "question": "편마암은 어떤 종류의 암석인가?",
+    "options": ["화성암", "퇴적암", "변성암", "화산암"],
+    "answer": 2,
+    "explanation": "편마암은 높은 온도와 압력에 의해 기존 암석이 변한 변성암입니다."
+  },
+  {
+    "id": "sci_133",
+    "category": "science",
+    "question": "도플러 효과에서 소리를 내는 물체가 다가올 때 소리의 변화는?",
+    "options": ["높아진다", "낮아진다", "변하지 않는다", "멈춘다"],
+    "answer": 0,
+    "explanation": "도플러 효과에 의해 소리를 내는 물체가 다가오면 파장이 짧아져 더 높은 소리로 들립니다."
+  },
+  {
+    "id": "sci_134",
+    "category": "science",
+    "question": "산소가 발견되기 전, 연소를 설명하던 가설의 이름은?",
+    "options": ["에테르 이론", "플로지스톤 이론", "원자론", "상대성 이론"],
+    "answer": 1,
+    "explanation": "플로지스톤 이론은 연소 시 '플로지스톤'이라는 물질이 빠져나간다는 가설로, 라부아지에에 의해 반박되었습니다."
+  },
+  {
+    "id": "sci_135",
+    "category": "science",
+    "question": "광년(Light-year)은 무엇의 단위인가?",
+    "options": ["시간", "속도", "거리", "밝기"],
+    "answer": 2,
+    "explanation": "광년은 빛이 1년 동안 이동하는 거리(약 9.46 × 10¹² km)를 나타내는 거리 단위입니다."
+  },
+  {
+    "id": "sci_136",
+    "category": "science",
+    "question": "인간의 뇌에서 가장 큰 비율을 차지하는 부분은?",
+    "options": ["소뇌", "대뇌", "뇌간", "중뇌"],
+    "answer": 1,
+    "explanation": "대뇌는 뇌 전체 질량의 약 80%를 차지하며, 사고·감각·운동 등을 담당합니다."
+  },
+  {
+    "id": "sci_137",
+    "category": "science",
+    "question": "산화와 환원이 동시에 일어나는 반응을 무엇이라 하는가?",
+    "options": ["중화 반응", "산화환원 반응", "치환 반응", "분해 반응"],
+    "answer": 1,
+    "explanation": "산화환원 반응은 한 물질이 산화되면 다른 물질이 환원되는 동시 반응입니다."
+  },
+  {
+    "id": "sci_138",
+    "category": "science",
+    "question": "문어의 심장은 몇 개인가?",
+    "options": ["1개", "2개", "3개", "4개"],
+    "answer": 2,
+    "explanation": "문어는 3개의 심장을 가지고 있으며, 2개는 아가미 심장, 1개는 체순환 심장입니다."
+  },
+  {
+    "id": "sci_139",
+    "category": "science",
+    "question": "태양의 주요 에너지 생성 과정은?",
+    "options": ["핵분열", "핵융합", "화학 반응", "방사성 붕괴"],
+    "answer": 1,
+    "explanation": "태양은 수소 핵융합(4개의 수소→헬륨)을 통해 막대한 에너지를 생성합니다."
+  },
+  {
+    "id": "sci_140",
+    "category": "science",
+    "question": "정지 마찰력과 운동 마찰력 중 일반적으로 더 큰 것은?",
+    "options": ["정지 마찰력", "운동 마찰력", "같다", "상황에 따라 다르다"],
+    "answer": 0,
+    "explanation": "정지 마찰력의 최댓값은 운동 마찰력보다 일반적으로 크며, 물체를 움직이기 시작하는 데 더 큰 힘이 필요합니다."
+  },
+  {
+    "id": "sci_141",
+    "category": "science",
+    "question": "세포 분열 시 DNA가 응축된 형태를 무엇이라 하는가?",
+    "options": ["크로마틴", "염색체", "유전자", "뉴클레오솜"],
+    "answer": 1,
+    "explanation": "세포 분열 시 크로마틴이 응축되어 현미경으로 관찰 가능한 염색체 형태가 됩니다."
+  },
+  {
+    "id": "sci_142",
+    "category": "science",
+    "question": "엘니뇨 현상이 발생하는 해역은?",
+    "options": ["북대서양", "동태평양 적도 부근", "인도양", "북극해"],
+    "answer": 1,
+    "explanation": "엘니뇨는 동태평양 적도 부근 해수면 온도가 비정상적으로 높아지는 현상입니다."
+  },
+  {
+    "id": "sci_143",
+    "category": "science",
+    "question": "전자의 전하량은?",
+    "options": ["+1.6 × 10⁻¹⁹ C", "-1.6 × 10⁻¹⁹ C", "+3.2 × 10⁻¹⁹ C", "-3.2 × 10⁻¹⁹ C"],
+    "answer": 1,
+    "explanation": "전자의 전하량은 약 -1.602 × 10⁻¹⁹ 쿨롱(C)으로, 음전하를 띱니다."
+  },
+  {
+    "id": "sci_144",
+    "category": "science",
+    "question": "천연두 백신을 최초로 개발한 과학자는?",
+    "options": ["루이 파스퇴르", "에드워드 제너", "로베르트 코흐", "존 스노"],
+    "answer": 1,
+    "explanation": "에드워드 제너는 1796년 우두법을 이용한 최초의 천연두 백신을 개발했습니다."
+  },
+  {
+    "id": "sci_145",
+    "category": "science",
+    "question": "물에 소금을 녹이면 끓는점은 어떻게 변하는가?",
+    "options": ["낮아진다", "높아진다", "변하지 않는다", "불규칙하게 변한다"],
+    "answer": 1,
+    "explanation": "끓는점 오름 현상으로, 용질(소금)을 녹이면 끓는점이 높아집니다."
+  },
+  {
+    "id": "sci_146",
+    "category": "science",
+    "question": "반딧불이가 빛을 내는 원리는?",
+    "options": ["전기 발광", "인광", "생물 발광(루시페린 반응)", "반사"],
+    "answer": 2,
+    "explanation": "반딧불이는 루시페린과 루시페라아제 효소의 화학 반응으로 빛을 냅니다(생물 발광)."
+  },
+  {
+    "id": "sci_147",
+    "category": "science",
+    "question": "국제 우주 정거장(ISS)의 궤도 고도는 약?",
+    "options": ["약 100km", "약 400km", "약 1000km", "약 36000km"],
+    "answer": 1,
+    "explanation": "ISS는 지구 표면에서 약 400km 상공의 저궤도에서 운행됩니다."
+  },
+  {
+    "id": "sci_148",
+    "category": "science",
+    "question": "볼록 렌즈의 초점 안쪽에 물체를 놓으면 어떤 상이 생기는가?",
+    "options": ["축소된 실상", "확대된 실상", "같은 크기의 실상", "확대된 허상"],
+    "answer": 3,
+    "explanation": "볼록 렌즈의 초점 안쪽에 물체를 놓으면 정립·확대된 허상이 생기며, 이것이 돋보기의 원리입니다."
+  },
+  {
+    "id": "sci_149",
+    "category": "science",
+    "question": "다음 중 공생 관계의 예시는?",
+    "options": ["사자와 얼룩말", "흰개미와 원생동물", "매와 비둘기", "뱀과 개구리"],
+    "answer": 1,
+    "explanation": "흰개미 장속 원생동물은 셀룰로스를 분해하고, 흰개미는 서식지를 제공하는 상리공생입니다."
+  },
+  {
+    "id": "sci_150",
+    "category": "science",
+    "question": "주기율표에서 같은 족(세로줄)의 원소들이 공유하는 특성은?",
+    "options": ["같은 전자 수", "같은 원자가 전자 수", "같은 질량", "같은 전자 껍질 수"],
+    "answer": 1,
+    "explanation": "같은 족 원소들은 원자가 전자 수가 같아 비슷한 화학적 성질을 나타냅니다."
+  },
+  {
+    "id": "sci_151",
+    "category": "science",
+    "question": "갑상선 호르몬 합성에 필수적인 원소는?",
+    "options": ["칼슘", "아이오딘(요오드)", "철", "마그네슘"],
+    "answer": 1,
+    "explanation": "아이오딘(요오드)은 갑상선 호르몬(T3, T4)의 합성에 필수적인 미량 원소입니다."
+  },
+  {
+    "id": "sci_152",
+    "category": "science",
+    "question": "태양풍의 주요 구성 입자는?",
+    "options": ["중성자", "양성자와 전자", "감마선", "중성 원자"],
+    "answer": 1,
+    "explanation": "태양풍은 태양에서 방출되는 하전 입자(주로 양성자와 전자)의 흐름입니다."
+  },
+  {
+    "id": "sci_153",
+    "category": "science",
+    "question": "일반상대성이론에서 중력의 원인은?",
+    "options": ["전자기력", "시공간의 휘어짐", "핵력", "약력"],
+    "answer": 1,
+    "explanation": "일반상대성이론에 따르면 질량은 시공간을 휘어지게 하며, 이 휘어짐이 중력으로 나타납니다."
+  },
+  {
+    "id": "sci_154",
+    "category": "science",
+    "question": "다이너마이트를 발명한 과학자는 누구인가?",
+    "options": ["토마스 에디슨", "알프레드 노벨", "니콜라 테슬라", "알렉산더 벨"],
+    "answer": 1,
+    "explanation": "알프레드 노벨은 1867년 니트로글리세린을 안정화한 다이너마이트를 발명했습니다."
+  },
+  {
+    "id": "sci_155",
+    "category": "science",
+    "question": "인체에서 가장 작은 뼈는 어디에 있는가?",
+    "options": ["코", "귀", "손가락", "발가락"],
+    "answer": 1,
+    "explanation": "귀 속 등골뼈(약 3mm)는 인체에서 가장 작은 뼈입니다."
+  },
+  {
+    "id": "sci_156",
+    "category": "science",
+    "question": "탄소의 동소체가 아닌 것은?",
+    "options": ["다이아몬드", "흑연", "풀러렌", "석영"],
+    "answer": 3,
+    "explanation": "석영은 이산화규소(SiO₂)로 탄소의 동소체가 아닙니다."
+  },
+  {
+    "id": "sci_157",
+    "category": "science",
+    "question": "포유류 중 알을 낳는 동물은?",
+    "options": ["박쥐", "오리너구리", "돌고래", "고슴도치"],
+    "answer": 1,
+    "explanation": "오리너구리는 단공류(Monotreme)로, 알을 낳는 포유류입니다."
+  },
+  {
+    "id": "sci_158",
+    "category": "science",
+    "question": "우리 태양계에서 자전 방향이 다른 행성은?",
+    "options": ["화성", "금성", "목성", "토성"],
+    "answer": 1,
+    "explanation": "금성은 다른 행성들과 반대 방향(시계 방향)으로 자전하며, 이를 역행 자전이라 합니다."
+  },
+  {
+    "id": "sci_159",
+    "category": "science",
+    "question": "전자기 유도 법칙을 발견한 과학자는?",
+    "options": ["앙페르", "패러데이", "쿨롱", "맥스웰"],
+    "answer": 1,
+    "explanation": "마이클 패러데이는 자기장의 변화가 전류를 유도한다는 전자기 유도 법칙을 발견했습니다."
+  },
+  {
+    "id": "sci_160",
+    "category": "science",
+    "question": "크리스퍼(CRISPR-Cas9)의 주요 용도는?",
+    "options": ["단백질 분석", "유전자 편집", "세포 배양", "약물 합성"],
+    "answer": 1,
+    "explanation": "CRISPR-Cas9은 특정 DNA 서열을 정밀하게 절단·수정하는 유전자 편집 기술입니다."
+  },
+  {
+    "id": "sci_161",
+    "category": "science",
+    "question": "석회암 동굴의 종유석과 석순이 형성되는 화학 반응의 핵심 물질은?",
+    "options": ["염화나트륨", "탄산칼슘", "황산칼슘", "탄산나트륨"],
+    "answer": 1,
+    "explanation": "석회암(탄산칼슘)이 물에 녹았다가 다시 침전되면서 종유석과 석순이 형성됩니다."
+  },
+  {
+    "id": "sci_162",
+    "category": "science",
+    "question": "자외선(UV)의 파장 범위는 약?",
+    "options": ["10~400nm", "400~700nm", "700~1000nm", "1~10mm"],
+    "answer": 0,
+    "explanation": "자외선은 가시광선보다 짧은 약 10~400nm의 파장 범위를 가집니다."
+  },
+  {
+    "id": "sci_163",
+    "category": "science",
+    "question": "연체동물의 대표적 특징은?",
+    "options": ["외골격", "내골격", "근육질의 발", "기관지 호흡"],
+    "answer": 2,
+    "explanation": "연체동물은 부드러운 몸과 근육질의 발(복족류의 기는 발, 두족류의 팔 등)이 특징입니다."
+  },
+  {
+    "id": "sci_164",
+    "category": "science",
+    "question": "수은 온도계에서 수은이 사용되는 주된 이유는?",
+    "options": ["값이 싸다", "열팽창이 균일하다", "색이 아름답다", "독성이 없다"],
+    "answer": 1,
+    "explanation": "수은은 온도에 따른 열팽창이 비교적 균일하여 정확한 온도 측정이 가능합니다."
+  },
+  {
+    "id": "sci_165",
+    "category": "science",
+    "question": "성운에서 별이 탄생하는 과정의 핵심 원리는?",
+    "options": ["전자기력", "중력 수축", "핵분열", "방사성 붕괴"],
+    "answer": 1,
+    "explanation": "성운 내 가스와 먼지가 중력에 의해 수축하면서 온도가 높아져 핵융합이 시작되고 별이 탄생합니다."
+  },
+  {
+    "id": "sci_166",
+    "category": "science",
+    "question": "원형 운동에서 구심력의 방향은?",
+    "options": ["운동 방향과 같다", "중심을 향한다", "중심에서 바깥으로 향한다", "운동 방향과 수직이면서 위로 향한다"],
+    "answer": 1,
+    "explanation": "구심력은 원운동하는 물체를 중심 방향으로 당기는 힘으로, 항상 중심을 향합니다."
+  },
+  {
+    "id": "sci_167",
+    "category": "science",
+    "question": "유전자 발현 과정에서 전사(transcription)란?",
+    "options": ["DNA→RNA", "RNA→단백질", "DNA→DNA", "단백질→RNA"],
+    "answer": 0,
+    "explanation": "전사는 DNA의 유전 정보를 RNA(mRNA)로 복사하는 과정입니다."
+  },
+  {
+    "id": "sci_168",
+    "category": "science",
+    "question": "규소(Si)를 주성분으로 한 반도체는 주로 어디에 사용되는가?",
+    "options": ["식품 첨가물", "전자 칩", "의약품", "건축 자재"],
+    "answer": 1,
+    "explanation": "규소(실리콘) 반도체는 컴퓨터 칩, 스마트폰 등 전자 기기의 핵심 소재입니다."
+  },
+  {
+    "id": "sci_169",
+    "category": "science",
+    "question": "공룡이 멸종한 시기는 약?",
+    "options": ["약 2억 년 전", "약 1억 년 전", "약 6600만 년 전", "약 1000만 년 전"],
+    "answer": 2,
+    "explanation": "공룡은 약 6600만 년 전 백악기 말 소행성 충돌 등으로 대멸종했습니다."
+  },
+  {
+    "id": "sci_170",
+    "category": "science",
+    "question": "스프링 저울은 어떤 법칙을 이용하는가?",
+    "options": ["뉴턴의 법칙", "훅의 법칙", "보일의 법칙", "패러데이의 법칙"],
+    "answer": 1,
+    "explanation": "훅의 법칙(F = -kx)에 의해 스프링의 변형량이 힘에 비례하므로 무게를 측정할 수 있습니다."
+  },
+  {
+    "id": "sci_171",
+    "category": "science",
+    "question": "인체에서 가장 많은 양을 차지하는 무기질(미네랄)은?",
+    "options": ["철", "칼슘", "나트륨", "아연"],
+    "answer": 1,
+    "explanation": "칼슘은 인체에 약 1~1.2kg 존재하며, 뼈와 치아의 주요 구성 성분입니다."
+  },
+  {
+    "id": "sci_172",
+    "category": "science",
+    "question": "다음 중 화학 반응식의 균형을 맞추기 위해 사용하는 것은?",
+    "options": ["계수", "지수", "하첨자", "괄호"],
+    "answer": 0,
+    "explanation": "화학 반응식의 좌우 원자 수를 맞추기 위해 화학식 앞에 계수(coefficient)를 사용합니다."
+  },
+  {
+    "id": "sci_173",
+    "category": "science",
+    "question": "갈라파고스 군도는 어떤 과학적 연구로 유명한가?",
+    "options": ["지진 연구", "진화론 연구", "해류 연구", "기상학 연구"],
+    "answer": 1,
+    "explanation": "찰스 다윈이 갈라파고스 군도의 생물 다양성을 관찰하여 진화론의 기초를 세웠습니다."
+  },
+  {
+    "id": "sci_174",
+    "category": "science",
+    "question": "하늘이 파란색으로 보이는 이유는?",
+    "options": ["대기가 파란색이므로", "레일리 산란", "바다가 반사되므로", "오존층 때문"],
+    "answer": 1,
+    "explanation": "태양빛이 대기 중 입자에 의해 산란될 때, 파장이 짧은 파란색이 더 많이 산란되는 레일리 산란 현상입니다."
+  },
+  {
+    "id": "sci_175",
+    "category": "science",
+    "question": "세포막의 주요 구성 성분은?",
+    "options": ["탄수화물", "인지질", "핵산", "무기염류"],
+    "answer": 1,
+    "explanation": "세포막은 인지질 이중층을 기본 구조로 하며, 단백질과 콜레스테롤 등이 포함됩니다."
+  },
+  {
+    "id": "sci_176",
+    "category": "science",
+    "question": "해발 고도가 높아질수록 기압은 어떻게 변하는가?",
+    "options": ["높아진다", "낮아진다", "변하지 않는다", "불규칙하게 변한다"],
+    "answer": 1,
+    "explanation": "고도가 높아질수록 공기 기둥의 무게가 줄어들어 기압이 낮아집니다."
+  },
+  {
+    "id": "sci_177",
+    "category": "science",
+    "question": "열전도율이 가장 높은 금속은?",
+    "options": ["금", "은", "구리", "알루미늄"],
+    "answer": 1,
+    "explanation": "은(Ag)은 모든 금속 중 열전도율이 가장 높아 약 429 W/(m·K)입니다."
+  },
+  {
+    "id": "sci_178",
+    "category": "science",
+    "question": "인체에서 적혈구의 평균 수명은 약?",
+    "options": ["약 30일", "약 60일", "약 120일", "약 365일"],
+    "answer": 2,
+    "explanation": "적혈구의 평균 수명은 약 120일이며, 수명이 다한 적혈구는 비장에서 분해됩니다."
+  },
+  {
+    "id": "sci_179",
+    "category": "science",
+    "question": "보이저 1호가 태양계 경계를 넘은 해는?",
+    "options": ["2003년", "2008년", "2012년", "2018년"],
+    "answer": 2,
+    "explanation": "보이저 1호는 2012년 성간공간에 진입하여 태양계를 벗어난 최초의 인공 물체가 되었습니다."
+  },
+  {
+    "id": "sci_180",
+    "category": "science",
+    "question": "일의 SI 단위는?",
+    "options": ["와트(W)", "줄(J)", "뉴턴(N)", "파스칼(Pa)"],
+    "answer": 1,
+    "explanation": "일(에너지)의 SI 단위는 줄(J)이며, 1J = 1N × 1m입니다."
+  },
+  {
+    "id": "sci_181",
+    "category": "science",
+    "question": "유전자형이 Aa인 개체의 표현형은?",
+    "options": ["열성 형질", "우성 형질", "중간 형질", "결정 불가"],
+    "answer": 1,
+    "explanation": "우성 대립유전자(A)가 있으면 우성 형질이 표현되므로, Aa는 우성 표현형입니다(완전우성 기준)."
+  },
+  {
+    "id": "sci_182",
+    "category": "science",
+    "question": "페름기 대멸종으로 사라진 생물의 비율은 약?",
+    "options": ["약 50%", "약 70%", "약 85%", "약 96%"],
+    "answer": 3,
+    "explanation": "약 2억 5천만 년 전 페름기 대멸종에서 해양 생물 종의 약 96%가 사라졌습니다."
+  },
+  {
+    "id": "sci_183",
+    "category": "science",
+    "question": "전기 회로에서 병렬 연결 시 각 저항에 걸리는 전압은?",
+    "options": ["각각 다르다", "모두 같다", "0이다", "저항에 반비례한다"],
+    "answer": 1,
+    "explanation": "병렬 연결에서는 모든 저항에 동일한 전압이 걸리며, 전류가 나뉘어 흐릅니다."
+  },
+  {
+    "id": "sci_184",
+    "category": "science",
+    "question": "효소의 작용을 설명하는 '자물쇠-열쇠 모델'의 핵심 개념은?",
+    "options": ["효소의 크기", "기질 특이성", "효소의 색깔", "반응 온도"],
+    "answer": 1,
+    "explanation": "자물쇠-열쇠 모델은 효소의 활성 부위가 특정 기질과만 결합하는 기질 특이성을 설명합니다."
+  },
+  {
+    "id": "sci_185",
+    "category": "science",
+    "question": "화강암은 어떤 종류의 암석인가?",
+    "options": ["심성 화성암", "화산 화성암", "퇴적암", "변성암"],
+    "answer": 0,
+    "explanation": "화강암은 마그마가 지하 깊은 곳에서 천천히 냉각되어 형성된 심성(관입) 화성암입니다."
+  },
+  {
+    "id": "sci_186",
+    "category": "science",
+    "question": "수소 결합이 가장 잘 형성되는 원소 조합은?",
+    "options": ["C와 H", "O, N, F와 H", "Fe와 O", "Na와 Cl"],
+    "answer": 1,
+    "explanation": "수소 결합은 전기음성도가 큰 O, N, F와 결합한 H 사이에서 잘 형성됩니다."
+  },
+  {
+    "id": "sci_187",
+    "category": "science",
+    "question": "카멜레온이 색을 바꾸는 주요 이유는?",
+    "options": ["먹이 유인", "체온 조절과 의사소통", "독 분비", "야간 시력 향상"],
+    "answer": 1,
+    "explanation": "카멜레온의 변색은 위장보다는 체온 조절, 감정 표현, 동종 간 의사소통 목적이 큽니다."
+  },
+  {
+    "id": "sci_188",
+    "category": "science",
+    "question": "태양계의 행성 중 고리가 있는 행성이 아닌 것은?",
+    "options": ["목성", "토성", "화성", "해왕성"],
+    "answer": 2,
+    "explanation": "화성에는 고리가 없으며, 목성·토성·천왕성·해왕성은 모두 고리를 가지고 있습니다."
+  },
+  {
+    "id": "sci_189",
+    "category": "science",
+    "question": "특수상대성이론에서 질량-에너지 등가 공식은?",
+    "options": ["E = mc", "E = mc²", "E = m/c²", "E = m²c"],
+    "answer": 1,
+    "explanation": "아인슈타인의 E = mc²은 질량(m)과 에너지(E)가 빛의 속도(c)의 제곱으로 관련됨을 나타냅니다."
+  },
+  {
+    "id": "sci_190",
+    "category": "science",
+    "question": "다음 중 내분비샘이 아닌 것은?",
+    "options": ["갑상선", "부신", "침샘", "뇌하수체"],
+    "answer": 2,
+    "explanation": "침샘(타액선)은 관을 통해 분비하는 외분비샘이며, 내분비샘이 아닙니다."
+  },
+  {
+    "id": "sci_191",
+    "category": "science",
+    "question": "대기 오염의 주요 지표 물질인 미세먼지(PM2.5)에서 2.5는 무엇을 의미하는가?",
+    "options": ["농도 2.5mg", "입자 크기 2.5μm 이하", "위험 등급 2.5", "반감기 2.5시간"],
+    "answer": 1,
+    "explanation": "PM2.5는 입자의 지름이 2.5μm(마이크로미터) 이하인 초미세먼지를 의미합니다."
+  },
+  {
+    "id": "sci_192",
+    "category": "science",
+    "question": "빛이 프리즘을 통과할 때 분산되는 이유는?",
+    "options": ["빛의 회절", "파장에 따른 굴절률 차이", "빛의 간섭", "빛의 반사"],
+    "answer": 1,
+    "explanation": "프리즘에서 빛이 분산되는 것은 파장에 따라 굴절률이 달라 굴절 각도가 다르기 때문입니다."
+  },
+  {
+    "id": "sci_193",
+    "category": "science",
+    "question": "미생물학의 아버지로 불리는 과학자는?",
+    "options": ["로버트 훅", "안톤 판 레이우엔훅", "루이 파스퇴르", "로버트 코흐"],
+    "answer": 1,
+    "explanation": "안톤 판 레이우엔훅은 자작 현미경으로 최초로 미생물을 관찰한 미생물학의 선구자입니다."
+  },
+  {
+    "id": "sci_194",
+    "category": "science",
+    "question": "지구 자기장이 생기는 주요 원인은?",
+    "options": ["지각의 광물", "외핵의 용융 철 대류", "대기의 이온화", "달의 인력"],
+    "answer": 1,
+    "explanation": "지구 자기장은 외핵의 용융된 철과 니켈의 대류 운동에 의한 발전기 효과로 발생합니다."
+  },
+  {
+    "id": "sci_195",
+    "category": "science",
+    "question": "식물의 굴광성에서 빛 쪽으로 줄기가 굽는 이유는?",
+    "options": ["빛 쪽 세포가 빨리 자란다", "어두운 쪽 세포가 빨리 자란다", "빛이 세포를 밀어낸다", "뿌리가 빛을 당긴다"],
+    "answer": 1,
+    "explanation": "옥신이 어두운 쪽으로 이동하여 그 쪽 세포가 더 신장하므로, 줄기가 빛 쪽으로 굽습니다."
+  },
+  {
+    "id": "sci_196",
+    "category": "science",
+    "question": "중수소(Deuterium)와 일반 수소의 차이점은?",
+    "options": ["전자 수 차이", "양성자 수 차이", "중성자 수 차이", "전하 차이"],
+    "answer": 2,
+    "explanation": "중수소는 일반 수소와 양성자는 같지만 중성자 1개가 추가된 동위원소입니다."
+  },
+  {
+    "id": "sci_197",
+    "category": "science",
+    "question": "인체에서 가장 큰 동맥은?",
+    "options": ["폐동맥", "대동맥", "관상동맥", "경동맥"],
+    "answer": 1,
+    "explanation": "대동맥(Aorta)은 심장에서 나오는 가장 크고 두꺼운 동맥으로, 전신에 혈액을 공급합니다."
+  },
+  {
+    "id": "sci_198",
+    "category": "science",
+    "question": "다음 중 온실가스가 아닌 것은?",
+    "options": ["이산화탄소", "메탄", "질소", "아산화질소"],
+    "answer": 2,
+    "explanation": "질소(N₂)는 대기의 주요 성분이지만 온실효과를 일으키는 온실가스는 아닙니다."
+  },
+  {
+    "id": "sci_199",
+    "category": "science",
+    "question": "허블의 법칙이 설명하는 것은?",
+    "options": ["별의 수명", "은하의 후퇴 속도와 거리의 비례 관계", "행성의 궤도", "빛의 속도"],
+    "answer": 1,
+    "explanation": "허블의 법칙은 은하가 멀수록 더 빠르게 후퇴한다는 것으로, 우주 팽창의 증거입니다."
+  },
+  {
+    "id": "sci_200",
+    "category": "science",
+    "question": "패러데이 상수(Faraday constant)의 의미는?",
+    "options": ["전자 1개의 질량", "1몰의 전자가 가진 전하량", "양성자의 전하량", "전자의 속도"],
+    "answer": 1,
+    "explanation": "패러데이 상수(약 96,485 C/mol)는 전자 1몰이 가지는 전하량입니다."
+  },
+  {
+    "id": "sci_201",
+    "category": "science",
+    "question": "호킹 복사(Hawking radiation)는 어디서 방출되는가?",
+    "options": ["항성", "블랙홀", "백색왜성", "행성"],
+    "answer": 1,
+    "explanation": "호킹 복사는 블랙홀의 사건의 지평선 근처에서 양자 효과에 의해 방출되는 열복사입니다."
+  },
+  {
+    "id": "sci_202",
+    "category": "science",
+    "question": "물 분자 간의 주요 분자간 힘은?",
+    "options": ["런던 분산력", "수소 결합", "이온 결합", "금속 결합"],
+    "answer": 1,
+    "explanation": "물 분자들은 O-H 사이의 수소 결합으로 강하게 상호작용하여 높은 끓는점을 가집니다."
+  },
+  {
+    "id": "sci_203",
+    "category": "science",
+    "question": "체세포 분열(유사분열)의 결과 생성되는 딸세포의 수는?",
+    "options": ["1개", "2개", "4개", "8개"],
+    "answer": 1,
+    "explanation": "체세포 분열(유사분열)은 1회 분열하여 모세포와 동일한 염색체 수를 가진 2개의 딸세포를 만듭니다."
+  },
+  {
+    "id": "sci_204",
+    "category": "science",
+    "question": "기상 관측에서 풍속을 측정하는 기기는?",
+    "options": ["기압계", "풍속계(풍력계)", "습도계", "온도계"],
+    "answer": 1,
+    "explanation": "풍속계(Anemometer)는 바람의 속도를 측정하는 기기입니다."
+  },
+  {
+    "id": "sci_205",
+    "category": "science",
+    "question": "쿼크(quark)는 무엇을 구성하는 입자인가?",
+    "options": ["전자", "양성자와 중성자", "광자", "뉴트리노"],
+    "answer": 1,
+    "explanation": "쿼크는 양성자(uud)와 중성자(udd)를 구성하는 기본 입자입니다."
+  },
+  {
+    "id": "sci_206",
+    "category": "science",
+    "question": "동위원소란 같은 원소이면서 무엇이 다른 것인가?",
+    "options": ["양성자 수", "전자 수", "중성자 수", "원자번호"],
+    "answer": 2,
+    "explanation": "동위원소는 양성자 수(원자번호)는 같지만 중성자 수가 달라 질량수가 다른 원소입니다."
+  },
+  {
+    "id": "sci_207",
+    "category": "science",
+    "question": "인체의 항상성(Homeostasis)이란?",
+    "options": ["항상 같은 자세를 유지하는 것", "체내 환경을 일정하게 유지하는 것", "같은 속도로 운동하는 것", "항상 같은 음식을 먹는 것"],
+    "answer": 1,
+    "explanation": "항상성은 체온, 혈당, pH 등 체내 환경을 일정 범위 내로 유지하는 생리적 기제입니다."
+  },
+  {
+    "id": "sci_208",
+    "category": "science",
+    "question": "태양계의 소행성대는 주로 어느 행성 사이에 위치하는가?",
+    "options": ["지구와 화성", "화성과 목성", "목성과 토성", "토성과 천왕성"],
+    "answer": 1,
+    "explanation": "소행성대(Asteroid belt)는 화성과 목성 궤도 사이에 주로 분포합니다."
+  },
+  {
+    "id": "sci_209",
+    "category": "science",
+    "question": "렌즈의 굴절력을 나타내는 단위는?",
+    "options": ["루멘", "럭스", "디옵터", "칸델라"],
+    "answer": 2,
+    "explanation": "디옵터(D)는 렌즈의 굴절력 단위로, 초점거리(m)의 역수입니다."
+  },
+  {
+    "id": "sci_210",
+    "category": "science",
+    "question": "지의류(Lichen)는 어떤 생물 간의 공생체인가?",
+    "options": ["세균과 식물", "곰팡이와 조류(또는 남세균)", "동물과 식물", "바이러스와 세균"],
+    "answer": 1,
+    "explanation": "지의류는 곰팡이와 광합성 생물(조류 또는 남세균)이 공생하는 복합 생물입니다."
+  },
+  {
+    "id": "sci_211",
+    "category": "science",
+    "question": "사막화의 주요 원인이 아닌 것은?",
+    "options": ["과도한 방목", "산림 벌채", "기후 변화", "화산 폭발"],
+    "answer": 3,
+    "explanation": "사막화는 과방목, 산림 벌채, 기후 변화 등 인간 활동과 환경 요인이 주원인이며, 화산은 직접적 원인이 아닙니다."
+  },
+  {
+    "id": "sci_212",
+    "category": "science",
+    "question": "전자기파의 스펙트럼에서 에너지가 가장 높은 것은?",
+    "options": ["라디오파", "적외선", "자외선", "감마선"],
+    "answer": 3,
+    "explanation": "감마선은 파장이 가장 짧고 진동수가 가장 높아 에너지가 가장 큰 전자기파입니다."
+  },
+  {
+    "id": "sci_213",
+    "category": "science",
+    "question": "다음 중 양성자를 발견한 과학자는?",
+    "options": ["J.J. 톰슨", "어니스트 러더퍼드", "제임스 채드윅", "닐스 보어"],
+    "answer": 1,
+    "explanation": "어니스트 러더퍼드는 1919년 알파 입자 실험을 통해 양성자의 존재를 증명했습니다."
+  },
+  {
+    "id": "sci_214",
+    "category": "science",
+    "question": "콩과 식물의 뿌리혹박테리아가 하는 주요 역할은?",
+    "options": ["광합성", "질소 고정", "물 흡수", "해충 방어"],
+    "answer": 1,
+    "explanation": "뿌리혹박테리아(Rhizobium)는 대기 중 질소를 암모니아로 전환(질소 고정)하여 식물에 공급합니다."
+  },
+  {
+    "id": "sci_215",
+    "category": "science",
+    "question": "카르스트 지형의 형성에 가장 큰 역할을 하는 작용은?",
+    "options": ["풍화 작용", "빗물에 의한 석회암 용해", "화산 활동", "빙하 침식"],
+    "answer": 1,
+    "explanation": "카르스트 지형은 이산화탄소를 포함한 빗물이 석회암(탄산칼슘)을 녹여 형성됩니다."
+  },
+  {
+    "id": "sci_216",
+    "category": "science",
+    "question": "줄기세포(Stem cell)의 가장 큰 특징은?",
+    "options": ["크기가 매우 크다", "다양한 세포로 분화 가능하다", "수명이 무한하다", "핵이 없다"],
+    "answer": 1,
+    "explanation": "줄기세포는 자기 복제 능력과 다양한 종류의 세포로 분화할 수 있는 능력이 특징입니다."
+  },
+  {
+    "id": "sci_217",
+    "category": "science",
+    "question": "백색왜성은 어떤 별의 최종 단계인가?",
+    "options": ["태양 질량 이하 별", "태양 질량의 8배 이상 별", "초거성", "중성자별"],
+    "answer": 0,
+    "explanation": "태양 정도 질량의 별은 적색거성을 거쳐 외층을 방출하고 백색왜성으로 수축합니다."
+  },
+  {
+    "id": "sci_218",
+    "category": "science",
+    "question": "정전용량(캐패시턴스)의 SI 단위는?",
+    "options": ["헨리(H)", "패럿(F)", "테슬라(T)", "웨버(Wb)"],
+    "answer": 1,
+    "explanation": "정전용량의 SI 단위는 패럿(Farad, F)이며, 축전기(콘덴서)의 용량을 나타냅니다."
+  },
+  {
+    "id": "sci_219",
+    "category": "science",
+    "question": "혈액의 pH 정상 범위는 약?",
+    "options": ["약 6.0~6.5", "약 7.0~7.2", "약 7.35~7.45", "약 8.0~8.5"],
+    "answer": 2,
+    "explanation": "혈액의 정상 pH는 약 7.35~7.45로, 약한 염기성을 유지합니다."
+  },
+  {
+    "id": "sci_220",
+    "category": "science",
+    "question": "현대 화학의 아버지로 불리는 과학자는?",
+    "options": ["존 돌턴", "앙투안 라부아지에", "드미트리 멘델레예프", "로버트 보일"],
+    "answer": 1,
+    "explanation": "라부아지에는 질량 보존의 법칙을 확립하고 연소의 산소 이론을 제시한 현대 화학의 아버지입니다."
+  },
+  {
+    "id": "sci_221",
+    "category": "science",
+    "question": "코리올리 효과로 인해 북반구에서 이동하는 물체는 어느 방향으로 편향되는가?",
+    "options": ["왼쪽", "오른쪽", "위쪽", "아래쪽"],
+    "answer": 1,
+    "explanation": "북반구에서 이동하는 물체는 코리올리 효과에 의해 진행 방향의 오른쪽으로 편향됩니다."
+  },
+  {
+    "id": "sci_222",
+    "category": "science",
+    "question": "전기뱀장어가 전기를 만드는 세포는?",
+    "options": ["신경세포", "전기세포(전기판)", "근육세포", "상피세포"],
+    "answer": 1,
+    "explanation": "전기뱀장어는 특수화된 전기세포(전기판, electrocyte)가 직렬로 배열되어 최대 600V의 전기를 만듭니다."
+  },
+  {
+    "id": "sci_223",
+    "category": "science",
+    "question": "세슘 원자 시계가 측정하는 것은?",
+    "options": ["온도", "시간", "압력", "질량"],
+    "answer": 1,
+    "explanation": "세슘-133 원자의 진동수를 기준으로 하는 원자시계는 초(秒)의 국제 표준을 정의합니다."
+  },
+  {
+    "id": "sci_224",
+    "category": "science",
+    "question": "인체의 면역 체계에서 1차 방어선은?",
+    "options": ["항체", "백혈구", "피부와 점막", "림프절"],
+    "answer": 2,
+    "explanation": "피부와 점막은 병원체의 침입을 물리적으로 차단하는 1차 방어선(선천면역)입니다."
+  },
+  {
+    "id": "sci_225",
+    "category": "science",
+    "question": "반감기란 무엇인가?",
+    "options": ["방사성 물질의 질량이 절반으로 줄어드는 시간", "방사선의 세기가 두 배 되는 시간", "원자핵이 합성되는 시간", "방사능이 완전히 사라지는 시간"],
+    "answer": 0,
+    "explanation": "반감기는 방사성 동위원소의 양(방사능)이 절반으로 감소하는 데 걸리는 시간입니다."
+  },
+  {
+    "id": "sci_226",
+    "category": "science",
+    "question": "다음 중 포화 지방산의 특징은?",
+    "options": ["이중 결합이 있다", "이중 결합이 없다", "항상 액체 상태이다", "식물성 기름에 많다"],
+    "answer": 1,
+    "explanation": "포화 지방산은 탄소 사슬에 이중 결합이 없으며, 주로 동물성 지방에 많고 상온에서 고체입니다."
+  },
+  {
+    "id": "sci_227",
+    "category": "science",
+    "question": "맨틀 대류가 판의 이동을 일으킨다는 이론과 관련된 것은?",
+    "options": ["대륙 빙하설", "판구조론", "지향사론", "지구 수축설"],
+    "answer": 1,
+    "explanation": "판구조론은 맨틀의 대류에 의해 지각 판이 이동하며 지진·화산 등이 발생한다는 이론입니다."
+  },
+  {
+    "id": "sci_228",
+    "category": "science",
+    "question": "자기장의 SI 단위는?",
+    "options": ["가우스(G)", "테슬라(T)", "쿨롱(C)", "헨리(H)"],
+    "answer": 1,
+    "explanation": "자기장(자속밀도)의 SI 단위는 테슬라(T)입니다(CGS 단위는 가우스)."
+  },
+  {
+    "id": "sci_229",
+    "category": "science",
+    "question": "식물의 기공(stomata)의 주된 역할은?",
+    "options": ["광합성 산물 저장", "기체 교환(CO₂ 흡수, O₂ 방출)", "물 저장", "종자 보호"],
+    "answer": 1,
+    "explanation": "기공은 잎 표면에 있는 작은 구멍으로, 이산화탄소 흡수와 산소 방출, 증산 작용을 합니다."
+  },
+  {
+    "id": "sci_230",
+    "category": "science",
+    "question": "히그스 보손(Higgs boson)이 발견된 해는?",
+    "options": ["2008년", "2010년", "2012년", "2015년"],
+    "answer": 2,
+    "explanation": "2012년 CERN의 대형 강입자 충돌기(LHC)에서 히그스 보손이 실험적으로 확인되었습니다."
+  },
+  {
+    "id": "sci_231",
+    "category": "science",
+    "question": "인체에서 비타민 D가 합성되는 데 필요한 것은?",
+    "options": ["적외선", "자외선(UV-B)", "가시광선", "마이크로파"],
+    "answer": 1,
+    "explanation": "피부에서 자외선(UV-B)을 받으면 7-디하이드로콜레스테롤이 비타민 D₃로 전환됩니다."
+  },
+  {
+    "id": "sci_232",
+    "category": "science",
+    "question": "탄소-14 연대측정법의 반감기는 약?",
+    "options": ["약 1,000년", "약 5,730년", "약 10,000년", "약 50,000년"],
+    "answer": 1,
+    "explanation": "탄소-14의 반감기는 약 5,730년으로, 유기물의 연대 측정에 사용됩니다."
+  },
+  {
+    "id": "sci_233",
+    "category": "science",
+    "question": "천왕성의 자전축 기울기가 특이한 이유는?",
+    "options": ["자전하지 않는다", "거의 옆으로 누워서 자전한다", "역행 자전한다", "자전축이 수직이다"],
+    "answer": 1,
+    "explanation": "천왕성의 자전축은 약 98° 기울어져 있어 거의 옆으로 누워서 자전합니다."
+  },
+  {
+    "id": "sci_234",
+    "category": "science",
+    "question": "샤를의 법칙은 무엇에 관한 법칙인가?",
+    "options": ["압력과 부피", "온도와 부피", "압력과 온도", "물질량과 부피"],
+    "answer": 1,
+    "explanation": "샤를의 법칙은 압력이 일정할 때 기체의 부피가 절대온도에 비례한다는 법칙입니다."
+  },
+  {
+    "id": "sci_235",
+    "category": "science",
+    "question": "인체에서 평형 감각을 담당하는 기관은?",
+    "options": ["고막", "달팽이관", "반고리관", "이소골"],
+    "answer": 2,
+    "explanation": "내이의 반고리관(세반고리관)은 회전 운동을 감지하여 평형 감각을 담당합니다."
+  },
+  {
+    "id": "sci_236",
+    "category": "science",
+    "question": "원소를 원자번호 순으로 처음 배열한 과학자는?",
+    "options": ["라부아지에", "뉴랜즈", "멘델레예프", "모즐리"],
+    "answer": 3,
+    "explanation": "헨리 모즐리는 원소를 원자량이 아닌 원자번호 순으로 배열해야 함을 밝혔습니다."
+  },
+  {
+    "id": "sci_237",
+    "category": "science",
+    "question": "생물 다양성이 가장 풍부한 생태계는?",
+    "options": ["사막", "툰드라", "열대우림", "초원"],
+    "answer": 2,
+    "explanation": "열대우림은 지구 육지의 약 6%를 차지하지만 전체 생물 종의 50% 이상이 서식합니다."
+  },
+  {
+    "id": "sci_238",
+    "category": "science",
+    "question": "위치 에너지의 공식(중력)은?",
+    "options": ["E = ½mv²", "E = mgh", "E = mc²", "E = Fd"],
+    "answer": 1,
+    "explanation": "중력 위치 에너지는 Ep = mgh로, 질량(m), 중력가속도(g), 높이(h)의 곱입니다."
+  },
+  {
+    "id": "sci_239",
+    "category": "science",
+    "question": "인슐린의 기능은?",
+    "options": ["혈당을 높인다", "혈당을 낮춘다", "혈압을 높인다", "혈압을 낮춘다"],
+    "answer": 1,
+    "explanation": "인슐린은 혈액 속 포도당을 세포로 흡수시켜 혈당을 낮추는 호르몬입니다."
+  },
+  {
+    "id": "sci_240",
+    "category": "science",
+    "question": "펄서(Pulsar)는 어떤 천체인가?",
+    "options": ["백색왜성", "빠르게 회전하는 중성자별", "블랙홀", "적색거성"],
+    "answer": 1,
+    "explanation": "펄서는 빠르게 자전하면서 주기적으로 전파를 방출하는 중성자별입니다."
+  },
+  {
+    "id": "sci_241",
+    "category": "science",
+    "question": "패러데이의 전자기 유도 법칙에서 유도 기전력의 크기는 무엇에 비례하는가?",
+    "options": ["자기장의 크기", "자기선속의 변화율", "전류의 크기", "저항의 크기"],
+    "answer": 1,
+    "explanation": "유도 기전력은 자기선속의 시간 변화율에 비례합니다(ε = -dΦ/dt)."
+  },
+  {
+    "id": "sci_242",
+    "category": "science",
+    "question": "한란류가 만나는 곳을 무엇이라 하는가?",
+    "options": ["해령", "조경 수역", "해구", "심해평원"],
+    "answer": 1,
+    "explanation": "한류와 난류가 만나는 곳을 조경 수역이라 하며, 영양분이 풍부하여 좋은 어장이 됩니다."
+  },
+  {
+    "id": "sci_243",
+    "category": "science",
+    "question": "셀룰로스를 소화할 수 있는 포유류가 이용하는 방법은?",
+    "options": ["자체 효소 분비", "미생물에 의한 발효", "기계적 분쇄만", "흡수하지 않음"],
+    "answer": 1,
+    "explanation": "소, 양 등의 반추동물은 위 속 미생물(세균, 원생동물)의 발효를 통해 셀룰로스를 분해합니다."
+  },
+  {
+    "id": "sci_244",
+    "category": "science",
+    "question": "태양의 코로나를 관측하기 가장 좋은 시기는?",
+    "options": ["보름달 때", "개기일식 때", "일출 시", "일몰 시"],
+    "answer": 1,
+    "explanation": "개기일식 때 달이 태양 광구를 완전히 가리면 태양 대기의 코로나를 관측할 수 있습니다."
+  },
+  {
+    "id": "sci_245",
+    "category": "science",
+    "question": "전류가 만드는 자기장의 방향을 결정하는 법칙은?",
+    "options": ["뉴턴의 법칙", "옴의 법칙", "앙페르의 오른나사 법칙", "쿨롱의 법칙"],
+    "answer": 2,
+    "explanation": "앙페르의 오른나사 법칙은 전류 방향으로 나사를 돌릴 때 나사가 진행하는 방향이 자기장 방향임을 나타냅니다."
+  },
+  {
+    "id": "sci_246",
+    "category": "science",
+    "question": "리소좀의 기능은?",
+    "options": ["에너지 생산", "세포 내 소화", "단백질 합성", "유전 정보 저장"],
+    "answer": 1,
+    "explanation": "리소좀은 가수분해 효소를 포함하여 세포 내 노폐물과 이물질을 분해(소화)합니다."
+  },
+  {
+    "id": "sci_247",
+    "category": "science",
+    "question": "풍화 작용 중 화학적 풍화에 해당하는 것은?",
+    "options": ["동결 파쇄", "식물 뿌리에 의한 쪼개짐", "석회암의 용해", "모래 바람에 의한 마모"],
+    "answer": 2,
+    "explanation": "석회암이 산성 빗물에 녹는 것은 화학적 풍화(용해 작용)에 해당합니다."
+  },
+  {
+    "id": "sci_248",
+    "category": "science",
+    "question": "핵융합이 일어나기 위해 필요한 조건은?",
+    "options": ["매우 낮은 온도", "매우 높은 온도와 압력", "진공 상태", "강한 자외선"],
+    "answer": 1,
+    "explanation": "핵융합은 원자핵들의 쿨롱 반발력을 극복하기 위해 수천만~수억 도의 초고온과 높은 압력이 필요합니다."
+  },
+  {
+    "id": "sci_249",
+    "category": "science",
+    "question": "다음 중 절연체에 해당하는 것은?",
+    "options": ["구리", "은", "유리", "알루미늄"],
+    "answer": 2,
+    "explanation": "유리는 자유전자가 거의 없어 전기가 통하지 않는 대표적 절연체입니다."
+  },
+  {
+    "id": "sci_250",
+    "category": "science",
+    "question": "인체에서 요소(Urea)를 생성하는 장기는?",
+    "options": ["신장", "간", "폐", "비장"],
+    "answer": 1,
+    "explanation": "간에서 아미노산 대사의 부산물인 암모니아를 독성이 낮은 요소로 전환합니다."
+  },
+  {
+    "id": "sci_251",
+    "category": "science",
+    "question": "세페이드 변광성이 천문학에서 중요한 이유는?",
+    "options": ["가장 밝은 별이므로", "거리 측정의 표준 촛불 역할", "가장 가까운 별이므로", "초신성의 전조이므로"],
+    "answer": 1,
+    "explanation": "세페이드 변광성은 변광 주기와 절대 등급 사이에 관계가 있어 천체까지의 거리를 측정하는 데 사용됩니다."
+  },
+  {
+    "id": "sci_252",
+    "category": "science",
+    "question": "전자의 발견자는?",
+    "options": ["어니스트 러더퍼드", "J.J. 톰슨", "닐스 보어", "제임스 채드윅"],
+    "answer": 1,
+    "explanation": "J.J. 톰슨은 1897년 음극선 실험을 통해 전자를 최초로 발견했습니다."
+  },
+  {
+    "id": "sci_253",
+    "category": "science",
+    "question": "식물의 증산 작용이 활발해지는 조건이 아닌 것은?",
+    "options": ["높은 온도", "낮은 습도", "강한 바람", "어두운 환경"],
+    "answer": 3,
+    "explanation": "어두운 환경에서는 기공이 닫히므로 증산 작용이 감소합니다."
+  },
+  {
+    "id": "sci_254",
+    "category": "science",
+    "question": "수소 연료전지의 부산물은?",
+    "options": ["이산화탄소", "물", "질소산화물", "황산"],
+    "answer": 1,
+    "explanation": "수소 연료전지는 수소와 산소가 반응하여 전기를 생성하며, 부산물은 순수한 물(H₂O)입니다."
+  },
+  {
+    "id": "sci_255",
+    "category": "science",
+    "question": "자가 면역 질환이란?",
+    "options": ["면역력이 약해진 상태", "면역 체계가 자기 조직을 공격하는 것", "바이러스에 의한 감염", "알레르기 반응"],
+    "answer": 1,
+    "explanation": "자가 면역 질환은 면역 체계가 자신의 정상 세포를 이물질로 인식하여 공격하는 질환입니다."
+  },
+  {
+    "id": "sci_256",
+    "category": "science",
+    "question": "갈륨(Ga)의 특이한 물리적 성질은?",
+    "options": ["상온에서 기체이다", "손 위에서 녹는다(녹는점 약 30°C)", "자성이 매우 강하다", "물보다 가볍다"],
+    "answer": 1,
+    "explanation": "갈륨의 녹는점은 약 29.8°C로, 손의 체온으로도 녹일 수 있는 금속입니다."
+  },
+  {
+    "id": "sci_257",
+    "category": "science",
+    "question": "적도 부근에서 일 년 내내 비가 많이 오는 기후대는?",
+    "options": ["열대 건조 기후", "열대 우림 기후", "온대 해양성 기후", "냉대 기후"],
+    "answer": 1,
+    "explanation": "열대 우림 기후는 적도 부근에서 강한 상승 기류와 높은 습도로 연중 강수량이 많습니다."
+  },
+  {
+    "id": "sci_258",
+    "category": "science",
+    "question": "슈뢰딩거 방정식이 설명하는 것은?",
+    "options": ["행성의 운동", "전자기파의 전파", "양자계의 파동함수 시간 변화", "열전도"],
+    "answer": 2,
+    "explanation": "슈뢰딩거 방정식은 양자역학에서 파동함수의 시간에 따른 변화를 기술하는 기본 방정식입니다."
+  },
+  {
+    "id": "sci_259",
+    "category": "science",
+    "question": "고래는 어류인가 포유류인가?",
+    "options": ["어류", "포유류", "양서류", "파충류"],
+    "answer": 1,
+    "explanation": "고래는 폐호흡을 하고, 새끼에게 젖을 먹이며, 체온이 일정한 포유류입니다."
+  },
+  {
+    "id": "sci_260",
+    "category": "science",
+    "question": "오존(O₃)의 산소 원자 개수는?",
+    "options": ["1개", "2개", "3개", "4개"],
+    "answer": 2,
+    "explanation": "오존(O₃)은 산소 원자 3개로 구성된 분자이며, 강한 산화력을 가집니다."
+  },
+  {
+    "id": "sci_261",
+    "category": "science",
+    "question": "천동설(지구 중심설)을 주장한 고대 과학자는?",
+    "options": ["아리스타르코스", "프톨레마이오스", "코페르니쿠스", "갈릴레오"],
+    "answer": 1,
+    "explanation": "프톨레마이오스는 지구가 우주의 중심이라는 천동설을 체계화했습니다(2세기)."
+  },
+  {
+    "id": "sci_262",
+    "category": "science",
+    "question": "마찰 전기에서 유리막대를 비단으로 문지르면 유리막대는?",
+    "options": ["음전하를 띤다", "양전하를 띤다", "전하가 없다", "자성을 띤다"],
+    "answer": 1,
+    "explanation": "유리막대를 비단으로 문지르면 전자가 비단으로 이동하여 유리막대는 양전하(+)를 띱니다."
+  },
+  {
+    "id": "sci_263",
+    "category": "science",
+    "question": "ATP의 풀네임은?",
+    "options": ["아데노신 이인산", "아데노신 삼인산", "아데닌 이인산", "아데닌 삼인산"],
+    "answer": 1,
+    "explanation": "ATP는 Adenosine Triphosphate(아데노신 삼인산)의 약자로, 세포의 에너지 화폐입니다."
+  },
+  {
+    "id": "sci_264",
+    "category": "science",
+    "question": "지구의 공전 주기는 약?",
+    "options": ["약 24시간", "약 28일", "약 365.25일", "약 687일"],
+    "answer": 2,
+    "explanation": "지구는 약 365.25일에 태양 주위를 한 바퀴 공전하며, 이것이 1년의 기초입니다."
+  },
+  {
+    "id": "sci_265",
+    "category": "science",
+    "question": "세균과 고세균의 차이점은?",
+    "options": ["세포벽 성분이 다르다", "크기가 다르다", "핵이 있고 없음이 다르다", "유전물질이 다르다"],
+    "answer": 0,
+    "explanation": "세균은 세포벽에 펩티도글리칸이 있지만, 고세균은 펩티도글리칸이 없어 세포벽 구성이 다릅니다."
+  },
+  {
+    "id": "sci_266",
+    "category": "science",
+    "question": "타이탄(Titan)은 어느 행성의 위성인가?",
+    "options": ["목성", "토성", "천왕성", "해왕성"],
+    "answer": 1,
+    "explanation": "타이탄은 토성의 가장 큰 위성으로, 두꺼운 대기를 가진 유일한 위성입니다."
+  },
+  {
+    "id": "sci_267",
+    "category": "science",
+    "question": "총 에너지는 운동 에너지와 무엇의 합인가?",
+    "options": ["열에너지", "위치 에너지", "화학 에너지", "전기 에너지"],
+    "answer": 1,
+    "explanation": "역학적 에너지 보존에서 총 역학적 에너지는 운동 에너지와 위치 에너지의 합입니다."
+  },
+  {
+    "id": "sci_268",
+    "category": "science",
+    "question": "크로마토그래피의 원리는?",
+    "options": ["밀도 차이", "혼합물 성분의 이동 속도 차이", "전하 차이", "자기적 차이"],
+    "answer": 1,
+    "explanation": "크로마토그래피는 고정상과 이동상 사이에서 성분 물질의 이동 속도 차이를 이용해 분리합니다."
+  },
+  {
+    "id": "sci_269",
+    "category": "science",
+    "question": "척수의 주요 기능은?",
+    "options": ["사고와 판단", "반사 작용과 신호 전달", "호르몬 분비", "산소 운반"],
+    "answer": 1,
+    "explanation": "척수는 뇌와 말초신경 사이의 신호 전달 통로이며, 반사 작용의 중추이기도 합니다."
+  },
+  {
+    "id": "sci_270",
+    "category": "science",
+    "question": "달의 바다(Mare)는 실제로 무엇으로 이루어져 있는가?",
+    "options": ["물", "현무암질 용암", "모래", "얼음"],
+    "answer": 1,
+    "explanation": "달의 바다는 과거 용암이 흘러 굳은 현무암질 평원으로, 실제 물은 없습니다."
+  },
+  {
+    "id": "sci_271",
+    "category": "science",
+    "question": "마그네슘(Mg)이 연소할 때 내는 빛의 특징은?",
+    "options": ["붉은 빛", "밝은 흰 빛", "노란 빛", "파란 빛"],
+    "answer": 1,
+    "explanation": "마그네슘은 연소 시 매우 밝은 흰 빛을 내며, 산화마그네슘(MgO)이 생성됩니다."
+  },
+  {
+    "id": "sci_272",
+    "category": "science",
+    "question": "헬리코박터 파일로리균과 관련된 질병은?",
+    "options": ["폐렴", "위궤양", "간염", "결핵"],
+    "answer": 1,
+    "explanation": "헬리코박터 파일로리(H. pylori)는 위점막에 서식하며 위궤양과 위암의 원인이 됩니다."
+  },
+  {
+    "id": "sci_273",
+    "category": "science",
+    "question": "빙하기의 주요 원인으로 제시되는 이론은?",
+    "options": ["판게아 이론", "밀란코비치 주기", "빅뱅 이론", "정상 우주론"],
+    "answer": 1,
+    "explanation": "밀란코비치 주기는 지구 궤도의 이심률, 자전축 기울기, 세차 운동의 변화가 빙하기를 유발한다는 이론입니다."
+  },
+  {
+    "id": "sci_274",
+    "category": "science",
+    "question": "빛의 삼원색은?",
+    "options": ["빨강, 노랑, 파랑", "빨강, 초록, 파랑", "빨강, 보라, 초록", "노랑, 초록, 파랑"],
+    "answer": 1,
+    "explanation": "빛의 삼원색은 빨강(R), 초록(G), 파랑(B)이며, 합치면 흰색이 됩니다."
+  },
+  {
+    "id": "sci_275",
+    "category": "science",
+    "question": "리보솜의 기능은?",
+    "options": ["에너지 생산", "단백질 합성", "유전 정보 저장", "세포 분열"],
+    "answer": 1,
+    "explanation": "리보솜은 mRNA의 유전 정보를 읽어 아미노산을 연결하여 단백질을 합성하는 소기관입니다."
+  },
+  {
+    "id": "sci_276",
+    "category": "science",
+    "question": "토네이도의 바람이 회전하는 이유는?",
+    "options": ["지구 자전", "상승 기류와 윈드 시어", "달의 인력", "해류의 영향"],
+    "answer": 1,
+    "explanation": "토네이도는 강력한 상승 기류와 높이에 따른 풍향·풍속 변화(윈드 시어)에 의해 회전합니다."
+  },
+  {
+    "id": "sci_277",
+    "category": "science",
+    "question": "전자 볼트(eV)는 무엇의 단위인가?",
+    "options": ["전압", "전류", "에너지", "전하"],
+    "answer": 2,
+    "explanation": "전자 볼트(eV)는 전자 1개가 1V의 전위차를 통과할 때 얻는 에너지(약 1.6×10⁻¹⁹J)의 단위입니다."
+  },
+  {
+    "id": "sci_278",
+    "category": "science",
+    "question": "다음 중 원핵생물에 해당하는 것은?",
+    "options": ["효모", "대장균", "아메바", "곰팡이"],
+    "answer": 1,
+    "explanation": "대장균(E. coli)은 핵막이 없는 원핵생물(세균)이며, 나머지는 진핵생물입니다."
+  },
+  {
+    "id": "sci_279",
+    "category": "science",
+    "question": "이오(Io)는 어느 행성의 위성이며 어떤 특징이 있는가?",
+    "options": ["토성, 대기가 두꺼움", "목성, 화산 활동이 활발함", "화성, 물이 있음", "해왕성, 고리가 있음"],
+    "answer": 1,
+    "explanation": "이오(Io)는 목성의 위성으로, 태양계에서 화산 활동이 가장 활발한 천체입니다."
+  },
+  {
+    "id": "sci_280",
+    "category": "science",
+    "question": "샤를 쿨롱이 발견한 법칙은 무엇에 관한 것인가?",
+    "options": ["자기력", "전하 사이의 힘", "중력", "탄성력"],
+    "answer": 1,
+    "explanation": "쿨롱의 법칙은 두 전하 사이에 작용하는 전기력이 전하량의 곱에 비례하고 거리의 제곱에 반비례함을 나타냅니다."
+  },
+  {
+    "id": "sci_281",
+    "category": "science",
+    "question": "유전 암호(코돈)는 몇 개의 염기로 구성되는가?",
+    "options": ["1개", "2개", "3개", "4개"],
+    "answer": 2,
+    "explanation": "유전 암호(코돈)는 3개의 연속된 염기(triplet)로 구성되며, 하나의 아미노산을 지정합니다."
+  },
+  {
+    "id": "sci_282",
+    "category": "science",
+    "question": "물의 밀도가 최대인 온도는?",
+    "options": ["0°C", "4°C", "25°C", "100°C"],
+    "answer": 1,
+    "explanation": "물은 4°C에서 밀도가 최대(약 1g/cm³)이며, 이 성질 덕분에 호수가 표면부터 얼게 됩니다."
+  },
+  {
+    "id": "sci_283",
+    "category": "science",
+    "question": "체내에서 요산(Uric acid)이 과다하면 발생할 수 있는 질환은?",
+    "options": ["당뇨병", "통풍", "빈혈", "골다공증"],
+    "answer": 1,
+    "explanation": "요산이 관절에 결정으로 침착되면 심한 통증을 유발하는 통풍이 발생할 수 있습니다."
+  },
+  {
+    "id": "sci_284",
+    "category": "science",
+    "question": "우주 배경 복사(CMB)가 발견된 해는?",
+    "options": ["1955년", "1965년", "1975년", "1985년"],
+    "answer": 1,
+    "explanation": "1965년 펜지아스와 윌슨이 우연히 우주 배경 복사를 발견하여 빅뱅 이론을 뒷받침했습니다."
+  },
+  {
+    "id": "sci_285",
+    "category": "science",
+    "question": "물질파(드브로이파)의 파장은 무엇에 반비례하는가?",
+    "options": ["질량", "속도", "운동량", "에너지"],
+    "answer": 2,
+    "explanation": "드브로이 파장(λ = h/p)은 입자의 운동량(p = mv)에 반비례합니다."
+  },
+  {
+    "id": "sci_286",
+    "category": "science",
+    "question": "다음 중 이매패류에 속하는 동물은?",
+    "options": ["소라", "오징어", "조개(대합)", "문어"],
+    "answer": 2,
+    "explanation": "조개(대합)는 두 장의 껍데기를 가진 이매패류(Bivalvia)에 속합니다."
+  },
+  {
+    "id": "sci_287",
+    "category": "science",
+    "question": "현무암은 어떤 종류의 암석인가?",
+    "options": ["심성 화성암", "화산(분출) 화성암", "퇴적암", "변성암"],
+    "answer": 1,
+    "explanation": "현무암은 마그마가 지표에서 빠르게 냉각되어 형성된 화산(분출) 화성암으로, 입자가 미세합니다."
+  },
+  {
+    "id": "sci_288",
+    "category": "science",
+    "question": "다중 우주(Multiverse) 가설과 관련된 물리학 분야는?",
+    "options": ["유체역학", "열역학", "양자역학 / 끈이론", "고전역학"],
+    "answer": 2,
+    "explanation": "다중 우주 가설은 양자역학의 다세계 해석이나 끈이론의 '풍경(landscape)' 개념에서 제시됩니다."
+  },
+  {
+    "id": "sci_289",
+    "category": "science",
+    "question": "인슐린을 최초로 추출하여 당뇨병 치료에 사용한 과학자는?",
+    "options": ["알렉산더 플레밍", "프레더릭 밴팅", "에드워드 제너", "루이 파스퇴르"],
+    "answer": 1,
+    "explanation": "프레더릭 밴팅은 1921년 개의 췌장에서 인슐린을 최초로 추출하여 당뇨병 치료에 적용했습니다."
+  },
+  {
+    "id": "sci_290",
+    "category": "science",
+    "question": "표면장력이 가장 잘 나타나는 현상은?",
+    "options": ["물이 끓는 것", "소금이 녹는 것", "물 위에 동전이 뜨는 것", "물이 증발하는 것"],
+    "answer": 2,
+    "explanation": "표면장력은 액체 표면이 수축하려는 힘으로, 물 위에 가벼운 물체가 뜨는 현상에서 관찰됩니다."
+  },
+  {
+    "id": "sci_291",
+    "category": "science",
+    "question": "전자 현미경의 해상도가 광학 현미경보다 높은 이유는?",
+    "options": ["더 밝은 빛을 사용", "전자의 파장이 가시광선보다 짧다", "배율이 높아서", "더 큰 렌즈를 사용"],
+    "answer": 1,
+    "explanation": "전자빔의 파장이 가시광선보다 훨씬 짧아 더 미세한 구조까지 분해(해상)할 수 있습니다."
+  },
+  {
+    "id": "sci_292",
+    "category": "science",
+    "question": "생물의 분류 단계 중 '문(Phylum)' 바로 아래 단계는?",
+    "options": ["과", "강", "목", "속"],
+    "answer": 1,
+    "explanation": "생물 분류 순서는 계-문-강-목-과-속-종으로, 문 아래는 강(Class)입니다."
+  },
+  {
+    "id": "sci_293",
+    "category": "science",
+    "question": "북극성이 속한 별자리는?",
+    "options": ["큰곰자리", "작은곰자리", "카시오페이아자리", "오리온자리"],
+    "answer": 1,
+    "explanation": "북극성(폴라리스)은 작은곰자리의 끝별로, 북반구에서 방향을 찾는 기준이 됩니다."
+  },
+  {
+    "id": "sci_294",
+    "category": "science",
+    "question": "변압기의 원리는?",
+    "options": ["전자기 유도", "옴의 법칙", "쿨롱의 법칙", "보일의 법칙"],
+    "answer": 0,
+    "explanation": "변압기는 전자기 유도 원리를 이용하여 교류 전압을 높이거나 낮추는 장치입니다."
+  },
+  {
+    "id": "sci_295",
+    "category": "science",
+    "question": "독감(인플루엔자)의 원인은?",
+    "options": ["세균", "바이러스", "곰팡이", "기생충"],
+    "answer": 1,
+    "explanation": "독감(인플루엔자)은 인플루엔자 바이러스에 의해 발생하는 호흡기 감염 질환입니다."
+  },
+  {
+    "id": "sci_296",
+    "category": "science",
+    "question": "무중력 상태에서 촛불의 불꽃 모양은?",
+    "options": ["위로 길쭉하다", "구형이다", "아래로 향한다", "좌우로 퍼진다"],
+    "answer": 1,
+    "explanation": "무중력에서는 대류가 없어 불꽃이 위로 올라가지 않고 구형으로 타며, 산소 부족으로 빨리 꺼집니다."
+  },
+  {
+    "id": "sci_297",
+    "category": "science",
+    "question": "화학 결합 중 전자를 공유하는 결합은?",
+    "options": ["이온 결합", "금속 결합", "공유 결합", "수소 결합"],
+    "answer": 2,
+    "explanation": "공유 결합은 두 원자가 전자쌍을 공유하여 형성하는 결합입니다."
+  },
+  {
+    "id": "sci_298",
+    "category": "science",
+    "question": "시냅스(Synapse)에서 신호를 전달하는 화학 물질은?",
+    "options": ["호르몬", "신경전달물질", "효소", "항체"],
+    "answer": 1,
+    "explanation": "시냅스에서는 아세틸콜린, 도파민 등의 신경전달물질이 분비되어 신호를 전달합니다."
+  },
+  {
+    "id": "sci_299",
+    "category": "science",
+    "question": "해저 열수 분출구에서 에너지를 얻는 방식은?",
+    "options": ["광합성", "화학합성", "발효", "기생"],
+    "answer": 1,
+    "explanation": "심해 열수 분출구의 생물은 빛 대신 황화수소 등의 화학 에너지를 이용하는 화학합성으로 살아갑니다."
+  },
+  {
+    "id": "sci_300",
+    "category": "science",
+    "question": "제임스 웹 우주망원경(JWST)이 주로 관측하는 파장대는?",
+    "options": ["자외선", "가시광선", "적외선", "엑스선"],
+    "answer": 2,
+    "explanation": "JWST는 적외선 영역을 주로 관측하여 먼 우주의 초기 은하와 외계행성 대기를 연구합니다."
+  }
+]

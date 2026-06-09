@@ -1,0 +1,130 @@
+{
+  "INTJ": {
+    "avgAccuracy": 0.82, "avgXP": 8420,
+    "strongCategory": "science", "weakCategory": "culture",
+    "categoryAvg": {
+      "general": 0.78, "science": 0.91, "history": 0.80, "culture": 0.65,
+      "economy": 0.83, "life": 0.70, "tech": 0.89, "art": 0.68
+    }
+  },
+  "INTP": {
+    "avgAccuracy": 0.80, "avgXP": 7650,
+    "strongCategory": "tech", "weakCategory": "life",
+    "categoryAvg": {
+      "general": 0.75, "science": 0.88, "history": 0.76, "culture": 0.67,
+      "economy": 0.79, "life": 0.63, "tech": 0.92, "art": 0.70
+    }
+  },
+  "ENTJ": {
+    "avgAccuracy": 0.83, "avgXP": 9180,
+    "strongCategory": "economy", "weakCategory": "art",
+    "categoryAvg": {
+      "general": 0.82, "science": 0.85, "history": 0.81, "culture": 0.72,
+      "economy": 0.91, "life": 0.74, "tech": 0.86, "art": 0.66
+    }
+  },
+  "ENTP": {
+    "avgAccuracy": 0.79, "avgXP": 7200,
+    "strongCategory": "tech", "weakCategory": "history",
+    "categoryAvg": {
+      "general": 0.77, "science": 0.85, "history": 0.66, "culture": 0.76,
+      "economy": 0.80, "life": 0.72, "tech": 0.90, "art": 0.74
+    }
+  },
+  "INFJ": {
+    "avgAccuracy": 0.76, "avgXP": 6380,
+    "strongCategory": "art", "weakCategory": "tech",
+    "categoryAvg": {
+      "general": 0.74, "science": 0.70, "history": 0.78, "culture": 0.80,
+      "economy": 0.68, "life": 0.76, "tech": 0.62, "art": 0.88
+    }
+  },
+  "INFP": {
+    "avgAccuracy": 0.73, "avgXP": 5420,
+    "strongCategory": "art", "weakCategory": "economy",
+    "categoryAvg": {
+      "general": 0.71, "science": 0.65, "history": 0.75, "culture": 0.82,
+      "economy": 0.58, "life": 0.74, "tech": 0.63, "art": 0.90
+    }
+  },
+  "ENFJ": {
+    "avgAccuracy": 0.77, "avgXP": 6850,
+    "strongCategory": "culture", "weakCategory": "tech",
+    "categoryAvg": {
+      "general": 0.78, "science": 0.68, "history": 0.76, "culture": 0.88,
+      "economy": 0.72, "life": 0.80, "tech": 0.60, "art": 0.84
+    }
+  },
+  "ENFP": {
+    "avgAccuracy": 0.74, "avgXP": 5780,
+    "strongCategory": "culture", "weakCategory": "economy",
+    "categoryAvg": {
+      "general": 0.72, "science": 0.64, "history": 0.70, "culture": 0.87,
+      "economy": 0.59, "life": 0.78, "tech": 0.66, "art": 0.85
+    }
+  },
+  "ISTJ": {
+    "avgAccuracy": 0.78, "avgXP": 7890,
+    "strongCategory": "history", "weakCategory": "art",
+    "categoryAvg": {
+      "general": 0.83, "science": 0.76, "history": 0.88, "culture": 0.65,
+      "economy": 0.80, "life": 0.77, "tech": 0.74, "art": 0.60
+    }
+  },
+  "ISFJ": {
+    "avgAccuracy": 0.75, "avgXP": 6120,
+    "strongCategory": "general", "weakCategory": "tech",
+    "categoryAvg": {
+      "general": 0.86, "science": 0.68, "history": 0.82, "culture": 0.73,
+      "economy": 0.72, "life": 0.80, "tech": 0.58, "art": 0.72
+    }
+  },
+  "ESTJ": {
+    "avgAccuracy": 0.79, "avgXP": 8050,
+    "strongCategory": "general", "weakCategory": "art",
+    "categoryAvg": {
+      "general": 0.88, "science": 0.77, "history": 0.84, "culture": 0.68,
+      "economy": 0.82, "life": 0.76, "tech": 0.75, "art": 0.62
+    }
+  },
+  "ESFJ": {
+    "avgAccuracy": 0.74, "avgXP": 5650,
+    "strongCategory": "life", "weakCategory": "tech",
+    "categoryAvg": {
+      "general": 0.80, "science": 0.63, "history": 0.76, "culture": 0.78,
+      "economy": 0.70, "life": 0.85, "tech": 0.56, "art": 0.74
+    }
+  },
+  "ISTP": {
+    "avgAccuracy": 0.72, "avgXP": 5100,
+    "strongCategory": "tech", "weakCategory": "culture",
+    "categoryAvg": {
+      "general": 0.70, "science": 0.80, "history": 0.68, "culture": 0.58,
+      "economy": 0.72, "life": 0.74, "tech": 0.86, "art": 0.60
+    }
+  },
+  "ISFP": {
+    "avgAccuracy": 0.68, "avgXP": 4280,
+    "strongCategory": "art", "weakCategory": "economy",
+    "categoryAvg": {
+      "general": 0.65, "science": 0.58, "history": 0.66, "culture": 0.76,
+      "economy": 0.55, "life": 0.78, "tech": 0.57, "art": 0.86
+    }
+  },
+  "ESTP": {
+    "avgAccuracy": 0.70, "avgXP": 4750,
+    "strongCategory": "life", "weakCategory": "history",
+    "categoryAvg": {
+      "general": 0.72, "science": 0.68, "history": 0.58, "culture": 0.76,
+      "economy": 0.71, "life": 0.82, "tech": 0.74, "art": 0.63
+    }
+  },
+  "ESFP": {
+    "avgAccuracy": 0.67, "avgXP": 3980,
+    "strongCategory": "culture", "weakCategory": "science",
+    "categoryAvg": {
+      "general": 0.68, "science": 0.55, "history": 0.62, "culture": 0.84,
+      "economy": 0.60, "life": 0.80, "tech": 0.58, "art": 0.78
+    }
+  }
+}
