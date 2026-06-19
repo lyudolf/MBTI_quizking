@@ -1,9 +1,9 @@
 import { defineConfig } from "@apps-in-toss/web-framework/config";
 
 export default defineConfig({
-  appName: "quiz-master",
+  appName: "personality-quiz-king",
   brand: {
-    displayName: "MBTI 퀴즈왕",
+    displayName: "성격유형 퀴즈왕",
     primaryColor: "#3182F6",
     icon: "",
   },

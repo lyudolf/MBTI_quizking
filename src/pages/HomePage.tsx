@@ -3,6 +3,8 @@ import { useGameStore } from '../store/useGameStore';
 import { getRank, getNextRank, getRankProgress } from '../utils/rankSystem';
 import { CATEGORIES, Category } from '../types';
 import mbtiStats from '../data/mbtiStats.json';
+import { useRewardedAd } from '../hooks/useRewardedAd';
+import { Toast, useToast } from '../components/Toast';
 
 const RANK_ICONS: Record<string, string> = {
   bronze: '🥉', silver: '🥈', gold: '🥇',
@@ -55,8 +57,11 @@ export default function HomePage() {
   const {
     nickname, mbtiType, totalXP, rank, equippedTitle, tickets,
     wrongNotes, dailyChallengeCompleted, currentStreak,
-    categoryProgress, addAdTicket, unlockedTitles,
+    categoryProgress, addAdTicket, unlockedTitles, dailyAdTicketsUsed,
   } = useGameStore();
+
+  const { requestReward, loading: adLoading } = useRewardedAd();
+  const { message, showToast } = useToast();
 
   const rankInfo = getRank(totalXP);
   const nextRank = getNextRank(totalXP);
@@ -72,7 +77,7 @@ export default function HomePage() {
   const mbtiColor = mbtiType ? MBTI_GROUP_COLORS[mbtiType] : 'var(--color-primary)';
 
   return (
-    <div className="page" style={{ paddingBottom: '80px' }}>
+    <div className="page" style={{ paddingBottom: 'calc(96px + env(safe-area-inset-bottom, 0px))' }}>
       {/* Profile Section */}
       <div style={{ textAlign: 'center', padding: '16px 0 8px' }}>
         <div style={{ marginBottom: '8px' }}>
@@ -157,8 +162,24 @@ export default function HomePage() {
           <span className={`ticket-display ${tickets === 0 ? 'empty' : ''}`}>
             🎟️ {tickets}장
           </span>
-          <button className="btn btn-secondary btn-sm" onClick={() => addAdTicket()}>
-            📺 광고 보기
+          <button
+            className="btn btn-secondary btn-sm"
+            disabled={adLoading}
+            onClick={() => {
+              if (dailyAdTicketsUsed >= 3) {
+                showToast('오늘 받을 수 있는 광고 티켓을 다 받았어요.');
+                return;
+              }
+              requestReward({
+                onReward: () => {
+                  const ok = addAdTicket();
+                  showToast(ok ? '🎟️ 티켓 1장을 받았어요!' : '오늘 광고 티켓을 다 받았어요.');
+                },
+                onMessage: showToast,
+              });
+            }}
+          >
+            {adLoading ? '광고 불러오는 중...' : '📺 광고 보기'}
           </button>
         </div>
       </div>
@@ -260,6 +281,7 @@ export default function HomePage() {
         </div>
       </div>
 
+      <Toast message={message} />
       <BottomNav />
     </div>
   );

@@ -179,9 +179,8 @@ export default function WrongNotePage() {
 
   // Main wrong note list view
   return (
-    <div className="page" style={{ paddingBottom: '80px' }}>
+    <div className="page" style={{ paddingBottom: 'calc(96px + env(safe-area-inset-bottom, 0px))' }}>
       <div className="page-header">
-        <button className="back-btn" onClick={() => navigate('/home')}>←</button>
         <h1>오답노트</h1>
         <span className="badge badge-primary" style={{ marginLeft: 'auto' }}>
           {store.wrongNotes.length}개

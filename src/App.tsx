@@ -15,10 +15,12 @@ function AppRoutes() {
   const nickname = useGameStore((s) => s.nickname);
   const mbtiType = useGameStore((s) => s.mbtiType);
   const checkDailyReset = useGameStore((s) => s.checkDailyReset);
+  const ensureUserId = useGameStore((s) => s.ensureUserId);
 
   useEffect(() => {
+    ensureUserId();
     checkDailyReset();
-  }, [checkDailyReset]);
+  }, [ensureUserId, checkDailyReset]);
 
   const isOnboarded = nickname !== null && mbtiType !== null;
 

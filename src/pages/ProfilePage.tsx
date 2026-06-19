@@ -68,9 +68,8 @@ export default function ProfilePage() {
   const equippedTitleObj = store.equippedTitle ? getTitleById(store.equippedTitle) : null;
 
   return (
-    <div className="page" style={{ paddingBottom: '80px' }}>
+    <div className="page" style={{ paddingBottom: 'calc(96px + env(safe-area-inset-bottom, 0px))' }}>
       <div className="page-header">
-        <button className="back-btn" onClick={() => navigate('/home')}>←</button>
         <h1>프로필</h1>
       </div>
 
@@ -249,7 +248,7 @@ export default function ProfilePage() {
           닉네임 변경
         </button>
         <button className="btn btn-secondary btn-md" style={{ flex: 1 }} onClick={() => setEditMode('mbti')}>
-          MBTI 변경
+          성격유형 변경
         </button>
       </div>
 
@@ -284,7 +283,7 @@ export default function ProfilePage() {
       {editMode === 'mbti' && (
         <div className="modal-overlay" onClick={() => setEditMode(null)}>
           <div className="modal-content" onClick={(e) => e.stopPropagation()}>
-            <div className="modal-title">MBTI 변경</div>
+            <div className="modal-title">성격유형 변경</div>
             <div className="mbti-grid" style={{ marginBottom: '16px' }}>
               {['INTJ','INTP','ENTJ','ENTP','INFJ','INFP','ENFJ','ENFP','ISTJ','ISFJ','ESTJ','ESFJ','ISTP','ISFP','ESTP','ESFP'].map((type) => {
                 const group = getMbtiGroup(type);

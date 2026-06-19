@@ -2,3 +2,11 @@ node_modules
 dist
 .cursor
 *.log
+.env
+.env.local
+.env.*.local
+
+# build artifacts / local tooling
+*.ait
+.granite
+.claude

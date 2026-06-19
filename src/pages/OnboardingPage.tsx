@@ -126,10 +126,10 @@ export default function OnboardingPage() {
           <div style={{ textAlign: 'center', marginBottom: '24px' }}>
             <div style={{ fontSize: '48px', marginBottom: '16px' }}>🧠</div>
             <h1 style={{ fontSize: '24px', fontWeight: 800, marginBottom: '8px' }}>
-              MBTI를 선택해주세요
+              성격유형을 선택해주세요
             </h1>
             <p style={{ fontSize: '15px', color: 'var(--color-text-secondary)' }}>
-              {nickname}님의 MBTI 유형은 무엇인가요?
+              {nickname}님의 성격유형은 무엇인가요?
             </p>
           </div>
 

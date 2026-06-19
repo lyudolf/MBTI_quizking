@@ -1,8 +1,15 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect, useRef } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import { useGameStore } from '../store/useGameStore';
 import { getRank } from '../utils/rankSystem';
 import { getTitleById } from '../utils/titleSystem';
+import {
+  isRankingEnabled,
+  syncMyRanking,
+  fetchTopRanking,
+  fetchMyRank,
+  type RankingRow,
+} from '../lib/ranking';
 
 const MBTI_COLORS: Record<string, string> = {
   INTJ: '#8B5CF6', INTP: '#8B5CF6', ENTJ: '#8B5CF6', ENTP: '#8B5CF6',
@@ -10,39 +17,6 @@ const MBTI_COLORS: Record<string, string> = {
   ISTJ: '#3B82F6', ISFJ: '#3B82F6', ESTJ: '#3B82F6', ESFJ: '#3B82F6',
   ISTP: '#F59E0B', ISFP: '#F59E0B', ESTP: '#F59E0B', ESFP: '#F59E0B',
 };
-
-const SIMULATED_USERS = [
-  { nickname: '퀴즈천재김씨', mbti: 'ENTJ', xp: 52300, equippedTitle: '워렌버핏의 후계자' },
-  { nickname: '상식왕이다', mbti: 'INTJ', xp: 48100, equippedTitle: '아인슈타인의 후예' },
-  { nickname: '문과의자존심', mbti: 'INFJ', xp: 41200, equippedTitle: '시간여행자' },
-  { nickname: '호기심대마왕', mbti: 'ENTP', xp: 37800, equippedTitle: '실리콘밸리 인재' },
-  { nickname: '돌고래뇌섹', mbti: 'INTP', xp: 34500, equippedTitle: null },
-  { nickname: '지식흡수왕', mbti: 'ESTJ', xp: 29800, equippedTitle: null },
-  { nickname: '달빛지식인', mbti: 'INFP', xp: 25400, equippedTitle: '르네상스 영혼' },
-  { nickname: '새벽공부왕', mbti: 'ISTJ', xp: 21000, equippedTitle: null },
-  { nickname: '퀴즈러버88', mbti: 'ENFP', xp: 17600, equippedTitle: null },
-  { nickname: '브레인스톰', mbti: 'ENTJ', xp: 14200, equippedTitle: null },
-  { nickname: '상식덕후', mbti: 'ISFJ', xp: 11500, equippedTitle: null },
-  { nickname: '알쓸신잡팬', mbti: 'ENFJ', xp: 9200, equippedTitle: null },
-  { nickname: '궁금한고양이', mbti: 'ESFJ', xp: 7100, equippedTitle: null },
-  { nickname: '잡학다식맨', mbti: 'ISTP', xp: 5400, equippedTitle: null },
-  { nickname: '도전정신왕', mbti: 'ESTP', xp: 3800, equippedTitle: null },
-  { nickname: '초보퀴즈러', mbti: 'ISFP', xp: 2100, equippedTitle: null },
-  { nickname: '두뇌풀가동', mbti: 'INTJ', xp: 19500, equippedTitle: null },
-  { nickname: '지식탐험가', mbti: 'ENTP', xp: 12800, equippedTitle: null },
-  { nickname: '분석의달인', mbti: 'INTP', xp: 8900, equippedTitle: null },
-  { nickname: '논리왕자', mbti: 'ENTJ', xp: 6300, equippedTitle: null },
-  { nickname: '사색가', mbti: 'INFP', xp: 4200, equippedTitle: null },
-  { nickname: '첫도전중', mbti: 'ESFP', xp: 800, equippedTitle: null },
-  { nickname: '방금시작', mbti: 'ISFP', xp: 200, equippedTitle: null },
-  { nickname: '문화통달자', mbti: 'ENFJ', xp: 16400, equippedTitle: null },
-  { nickname: '역사매니아', mbti: 'ISTJ', xp: 13700, equippedTitle: null },
-  { nickname: '생활백서', mbti: 'ESFJ', xp: 10200, equippedTitle: null },
-  { nickname: '과학소년', mbti: 'ISTP', xp: 7800, equippedTitle: null },
-  { nickname: '호기심냥이', mbti: 'ENFP', xp: 6800, equippedTitle: null },
-  { nickname: '경제박사꿈', mbti: 'ESTJ', xp: 15300, equippedTitle: null },
-  { nickname: '예술의혼', mbti: 'ISFP', xp: 4800, equippedTitle: null },
-];
 
 const MBTI_TYPES = [
   'INTJ','INTP','ENTJ','ENTP',
@@ -191,43 +165,96 @@ function Podium({ entries }: { entries: RankEntry[] }) {
 }
 
 export default function RankingPage() {
-  const { mbtiType, totalXP, nickname, equippedTitle } = useGameStore();
+  const { userId, mbtiType, totalXP, nickname, equippedTitle } = useGameStore();
   const [filter, setFilter] = useState<string>('all');
+  const [rows, setRows] = useState<RankEntry[]>([]);
+  const [myRank, setMyRank] = useState<number>(0);
+  const [loading, setLoading] = useState<boolean>(true);
 
   const equippedTitleObj = equippedTitle ? getTitleById(equippedTitle) : null;
   const equippedTitleName = equippedTitleObj ? equippedTitleObj.name : null;
 
-  const allRanking = useMemo<RankEntry[]>(() => {
-    const me: RankEntry = {
-      nickname: nickname || '나',
-      mbti: mbtiType || '????',
-      xp: totalXP,
-      equippedTitle: equippedTitleName,
-      isMe: true,
+  // 내 점수는 한 번만 서버에 반영
+  const synced = useRef(false);
+
+  useEffect(() => {
+    let cancelled = false;
+
+    const load = async () => {
+      if (!isRankingEnabled()) {
+        setLoading(false);
+        return;
+      }
+      setLoading(true);
+
+      // 1) 내 최신 점수 upsert (최초 1회)
+      if (!synced.current && nickname && mbtiType) {
+        await syncMyRanking({
+          user_id: userId,
+          nickname,
+          mbti: mbtiType,
+          xp: totalXP,
+          equipped_title: equippedTitleName,
+        });
+        synced.current = true;
+      }
+
+      // 2) 상위 랭킹 + 내 정확한 순위 조회
+      //    내 순위는 통합이거나 "내 유형"일 때만 의미가 있음 (다른 유형엔 내가 없음)
+      const mbtiParam = filter === 'all' ? undefined : filter;
+      const myStanding = filter === 'all' || filter === mbtiType;
+      const [top, rank] = await Promise.all([
+        fetchTopRanking(100, mbtiParam),
+        myStanding ? fetchMyRank(totalXP, mbtiParam) : Promise.resolve(0),
+      ]);
+
+      if (cancelled) return;
+
+      const mapped: RankEntry[] = top.map((r: RankingRow) => ({
+        nickname: r.nickname,
+        mbti: r.mbti,
+        xp: r.xp,
+        equippedTitle: r.equipped_title,
+        isMe: r.user_id === userId,
+      }));
+
+      setRows(mapped);
+      setMyRank(rank);
+      setLoading(false);
     };
-    const others: RankEntry[] = SIMULATED_USERS.map((u) => ({ ...u, isMe: false }));
-    const all = [...others, me];
-    all.sort((a, b) => b.xp - a.xp);
-    return all;
-  }, [nickname, mbtiType, totalXP, equippedTitleName]);
 
-  const filteredRanking = useMemo(() => {
-    if (filter === 'all') return allRanking;
-    return allRanking.filter((r) => r.mbti === filter);
-  }, [allRanking, filter]);
+    load();
+    return () => {
+      cancelled = true;
+    };
+  }, [filter, userId, nickname, mbtiType, totalXP, equippedTitleName]);
 
-  const myRankAll = allRanking.findIndex((r) => r.isMe) + 1;
-  const myRankFiltered = filteredRanking.findIndex((r) => r.isMe) + 1;
-  const myRank = filter === 'all' ? myRankAll : myRankFiltered;
-  const totalCount = filteredRanking.length;
-
-  const top3 = filteredRanking.slice(0, 3);
-  const rest = filteredRanking.slice(3);
-
+  const iAmInList = useMemo(() => rows.some((r) => r.isMe), [rows]);
+  const top3 = rows.slice(0, 3);
+  const rest = rows.slice(3);
   const rank = getRank(totalXP);
+  // 내 순위 카드는 통합 또는 내 유형일 때만 (다른 유형 구경 시엔 숨김)
+  const showMyStanding = filter === 'all' || filter === mbtiType;
+
+  // 랭킹 서버 미연결 (환경변수 없음)
+  if (!isRankingEnabled()) {
+    return (
+      <div className="page" style={{ paddingBottom: 'calc(96px + env(safe-area-inset-bottom, 0px))' }}>
+        <div className="page-header">
+          <h1>🏆 랭킹</h1>
+        </div>
+        <div className="empty-state">
+          <div className="emoji">🛠️</div>
+          <div className="title">랭킹 준비 중</div>
+          <div className="desc">곧 실시간 랭킹으로 만나요!</div>
+        </div>
+        <BottomNav />
+      </div>
+    );
+  }
 
   return (
-    <div className="page" style={{ paddingBottom: '80px' }}>
+    <div className="page" style={{ paddingBottom: 'calc(96px + env(safe-area-inset-bottom, 0px))' }}>
       <div className="page-header">
         <h1>🏆 랭킹</h1>
       </div>
@@ -259,38 +286,82 @@ export default function RankingPage() {
         ))}
       </div>
 
-      {/* My Summary */}
-      <div style={{
-        background: 'linear-gradient(135deg, var(--color-primary), #60A5FA)',
-        borderRadius: 'var(--radius-lg)',
-        padding: '16px 20px',
-        color: 'white',
-        marginBottom: '16px',
-        display: 'flex', justifyContent: 'space-between', alignItems: 'center',
-      }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
-          <div style={{ fontSize: '32px' }}>{rank.icon}</div>
-          <div>
-            <div style={{ fontSize: '13px', opacity: 0.8 }}>
-              {filter === 'all' ? '통합 랭킹' : `${filter} 랭킹`}
+      {/* My Summary — 통합/내 유형일 때만 내 순위, 남의 유형이면 '구경 중' 카드 */}
+      {showMyStanding ? (
+        <div style={{
+          background: 'linear-gradient(135deg, var(--color-primary), #60A5FA)',
+          borderRadius: 'var(--radius-lg)',
+          padding: '16px 20px',
+          color: 'white',
+          marginBottom: '16px',
+          display: 'flex', justifyContent: 'space-between', alignItems: 'center',
+        }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
+            <div style={{ fontSize: '32px' }}>{rank.icon}</div>
+            <div>
+              <div style={{ fontSize: '13px', opacity: 0.8 }}>
+                {filter === 'all' ? '통합 랭킹' : `내 ${filter} 랭킹`}
+              </div>
+              <div style={{ fontSize: '28px', fontWeight: 900 }}>
+                {myRank > 0 ? (
+                  <>
+                    {myRank}<span style={{ fontSize: '14px', fontWeight: 400, opacity: 0.7 }}>위</span>
+                  </>
+                ) : (
+                  <span style={{ fontSize: '18px', fontWeight: 600 }}>순위 집계 중</span>
+                )}
+              </div>
             </div>
-            <div style={{ fontSize: '28px', fontWeight: 900 }}>
-              {myRank}<span style={{ fontSize: '14px', fontWeight: 400, opacity: 0.7 }}>위</span>
-              <span style={{ fontSize: '14px', fontWeight: 400, opacity: 0.5, marginLeft: '4px' }}>/ {totalCount}명</span>
+          </div>
+          <div style={{ textAlign: 'right' }}>
+            <div style={{ fontSize: '20px', fontWeight: 800 }}>{totalXP.toLocaleString()}</div>
+            <div style={{ fontSize: '12px', opacity: 0.7 }}>XP</div>
+          </div>
+        </div>
+      ) : (
+        <div style={{
+          background: 'var(--color-bg-secondary, #F1F5F9)',
+          borderRadius: 'var(--radius-lg)',
+          padding: '14px 20px',
+          marginBottom: '16px',
+          display: 'flex', alignItems: 'center', gap: '10px',
+        }}>
+          <div style={{ fontSize: '24px' }}>👀</div>
+          <div>
+            <div style={{ fontSize: '15px', fontWeight: 700, color: 'var(--color-text)' }}>
+              {filter} 유형 랭킹
+            </div>
+            <div style={{ fontSize: '12px', color: 'var(--color-text-secondary)' }}>
+              내 유형은 {mbtiType}예요 · 다른 유형 구경 중
             </div>
           </div>
         </div>
-        <div style={{ textAlign: 'right' }}>
-          <div style={{ fontSize: '20px', fontWeight: 800 }}>{totalXP.toLocaleString()}</div>
-          <div style={{ fontSize: '12px', opacity: 0.7 }}>XP</div>
+      )}
+
+      {/* Loading */}
+      {loading && (
+        <div style={{ textAlign: 'center', padding: '40px 0' }}>
+          <div style={{ fontSize: '40px', marginBottom: '12px', animation: 'pulse 1s ease-in-out infinite alternate' }}>🏆</div>
+          <p style={{ fontSize: '14px', color: 'var(--color-text-secondary)' }}>랭킹을 불러오는 중...</p>
         </div>
-      </div>
+      )}
+
+      {/* Empty */}
+      {!loading && rows.length === 0 && (
+        <div className="empty-state">
+          <div className="emoji">🥇</div>
+          <div className="title">
+            {filter === 'all' ? '아직 랭커가 없어요' : '해당 유형 유저가 없어요'}
+          </div>
+          <div className="desc">첫 번째 도전자가 되어보세요!</div>
+        </div>
+      )}
 
       {/* Top 3 Podium */}
-      {filteredRanking.length >= 3 && <Podium entries={top3} />}
+      {!loading && rows.length >= 3 && <Podium entries={top3} />}
 
       {/* Rest of Ranking (4th+) */}
-      {rest.length > 0 && (
+      {!loading && rest.length > 0 && (
         <div className="section-card" style={{ padding: '4px 8px', overflow: 'visible' }}>
           {rest.map((entry, idx) => {
             const position = idx + 4;
@@ -301,13 +372,13 @@ export default function RankingPage() {
                 key={`${entry.nickname}-${idx}`}
                 style={{
                   display: 'flex', alignItems: 'center', gap: '10px',
-                  padding: '10px 4px',
-                  borderRadius: 'var(--radius-md)',
+                  boxSizing: 'border-box',
+                  width: '100%',
                   background: entry.isMe ? 'var(--color-primary-light, #EBF5FF)' : 'transparent',
-                  border: entry.isMe ? '2px solid var(--color-primary)' : 'none',
-                  borderBottom: !entry.isMe ? '1px solid var(--color-divider, #f0f0f0)' : 'none',
-                  margin: entry.isMe ? '6px -4px' : '0',
-                  padding: entry.isMe ? '10px 8px' : '10px 4px',
+                  borderLeft: entry.isMe ? '4px solid var(--color-primary)' : '4px solid transparent',
+                  borderBottom: '1px solid var(--color-divider, #f0f0f0)',
+                  margin: '0',
+                  padding: '10px 8px',
                 }}
               >
                 <div style={{
@@ -366,23 +437,18 @@ export default function RankingPage() {
         </div>
       )}
 
-      {filteredRanking.length === 0 && (
-        <div className="empty-state">
-          <div className="emoji">🏆</div>
-          <div className="title">해당 MBTI 유저가 없어요</div>
+      {/* 상위 100명 밖일 때 안내 */}
+      {!loading && rows.length > 0 && !iAmInList && myRank > 0 && (
+        <div style={{
+          marginTop: '12px', padding: '10px 16px',
+          borderRadius: 'var(--radius-md)',
+          background: 'var(--color-bg-secondary, #F8F9FA)',
+          fontSize: '13px', color: 'var(--color-text-secondary)',
+          textAlign: 'center',
+        }}>
+          내 순위는 <b style={{ color: 'var(--color-primary)' }}>{myRank}위</b> 예요. 상위 100위 안에 도전해보세요! 💪
         </div>
       )}
-
-      {/* Info */}
-      <div style={{
-        marginTop: '12px', padding: '10px 16px',
-        borderRadius: 'var(--radius-md)',
-        background: 'var(--color-bg-secondary, #F8F9FA)',
-        fontSize: '12px', color: 'var(--color-text-tertiary)',
-        textAlign: 'center',
-      }}>
-        📌 시뮬레이션 랭킹 · 정식 출시 시 실시간 랭킹 전환
-      </div>
 
       <BottomNav />
     </div>

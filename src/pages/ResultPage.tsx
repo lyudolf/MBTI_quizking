@@ -3,7 +3,10 @@ import { useNavigate, useLocation } from 'react-router-dom';
 import { useGameStore } from '../store/useGameStore';
 import { CATEGORIES, Category } from '../types';
 import { calculateXP } from '../utils/xpCalculator';
-import { checkTitleUnlock } from '../utils/titleSystem';
+import { checkTitleUnlock, getTitleById } from '../utils/titleSystem';
+import { syncMyRanking } from '../lib/ranking';
+import { useRewardedAd } from '../hooks/useRewardedAd';
+import { Toast, useToast } from '../components/Toast';
 import mbtiStats from '../data/mbtiStats.json';
 import titlesData from '../data/titles.json';
 
@@ -54,11 +57,17 @@ function Confetti() {
 export default function ResultPage() {
   const navigate = useNavigate();
   const location = useLocation();
-  const { mbtiType, categoryProgress, unlockedTitles, addXP, equipTitle, tickets } = useGameStore();
+  const {
+    userId, nickname, mbtiType, equippedTitle,
+    totalXP: storeTotalXP,
+    categoryProgress, unlockedTitles, addXP, equipTitle, tickets,
+  } = useGameStore();
   const [showTitleModal, setShowTitleModal] = useState(false);
   const [newTitle, setNewTitle] = useState<typeof titlesData[number] | null>(null);
   const [xpAdded, setXpAdded] = useState(false);
   const [xpDoubled, setXpDoubled] = useState(false);
+  const { requestReward, loading: adLoading } = useRewardedAd();
+  const { message, showToast } = useToast();
 
   const state = location.state as LocationState | undefined;
 
@@ -113,6 +122,19 @@ export default function ResultPage() {
       }
     }
   }, [xpAdded, categoryProgress, unlockedTitles]);
+
+  // 누적 XP가 반영된 뒤(기본 + 광고 보너스 포함) 랭킹에 동기화
+  useEffect(() => {
+    if (!xpAdded || !userId || !nickname || !mbtiType) return;
+    const titleName = equippedTitle ? getTitleById(equippedTitle)?.name ?? null : null;
+    syncMyRanking({
+      user_id: userId,
+      nickname,
+      mbti: mbtiType,
+      xp: storeTotalXP,
+      equipped_title: titleName,
+    });
+  }, [xpAdded, storeTotalXP, userId, nickname, mbtiType, equippedTitle]);
 
   const wrongCount = results.filter((r) => !r.correct).length;
   const catInfo = CATEGORIES[category];
@@ -212,14 +234,19 @@ export default function ResultPage() {
             transition: 'transform var(--transition-fast)',
           }}
           onClick={() => {
-            // 실제 배포 시 @apps-in-toss/web-framework IAA API 호출
-            // MVP: 시뮬레이션
-            addXP(30);
-            setXpDoubled(true);
+            if (adLoading) return;
+            requestReward({
+              onReward: () => {
+                addXP(30);
+                setXpDoubled(true);
+                showToast('🎬 보너스 +30 XP 획득!');
+              },
+              onMessage: showToast,
+            });
           }}
         >
           <div style={{ fontSize: '20px', fontWeight: 800, color: '#7C4A00', marginBottom: '4px' }}>
-            🎬 광고 보고 보너스 XP 받기
+            {adLoading ? '광고 불러오는 중...' : '🎬 광고 보고 보너스 XP 받기'}
           </div>
           <div style={{ fontSize: '14px', color: '#9A6700' }}>
             +30 XP 추가 획득!
@@ -242,6 +269,8 @@ export default function ResultPage() {
           </div>
         </div>
       )}
+
+      <Toast message={message} />
 
       {/* Action Buttons */}
       <div style={{ display: 'flex', flexDirection: 'column', gap: '8px', marginTop: '16px' }}>

@@ -2,11 +2,15 @@ import { useState } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import { useGameStore } from '../store/useGameStore';
 import { CATEGORIES, Category } from '../types';
+import { useRewardedAd } from '../hooks/useRewardedAd';
+import { Toast, useToast } from '../components/Toast';
 
 export default function CategoryPage() {
   const navigate = useNavigate();
-  const { tickets, categoryProgress, useTicket, addAdTicket } = useGameStore();
+  const { tickets, categoryProgress, useTicket, addAdTicket, dailyAdTicketsUsed } = useGameStore();
   const [showModal, setShowModal] = useState(false);
+  const { requestReward, loading: adLoading } = useRewardedAd();
+  const { message, showToast } = useToast();
 
   const handleCategorySelect = (category: Category) => {
     if (tickets > 0) {
@@ -18,19 +22,30 @@ export default function CategoryPage() {
   };
 
   const handleAdTicket = () => {
-    const success = addAdTicket();
-    if (success) {
-      setShowModal(false);
+    if (dailyAdTicketsUsed >= 3) {
+      showToast('오늘 받을 수 있는 광고 티켓을 다 받았어요.');
+      return;
     }
+    requestReward({
+      onReward: () => {
+        const ok = addAdTicket();
+        if (ok) {
+          setShowModal(false);
+          showToast('🎟️ 티켓 1장을 받았어요!');
+        } else {
+          showToast('오늘 광고 티켓을 다 받았어요.');
+        }
+      },
+      onMessage: showToast,
+    });
   };
 
   const categories = Object.entries(CATEGORIES) as [Category, { name: string; icon: string }][];
 
   return (
-    <div className="page" style={{ paddingBottom: '80px' }}>
+    <div className="page" style={{ paddingBottom: 'calc(96px + env(safe-area-inset-bottom, 0px))' }}>
       {/* Header */}
       <div className="page-header">
-        <button className="back-btn" onClick={() => navigate('/home')}>←</button>
         <h1>카테고리 선택</h1>
         <div style={{ marginLeft: 'auto' }}>
           <span className={`ticket-display ${tickets === 0 ? 'empty' : ''}`}>
@@ -96,8 +111,8 @@ export default function CategoryPage() {
               광고를 보고 무료 티켓을 받아보세요!
             </p>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
-              <button className="btn btn-primary btn-lg" onClick={handleAdTicket}>
-                📺 광고 보고 티켓 받기
+              <button className="btn btn-primary btn-lg" disabled={adLoading} onClick={handleAdTicket}>
+                {adLoading ? '광고 불러오는 중...' : '📺 광고 보고 티켓 받기'}
               </button>
               <button className="btn btn-secondary btn-lg" onClick={() => setShowModal(false)}>
                 닫기
@@ -106,6 +121,8 @@ export default function CategoryPage() {
           </div>
         </div>
       )}
+
+      <Toast message={message} />
 
       {/* Bottom Nav */}
       <nav className="bottom-nav">

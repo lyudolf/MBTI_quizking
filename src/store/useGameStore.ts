@@ -9,6 +9,18 @@ import { checkAndResetDaily, getTodayKST } from '../utils/dailyReset';
 const DAILY_FREE_TICKETS = 3;
 const MAX_AD_TICKETS = 3;
 
+/** 랭킹에서 유저를 식별하기 위한 안정적 ID 생성 (Toss 인증 붙이면 교체) */
+function generateUserId(): string {
+  try {
+    if (typeof crypto !== 'undefined' && 'randomUUID' in crypto) {
+      return crypto.randomUUID();
+    }
+  } catch {
+    // ignore
+  }
+  return `u_${Date.now().toString(36)}_${Math.random().toString(36).slice(2, 10)}`;
+}
+
 function createInitialCategoryProgress(): Record<Category, CategoryProgress> {
   const progress = {} as Record<Category, CategoryProgress>;
   for (const key of Object.keys(CATEGORIES) as Category[]) {
@@ -22,6 +34,7 @@ function createInitialCategoryProgress(): Record<Category, CategoryProgress> {
 }
 
 export interface GameState {
+  userId: string;
   nickname: string | null;
   mbtiType: string | null;
   totalXP: number;
@@ -53,9 +66,11 @@ interface GameActions {
   updateNickname: (name: string) => void;
   updateMbtiType: (type: string) => void;
   checkDailyReset: () => void;
+  ensureUserId: () => void;
 }
 
 const initialState: GameState = {
+  userId: '',
   nickname: null,
   mbtiType: null,
   totalXP: 0,
@@ -217,6 +232,12 @@ export const useGameStore = create<GameState & GameActions>()(
         const updates = checkAndResetDaily(state);
         if (updates) {
           set(updates);
+        }
+      },
+
+      ensureUserId: () => {
+        if (!get().userId) {
+          set({ userId: generateUserId() });
         }
       },
     }),
