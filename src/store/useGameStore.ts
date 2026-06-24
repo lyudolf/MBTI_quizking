@@ -5,6 +5,7 @@ import { CATEGORIES } from '../types';
 import { getRank } from '../utils/rankSystem';
 import { checkTitleUnlock } from '../utils/titleSystem';
 import { checkAndResetDaily, getTodayKST } from '../utils/dailyReset';
+import { rewardForDay } from '../utils/attendanceReward';
 
 const DAILY_FREE_TICKETS = 3;
 const MAX_AD_TICKETS = 3;
@@ -50,6 +51,8 @@ export interface GameState {
   lastPlayDate: string;
   currentStreak: number;
   longestStreak: number;
+  /** 받을 출석 보상이 있는 날(누적 출석일). 0 = 없음 → 팝업 표시용 */
+  pendingAttendanceDay: number;
 }
 
 interface GameActions {
@@ -67,6 +70,7 @@ interface GameActions {
   updateMbtiType: (type: string) => void;
   checkDailyReset: () => void;
   ensureUserId: () => void;
+  dismissAttendanceReward: () => void;
 }
 
 const initialState: GameState = {
@@ -86,6 +90,7 @@ const initialState: GameState = {
   lastPlayDate: getTodayKST(),
   currentStreak: 1,
   longestStreak: 1,
+  pendingAttendanceDay: 0,
 };
 
 export const useGameStore = create<GameState & GameActions>()(
@@ -232,6 +237,16 @@ export const useGameStore = create<GameState & GameActions>()(
         const updates = checkAndResetDaily(state);
         if (updates) {
           set(updates);
+          // 새로운 날 → 출석 보상 자동 지급 + 팝업용 플래그
+          const day = updates.currentStreak ?? get().currentStreak;
+          const reward = rewardForDay(day);
+          if (reward.tickets > 0) {
+            set((s) => ({ tickets: s.tickets + reward.tickets }));
+          }
+          if (reward.xp > 0) {
+            get().addXP(reward.xp);
+          }
+          set({ pendingAttendanceDay: day });
         }
       },
 
@@ -239,6 +254,10 @@ export const useGameStore = create<GameState & GameActions>()(
         if (!get().userId) {
           set({ userId: generateUserId() });
         }
+      },
+
+      dismissAttendanceReward: () => {
+        set({ pendingAttendanceDay: 0 });
       },
     }),
     {

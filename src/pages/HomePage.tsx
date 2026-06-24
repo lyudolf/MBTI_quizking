@@ -4,7 +4,9 @@ import { getRank, getNextRank, getRankProgress } from '../utils/rankSystem';
 import { CATEGORIES, Category } from '../types';
 import mbtiStats from '../data/mbtiStats.json';
 import { useRewardedAd } from '../hooks/useRewardedAd';
+import { AD_GROUP } from '../lib/ads';
 import { Toast, useToast } from '../components/Toast';
+import { calendarRewards, cyclePosition } from '../utils/attendanceReward';
 
 const RANK_ICONS: Record<string, string> = {
   bronze: '🥉', silver: '🥈', gold: '🥇',
@@ -60,7 +62,7 @@ export default function HomePage() {
     categoryProgress, addAdTicket, unlockedTitles, dailyAdTicketsUsed,
   } = useGameStore();
 
-  const { requestReward, loading: adLoading } = useRewardedAd();
+  const { requestReward, loading: adLoading } = useRewardedAd(AD_GROUP.ticket);
   const { message, showToast } = useToast();
 
   const rankInfo = getRank(totalXP);
@@ -105,7 +107,7 @@ export default function HomePage() {
             {RANK_NAMES[rank] || '브론즈'}
           </span>
           {currentStreak > 0 && (
-            <span className="streak-badge">🔥 {currentStreak}일 연속</span>
+            <span className="streak-badge">🔥 {currentStreak}일 출석</span>
           )}
         </div>
         {equippedTitle && (
@@ -182,6 +184,48 @@ export default function HomePage() {
             {adLoading ? '광고 불러오는 중...' : '📺 광고 보기'}
           </button>
         </div>
+      </div>
+
+      {/* 출석 보상 */}
+      <div className="section-card">
+        <div className="section-card-header">
+          <span className="section-card-title">📅 출석 보상</span>
+          <span style={{ fontSize: '13px', color: 'var(--color-text-secondary)' }}>출석 {currentStreak}일째</span>
+        </div>
+        <div style={{ display: 'flex', gap: '5px', marginTop: '10px' }}>
+          {calendarRewards().map((r, i) => {
+            const pos = i + 1;
+            const cur = cyclePosition(currentStreak);
+            const done = pos < cur;
+            const isToday = pos === cur;
+            return (
+              <div
+                key={pos}
+                style={{
+                  flex: 1,
+                  textAlign: 'center',
+                  padding: '8px 2px',
+                  borderRadius: 'var(--radius-md)',
+                  background: isToday
+                    ? 'var(--color-primary)'
+                    : done
+                      ? 'var(--color-primary-light, #EBF5FF)'
+                      : 'var(--color-bg-tertiary, #F1F5F9)',
+                  color: isToday ? '#fff' : 'var(--color-text)',
+                }}
+              >
+                <div style={{ fontSize: '10px', opacity: 0.75 }}>{pos}일</div>
+                <div style={{ fontSize: '12px', fontWeight: 700, marginTop: '2px' }}>
+                  {r.tickets > 0 ? `🎟️${r.tickets}` : `⭐${r.xp}`}
+                </div>
+                <div style={{ fontSize: '10px', height: '12px', marginTop: '1px' }}>{done ? '✓' : ''}</div>
+              </div>
+            );
+          })}
+        </div>
+        <p style={{ fontSize: '12px', color: 'var(--color-text-tertiary)', marginTop: '8px', textAlign: 'center' }}>
+          매일 접속하면 보상이 쌓여요
+        </p>
       </div>
 
       {/* Daily Challenge */}

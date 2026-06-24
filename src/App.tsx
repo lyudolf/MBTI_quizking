@@ -10,6 +10,7 @@ import ProfilePage from './pages/ProfilePage';
 import WrongNotePage from './pages/WrongNotePage';
 import DailyChallengePage from './pages/DailyChallengePage';
 import RankingPage from './pages/RankingPage';
+import { AttendanceModal } from './components/AttendanceModal';
 
 function AppRoutes() {
   const nickname = useGameStore((s) => s.nickname);
@@ -71,6 +72,7 @@ function App() {
   return (
     <HashRouter>
       <AppRoutes />
+      <AttendanceModal />
     </HashRouter>
   );
 }

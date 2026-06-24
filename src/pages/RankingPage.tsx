@@ -261,8 +261,8 @@ export default function RankingPage() {
 
       {/* Filter */}
       <div style={{
-        display: 'flex', gap: '6px', overflowX: 'auto',
-        padding: '0 0 12px', WebkitOverflowScrolling: 'touch',
+        display: 'flex', flexWrap: 'wrap', gap: '6px',
+        padding: '0 0 12px',
       }}>
         <button
           className={`btn ${filter === 'all' ? 'btn-primary' : 'btn-secondary'} btn-sm`}

@@ -6,6 +6,7 @@ import { calculateXP } from '../utils/xpCalculator';
 import { checkTitleUnlock, getTitleById } from '../utils/titleSystem';
 import { syncMyRanking } from '../lib/ranking';
 import { useRewardedAd } from '../hooks/useRewardedAd';
+import { AD_GROUP } from '../lib/ads';
 import { Toast, useToast } from '../components/Toast';
 import mbtiStats from '../data/mbtiStats.json';
 import titlesData from '../data/titles.json';
@@ -66,7 +67,7 @@ export default function ResultPage() {
   const [newTitle, setNewTitle] = useState<typeof titlesData[number] | null>(null);
   const [xpAdded, setXpAdded] = useState(false);
   const [xpDoubled, setXpDoubled] = useState(false);
-  const { requestReward, loading: adLoading } = useRewardedAd();
+  const { requestReward, loading: adLoading } = useRewardedAd(AD_GROUP.xp);
   const { message, showToast } = useToast();
 
   const state = location.state as LocationState | undefined;

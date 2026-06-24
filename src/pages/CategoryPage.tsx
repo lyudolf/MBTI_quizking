@@ -3,13 +3,14 @@ import { useNavigate, useLocation } from 'react-router-dom';
 import { useGameStore } from '../store/useGameStore';
 import { CATEGORIES, Category } from '../types';
 import { useRewardedAd } from '../hooks/useRewardedAd';
+import { AD_GROUP } from '../lib/ads';
 import { Toast, useToast } from '../components/Toast';
 
 export default function CategoryPage() {
   const navigate = useNavigate();
   const { tickets, categoryProgress, useTicket, addAdTicket, dailyAdTicketsUsed } = useGameStore();
   const [showModal, setShowModal] = useState(false);
-  const { requestReward, loading: adLoading } = useRewardedAd();
+  const { requestReward, loading: adLoading } = useRewardedAd(AD_GROUP.ticket);
   const { message, showToast } = useToast();
 
   const handleCategorySelect = (category: Category) => {

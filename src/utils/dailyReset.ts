@@ -39,20 +39,11 @@ export function getTodayKST(): string {
 }
 
 /**
- * 두 날짜 문자열(YYYY-MM-DD) 사이의 일수 차이 계산.
- * dateB - dateA 를 반환.
- */
-function daysBetween(dateA: string, dateB: string): number {
-  const a = new Date(dateA + 'T00:00:00');
-  const b = new Date(dateB + 'T00:00:00');
-  const diffMs = b.getTime() - a.getTime();
-  return Math.round(diffMs / (1000 * 60 * 60 * 24));
-}
-
-/**
  * 일일 초기화 확인 및 상태 업데이트 반환.
  * lastPlayDate와 오늘(KST)이 다르면 초기화 수행.
  * 변경이 없으면 null 반환.
+ *
+ * 출석은 "누적" — 하루 빠져도 끊기지 않고, 새로운 날 접속할 때마다 +1.
  */
 export function checkAndResetDaily(state: GameState): Partial<GameState> | null {
   const today = getTodayKST();
@@ -61,17 +52,8 @@ export function checkAndResetDaily(state: GameState): Partial<GameState> | null 
     return null;
   }
 
-  const gap = daysBetween(state.lastPlayDate, today);
-
-  let newStreak: number;
-  if (gap === 1) {
-    // 연속 출석
-    newStreak = state.currentStreak + 1;
-  } else {
-    // 하루 이상 빠짐 → 스트릭 리셋
-    newStreak = 1;
-  }
-
+  // 누적 출석 (하루 빠져도 리셋 안 함)
+  const newStreak = state.currentStreak + 1;
   const longestStreak = Math.max(state.longestStreak, newStreak);
 
   return {

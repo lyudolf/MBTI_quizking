@@ -108,7 +108,7 @@ export default function ProfilePage() {
         </div>
         <div className="profile-stat-item">
           <div className="value">{store.currentStreak}일</div>
-          <div className="label">연속 출석</div>
+          <div className="label">출석 일수</div>
         </div>
       </div>
 
